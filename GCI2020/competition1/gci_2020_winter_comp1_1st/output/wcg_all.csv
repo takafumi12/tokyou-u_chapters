@@ -1,0 +1,1310 @@
+Age,Cabin,Embarked,Fare,IsTrain,Name,Parch,PassengerId,Pclass,Sex,SibSp,Survived,Ticket,LastName,Gender,GroupId,TicketId,GroupMeanSurv,WCG
+22.0,,S,7.25,1,"Braund, Mr. Owen Harris",0,1,3,male,1,0.0,A/5 21171,Braund,man,no_group,3_A/5 2117_7.25_S,0.33741496598639453,0
+38.0,C85,C,71.2833,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",0,2,1,female,1,1.0,PC 17599,Cumings,woman,no_group,1_PC 1759_71.2833_C,0.33741496598639453,1
+26.0,,S,7.925,1,"Heikkinen, Miss. Laina",0,3,3,female,0,1.0,STON/O2. 3101282,Heikkinen,woman,no_group,3_STON/O2. 310128_7.925_S,0.33741496598639453,1
+35.0,C123,S,53.1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",0,4,1,female,1,1.0,113803,Futrelle,woman,no_group,1_11380_53.1_S,0.33741496598639453,1
+35.0,,S,8.05,1,"Allen, Mr. William Henry",0,5,3,male,0,0.0,373450,Allen,man,no_group,3_37345_8.05_S,0.33741496598639453,0
+,,Q,8.4583,1,"Moran, Mr. James",0,6,3,male,0,0.0,330877,Moran,man,no_group,3_33087_8.4583_Q,0.33741496598639453,0
+54.0,E46,S,51.8625,1,"McCarthy, Mr. Timothy J",0,7,1,male,0,0.0,17463,McCarthy,man,no_group,1_1746_51.8625_S,0.33741496598639453,0
+2.0,,S,21.075,1,"Palsson, Master. Gosta Leonard",1,8,3,male,3,0.0,349909,Palsson,boy,Palsson_3_34990_21.075_S,3_34990_21.075_S,0.0,0
+27.0,,S,11.1333,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",2,9,3,female,0,1.0,347742,Johnson,woman,Johnson_3_34774_11.1333_S,3_34774_11.1333_S,1.0,1
+14.0,,C,30.0708,1,"Nasser, Mrs. Nicholas (Adele Achem)",0,10,2,female,1,1.0,237736,Nasser,woman,no_group,2_23773_30.0708_C,0.33741496598639453,1
+4.0,G6,S,16.7,1,"Sandstrom, Miss. Marguerite Rut",1,11,3,female,1,1.0,PP 9549,Sandstrom,woman,Sandstrom_3_PP 954_16.7_S,3_PP 954_16.7_S,1.0,1
+58.0,C103,S,26.55,1,"Bonnell, Miss. Elizabeth",0,12,1,female,0,1.0,113783,Bonnell,woman,no_group,1_11378_26.55_S,0.33741496598639453,1
+20.0,,S,8.05,1,"Saundercock, Mr. William Henry",0,13,3,male,0,0.0,A/5. 2151,Saundercock,man,no_group,3_A/5. 215_8.05_S,0.33741496598639453,0
+39.0,,S,31.275,1,"Andersson, Mr. Anders Johan",5,14,3,male,1,0.0,347082,Andersson,man,no_group,3_34708_31.275_S,0.33741496598639453,0
+14.0,,S,7.8542,1,"Vestrom, Miss. Hulda Amanda Adolfina",0,15,3,female,0,0.0,350406,Vestrom,woman,no_group,3_35040_7.8542_S,0.33741496598639453,1
+55.0,,S,16.0,1,"Hewlett, Mrs. (Mary D Kingcome) ",0,16,2,female,0,1.0,248706,Hewlett,woman,no_group,2_24870_16.0_S,0.33741496598639453,1
+2.0,,Q,29.125,1,"Rice, Master. Eugene",1,17,3,male,4,0.0,382652,Rice,boy,Rice_3_38265_29.125_Q,3_38265_29.125_Q,0.0,0
+,,S,13.0,1,"Williams, Mr. Charles Eugene",0,18,2,male,0,1.0,244373,Williams,man,no_group,2_24437_13.0_S,0.33741496598639453,0
+31.0,,S,18.0,1,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",0,19,3,female,1,0.0,345763,Vander Planke,woman,Vander Planke_3_34576_18.0_S,3_34576_18.0_S,0.0,0
+,,C,7.225,1,"Masselmani, Mrs. Fatima",0,20,3,female,0,1.0,2649,Masselmani,woman,no_group,3_264_7.225_C,0.33741496598639453,1
+35.0,,S,26.0,1,"Fynney, Mr. Joseph J",0,21,2,male,0,0.0,239865,Fynney,man,no_group,2_23986_26.0_S,0.33741496598639453,0
+34.0,D56,S,13.0,1,"Beesley, Mr. Lawrence",0,22,2,male,0,1.0,248698,Beesley,man,no_group,2_24869_13.0_S,0.33741496598639453,0
+15.0,,Q,8.0292,1,"McGowan, Miss. Anna ""Annie""",0,23,3,female,0,1.0,330923,McGowan,woman,no_group,3_33092_8.0292_Q,0.33741496598639453,1
+28.0,A6,S,35.5,1,"Sloper, Mr. William Thompson",0,24,1,male,0,1.0,113788,Sloper,man,no_group,1_11378_35.5_S,0.33741496598639453,0
+8.0,,S,21.075,1,"Palsson, Miss. Torborg Danira",1,25,3,female,3,0.0,349909,Palsson,woman,Palsson_3_34990_21.075_S,3_34990_21.075_S,0.0,0
+38.0,,S,31.3875,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",5,26,3,female,1,1.0,347077,Asplund,woman,Asplund_3_34707_31.3875_S,3_34707_31.3875_S,0.75,1
+,,C,7.225,1,"Emir, Mr. Farred Chehab",0,27,3,male,0,0.0,2631,Emir,man,no_group,3_263_7.225_C,0.33741496598639453,0
+19.0,C23 C25 C27,S,263.0,1,"Fortune, Mr. Charles Alexander",2,28,1,male,3,0.0,19950,Fortune,man,no_group,1_1995_263.0_S,0.33741496598639453,0
+,,Q,7.8792,1,"O'Dwyer, Miss. Ellen ""Nellie""",0,29,3,female,0,1.0,330959,O'Dwyer,woman,no_group,3_33095_7.8792_Q,0.33741496598639453,1
+,,S,7.8958,1,"Todoroff, Mr. Lalio",0,30,3,male,0,0.0,349216,Todoroff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+40.0,,C,27.7208,1,"Uruchurtu, Don. Manuel E",0,31,1,male,0,0.0,PC 17601,Uruchurtu,man,no_group,1_PC 1760_27.7208_C,0.33741496598639453,0
+,B78,C,146.5208,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",0,32,1,female,1,1.0,PC 17569,Spencer,woman,no_group,1_PC 1756_146.5208_C,0.33741496598639453,1
+,,Q,7.75,1,"Glynn, Miss. Mary Agatha",0,33,3,female,0,1.0,335677,Glynn,woman,no_group,3_33567_7.75_Q,0.33741496598639453,1
+66.0,,S,10.5,1,"Wheadon, Mr. Edward H",0,34,2,male,0,0.0,C.A. 24579,Wheadon,man,no_group,2_C.A. 2457_10.5_S,0.33741496598639453,0
+28.0,,C,82.1708,1,"Meyer, Mr. Edgar Joseph",0,35,1,male,1,0.0,PC 17604,Meyer,man,no_group,1_PC 1760_82.1708_C,0.33741496598639453,0
+42.0,,S,52.0,1,"Holverson, Mr. Alexander Oskar",0,36,1,male,1,0.0,113789,Holverson,man,no_group,1_11378_52.0_S,0.33741496598639453,0
+,,C,7.2292,1,"Mamee, Mr. Hanna",0,37,3,male,0,1.0,2677,Mamee,man,no_group,3_267_7.2292_C,0.33741496598639453,0
+21.0,,S,8.05,1,"Cann, Mr. Ernest Charles",0,38,3,male,0,0.0,A./5. 2152,Cann,man,no_group,3_A./5. 215_8.05_S,0.33741496598639453,0
+18.0,,S,18.0,1,"Vander Planke, Miss. Augusta Maria",0,39,3,female,2,0.0,345764,Vander Planke,woman,Vander Planke_3_34576_18.0_S,3_34576_18.0_S,0.0,0
+14.0,,C,11.2417,1,"Nicola-Yarred, Miss. Jamila",0,40,3,female,1,1.0,2651,Nicola-Yarred,woman,Nicola-Yarred_3_265_11.2417_C,3_265_11.2417_C,1.0,1
+40.0,,S,9.475,1,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",0,41,3,female,1,0.0,7546,Ahlin,woman,no_group,3_754_9.475_S,0.33741496598639453,1
+27.0,,S,21.0,1,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",0,42,2,female,1,0.0,11668,Turpin,woman,no_group,2_1166_21.0_S,0.33741496598639453,1
+,,C,7.8958,1,"Kraeff, Mr. Theodor",0,43,3,male,0,0.0,349253,Kraeff,man,no_group,3_34925_7.8958_C,0.33741496598639453,0
+3.0,,C,41.5792,1,"Laroche, Miss. Simonne Marie Anne Andree",2,44,2,female,1,1.0,SC/Paris 2123,Laroche,woman,Laroche_2_SC/Paris 212_41.5792_C,2_SC/Paris 212_41.5792_C,1.0,1
+19.0,,Q,7.8792,1,"Devaney, Miss. Margaret Delia",0,45,3,female,0,1.0,330958,Devaney,woman,no_group,3_33095_7.8792_Q,0.33741496598639453,1
+,,S,8.05,1,"Rogers, Mr. William John",0,46,3,male,0,0.0,S.C./A.4. 23567,Rogers,man,no_group,3_S.C./A.4. 2356_8.05_S,0.33741496598639453,0
+,,Q,15.5,1,"Lennon, Mr. Denis",0,47,3,male,1,0.0,370371,Lennon,man,no_group,3_37037_15.5_Q,0.33741496598639453,0
+,,Q,7.75,1,"O'Driscoll, Miss. Bridget",0,48,3,female,0,1.0,14311,O'Driscoll,woman,no_group,3_1431_7.75_Q,0.33741496598639453,1
+,,C,21.6792,1,"Samaan, Mr. Youssef",0,49,3,male,2,0.0,2662,Samaan,man,no_group,3_266_21.6792_C,0.33741496598639453,0
+18.0,,S,17.8,1,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",0,50,3,female,1,0.0,349237,Arnold-Franchi,woman,no_group,3_34923_17.8_S,0.33741496598639453,1
+7.0,,S,39.6875,1,"Panula, Master. Juha Niilo",1,51,3,male,4,0.0,3101295,Panula,boy,Panula_3_310129_39.6875_S,3_310129_39.6875_S,0.0,0
+21.0,,S,7.8,1,"Nosworthy, Mr. Richard Cater",0,52,3,male,0,0.0,A/4. 39886,Nosworthy,man,no_group,3_A/4. 3988_7.8_S,0.33741496598639453,0
+49.0,D33,C,76.7292,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",0,53,1,female,1,1.0,PC 17572,Harper,woman,no_group,1_PC 1757_76.7292_C,0.33741496598639453,1
+29.0,,S,26.0,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",0,54,2,female,1,1.0,2926,Faunthorpe,woman,no_group,2_292_26.0_S,0.33741496598639453,1
+65.0,B30,C,61.9792,1,"Ostby, Mr. Engelhart Cornelius",1,55,1,male,0,0.0,113509,Ostby,man,no_group,1_11350_61.9792_C,0.33741496598639453,0
+,C52,S,35.5,1,"Woolner, Mr. Hugh",0,56,1,male,0,1.0,19947,Woolner,man,no_group,1_1994_35.5_S,0.33741496598639453,0
+21.0,,S,10.5,1,"Rugg, Miss. Emily",0,57,2,female,0,1.0,C.A. 31026,Rugg,woman,no_group,2_C.A. 3102_10.5_S,0.33741496598639453,1
+28.5,,C,7.2292,1,"Novel, Mr. Mansouer",0,58,3,male,0,0.0,2697,Novel,man,no_group,3_269_7.2292_C,0.33741496598639453,0
+5.0,,S,27.75,1,"West, Miss. Constance Mirium",2,59,2,female,1,1.0,C.A. 34651,West,woman,West_2_C.A. 3465_27.75_S,2_C.A. 3465_27.75_S,1.0,1
+11.0,,S,46.9,1,"Goodwin, Master. William Frederick",2,60,3,male,5,0.0,CA 2144,Goodwin,boy,Goodwin_3_CA 214_46.9_S,3_CA 214_46.9_S,0.0,0
+22.0,,C,7.2292,1,"Sirayanian, Mr. Orsen",0,61,3,male,0,0.0,2669,Sirayanian,man,no_group,3_266_7.2292_C,0.33741496598639453,0
+38.0,B28,,80.0,1,"Icard, Miss. Amelie",0,62,1,female,0,1.0,113572,Icard,woman,no_group,1_11357_80.0_nan,0.33741496598639453,1
+45.0,C83,S,83.475,1,"Harris, Mr. Henry Birkhardt",0,63,1,male,1,0.0,36973,Harris,man,no_group,1_3697_83.475_S,0.33741496598639453,0
+4.0,,S,27.9,1,"Skoog, Master. Harald",2,64,3,male,3,0.0,347088,Skoog,boy,Skoog_3_34708_27.9_S,3_34708_27.9_S,0.0,0
+,,C,27.7208,1,"Stewart, Mr. Albert A",0,65,1,male,0,0.0,PC 17605,Stewart,man,no_group,1_PC 1760_27.7208_C,0.33741496598639453,0
+,,C,15.2458,1,"Moubarek, Master. Gerios",1,66,3,male,1,1.0,2661,Moubarek,boy,Moubarek_3_266_15.2458_C,3_266_15.2458_C,1.0,1
+29.0,F33,S,10.5,1,"Nye, Mrs. (Elizabeth Ramell)",0,67,2,female,0,1.0,C.A. 29395,Nye,woman,no_group,2_C.A. 2939_10.5_S,0.33741496598639453,1
+19.0,,S,8.1583,1,"Crease, Mr. Ernest James",0,68,3,male,0,0.0,S.P. 3464,Crease,man,no_group,3_S.P. 346_8.1583_S,0.33741496598639453,0
+17.0,,S,7.925,1,"Andersson, Miss. Erna Alexandra",2,69,3,female,4,1.0,3101281,Andersson,woman,no_group,3_310128_7.925_S,0.33741496598639453,1
+26.0,,S,8.6625,1,"Kink, Mr. Vincenz",0,70,3,male,2,0.0,315151,Kink,man,no_group,3_31515_8.6625_S,0.33741496598639453,0
+32.0,,S,10.5,1,"Jenkin, Mr. Stephen Curnow",0,71,2,male,0,0.0,C.A. 33111,Jenkin,man,no_group,2_C.A. 3311_10.5_S,0.33741496598639453,0
+16.0,,S,46.9,1,"Goodwin, Miss. Lillian Amy",2,72,3,female,5,0.0,CA 2144,Goodwin,woman,Goodwin_3_CA 214_46.9_S,3_CA 214_46.9_S,0.0,0
+21.0,,S,73.5,1,"Hood, Mr. Ambrose Jr",0,73,2,male,0,0.0,S.O.C. 14879,Hood,man,no_group,2_S.O.C. 1487_73.5_S,0.33741496598639453,0
+26.0,,C,14.4542,1,"Chronopoulos, Mr. Apostolos",0,74,3,male,1,0.0,2680,Chronopoulos,man,no_group,3_268_14.4542_C,0.33741496598639453,0
+32.0,,S,56.4958,1,"Bing, Mr. Lee",0,75,3,male,0,1.0,1601,Bing,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+25.0,F G73,S,7.65,1,"Moen, Mr. Sigurd Hansen",0,76,3,male,0,0.0,348123,Moen,man,no_group,3_34812_7.65_S,0.33741496598639453,0
+,,S,7.8958,1,"Staneff, Mr. Ivan",0,77,3,male,0,0.0,349208,Staneff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+,,S,8.05,1,"Moutal, Mr. Rahamin Haim",0,78,3,male,0,0.0,374746,Moutal,man,no_group,3_37474_8.05_S,0.33741496598639453,0
+0.83,,S,29.0,1,"Caldwell, Master. Alden Gates",2,79,2,male,0,1.0,248738,Caldwell,boy,Caldwell_2_24873_29.0_S,2_24873_29.0_S,1.0,1
+30.0,,S,12.475,1,"Dowdell, Miss. Elizabeth",0,80,3,female,0,1.0,364516,Dowdell,woman,no_group,3_36451_12.475_S,0.33741496598639453,1
+22.0,,S,9.0,1,"Waelens, Mr. Achille",0,81,3,male,0,0.0,345767,Waelens,man,no_group,3_34576_9.0_S,0.33741496598639453,0
+29.0,,S,9.5,1,"Sheerlinck, Mr. Jan Baptist",0,82,3,male,0,1.0,345779,Sheerlinck,man,no_group,3_34577_9.5_S,0.33741496598639453,0
+,,Q,7.7875,1,"McDermott, Miss. Brigdet Delia",0,83,3,female,0,1.0,330932,McDermott,woman,no_group,3_33093_7.7875_Q,0.33741496598639453,1
+28.0,,S,47.1,1,"Carrau, Mr. Francisco M",0,84,1,male,0,0.0,113059,Carrau,man,no_group,1_11305_47.1_S,0.33741496598639453,0
+17.0,,S,10.5,1,"Ilett, Miss. Bertha",0,85,2,female,0,1.0,SO/C 14885,Ilett,woman,no_group,2_SO/C 1488_10.5_S,0.33741496598639453,1
+33.0,,S,15.85,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",0,86,3,female,3,1.0,3101278,Backstrom,woman,no_group,3_310127_15.85_S,0.33741496598639453,1
+16.0,,S,34.375,1,"Ford, Mr. William Neal",3,87,3,male,1,0.0,W./C. 6608,Ford,man,no_group,3_W./C. 660_34.375_S,0.33741496598639453,0
+,,S,8.05,1,"Slocovski, Mr. Selman Francis",0,88,3,male,0,0.0,SOTON/OQ 392086,Slocovski,man,no_group,3_SOTON/OQ 39208_8.05_S,0.33741496598639453,0
+23.0,C23 C25 C27,S,263.0,1,"Fortune, Miss. Mabel Helen",2,89,1,female,3,1.0,19950,Fortune,woman,Fortune_1_1995_263.0_S,1_1995_263.0_S,1.0,1
+24.0,,S,8.05,1,"Celotti, Mr. Francesco",0,90,3,male,0,0.0,343275,Celotti,man,no_group,3_34327_8.05_S,0.33741496598639453,0
+29.0,,S,8.05,1,"Christmann, Mr. Emil",0,91,3,male,0,0.0,343276,Christmann,man,no_group,3_34327_8.05_S,0.33741496598639453,0
+20.0,,S,7.8542,1,"Andreasson, Mr. Paul Edvin",0,92,3,male,0,0.0,347466,Andreasson,man,no_group,3_34746_7.8542_S,0.33741496598639453,0
+46.0,E31,S,61.175,1,"Chaffee, Mr. Herbert Fuller",0,93,1,male,1,0.0,W.E.P. 5734,Chaffee,man,no_group,1_W.E.P. 573_61.175_S,0.33741496598639453,0
+26.0,,S,20.575,1,"Dean, Mr. Bertram Frank",2,94,3,male,1,0.0,C.A. 2315,Dean,man,no_group,3_C.A. 231_20.575_S,0.33741496598639453,0
+59.0,,S,7.25,1,"Coxon, Mr. Daniel",0,95,3,male,0,0.0,364500,Coxon,man,no_group,3_36450_7.25_S,0.33741496598639453,0
+,,S,8.05,1,"Shorney, Mr. Charles Joseph",0,96,3,male,0,0.0,374910,Shorney,man,no_group,3_37491_8.05_S,0.33741496598639453,0
+71.0,A5,C,34.6542,1,"Goldschmidt, Mr. George B",0,97,1,male,0,0.0,PC 17754,Goldschmidt,man,no_group,1_PC 1775_34.6542_C,0.33741496598639453,0
+23.0,D10 D12,C,63.3583,1,"Greenfield, Mr. William Bertram",1,98,1,male,0,1.0,PC 17759,Greenfield,man,no_group,1_PC 1775_63.3583_C,0.33741496598639453,0
+34.0,,S,23.0,1,"Doling, Mrs. John T (Ada Julia Bone)",1,99,2,female,0,1.0,231919,Doling,woman,Doling_2_23191_23.0_S,2_23191_23.0_S,1.0,1
+34.0,,S,26.0,1,"Kantor, Mr. Sinai",0,100,2,male,1,0.0,244367,Kantor,man,no_group,2_24436_26.0_S,0.33741496598639453,0
+28.0,,S,7.8958,1,"Petranec, Miss. Matilda",0,101,3,female,0,0.0,349245,Petranec,woman,no_group,3_34924_7.8958_S,0.33741496598639453,1
+,,S,7.8958,1,"Petroff, Mr. Pastcho (""Pentcho"")",0,102,3,male,0,0.0,349215,Petroff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+21.0,D26,S,77.2875,1,"White, Mr. Richard Frasar",1,103,1,male,0,0.0,35281,White,man,no_group,1_3528_77.2875_S,0.33741496598639453,0
+33.0,,S,8.6542,1,"Johansson, Mr. Gustaf Joel",0,104,3,male,0,0.0,7540,Johansson,man,no_group,3_754_8.6542_S,0.33741496598639453,0
+37.0,,S,7.925,1,"Gustafsson, Mr. Anders Vilhelm",0,105,3,male,2,0.0,3101276,Gustafsson,man,no_group,3_310127_7.925_S,0.33741496598639453,0
+28.0,,S,7.8958,1,"Mionoff, Mr. Stoytcho",0,106,3,male,0,0.0,349207,Mionoff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+21.0,,S,7.65,1,"Salkjelsvik, Miss. Anna Kristine",0,107,3,female,0,1.0,343120,Salkjelsvik,woman,no_group,3_34312_7.65_S,0.33741496598639453,1
+,,S,7.775,1,"Moss, Mr. Albert Johan",0,108,3,male,0,1.0,312991,Moss,man,no_group,3_31299_7.775_S,0.33741496598639453,0
+38.0,,S,7.8958,1,"Rekic, Mr. Tido",0,109,3,male,0,0.0,349249,Rekic,man,no_group,3_34924_7.8958_S,0.33741496598639453,0
+,,Q,24.15,1,"Moran, Miss. Bertha",0,110,3,female,1,1.0,371110,Moran,woman,no_group,3_37111_24.15_Q,0.33741496598639453,1
+47.0,C110,S,52.0,1,"Porter, Mr. Walter Chamberlain",0,111,1,male,0,0.0,110465,Porter,man,no_group,1_11046_52.0_S,0.33741496598639453,0
+14.5,,C,14.4542,1,"Zabour, Miss. Hileni",0,112,3,female,1,0.0,2665,Zabour,woman,Zabour_3_266_14.4542_C,3_266_14.4542_C,0.0,0
+22.0,,S,8.05,1,"Barton, Mr. David John",0,113,3,male,0,0.0,324669,Barton,man,no_group,3_32466_8.05_S,0.33741496598639453,0
+20.0,,S,9.825,1,"Jussila, Miss. Katriina",0,114,3,female,1,0.0,4136,Jussila,woman,Jussila_3_413_9.825_S,3_413_9.825_S,0.0,0
+17.0,,C,14.4583,1,"Attalah, Miss. Malake",0,115,3,female,0,0.0,2627,Attalah,woman,no_group,3_262_14.4583_C,0.33741496598639453,1
+21.0,,S,7.925,1,"Pekoniemi, Mr. Edvard",0,116,3,male,0,0.0,STON/O 2. 3101294,Pekoniemi,man,no_group,3_STON/O 2. 310129_7.925_S,0.33741496598639453,0
+70.5,,Q,7.75,1,"Connors, Mr. Patrick",0,117,3,male,0,0.0,370369,Connors,man,no_group,3_37036_7.75_Q,0.33741496598639453,0
+29.0,,S,21.0,1,"Turpin, Mr. William John Robert",0,118,2,male,1,0.0,11668,Turpin,man,no_group,2_1166_21.0_S,0.33741496598639453,0
+24.0,B58 B60,C,247.5208,1,"Baxter, Mr. Quigg Edmond",1,119,1,male,0,0.0,PC 17558,Baxter,man,no_group,1_PC 1755_247.5208_C,0.33741496598639453,0
+2.0,,S,31.275,1,"Andersson, Miss. Ellis Anna Maria",2,120,3,female,4,0.0,347082,Andersson,woman,Andersson_3_34708_31.275_S,3_34708_31.275_S,0.0,0
+21.0,,S,73.5,1,"Hickman, Mr. Stanley George",0,121,2,male,2,0.0,S.O.C. 14879,Hickman,man,no_group,2_S.O.C. 1487_73.5_S,0.33741496598639453,0
+,,S,8.05,1,"Moore, Mr. Leonard Charles",0,122,3,male,0,0.0,A4. 54510,Moore,man,no_group,3_A4. 5451_8.05_S,0.33741496598639453,0
+32.5,,C,30.0708,1,"Nasser, Mr. Nicholas",0,123,2,male,1,0.0,237736,Nasser,man,no_group,2_23773_30.0708_C,0.33741496598639453,0
+32.5,E101,S,13.0,1,"Webber, Miss. Susan",0,124,2,female,0,1.0,27267,Webber,woman,no_group,2_2726_13.0_S,0.33741496598639453,1
+54.0,D26,S,77.2875,1,"White, Mr. Percival Wayland",1,125,1,male,0,0.0,35281,White,man,no_group,1_3528_77.2875_S,0.33741496598639453,0
+12.0,,C,11.2417,1,"Nicola-Yarred, Master. Elias",0,126,3,male,1,1.0,2651,Nicola-Yarred,boy,Nicola-Yarred_3_265_11.2417_C,3_265_11.2417_C,1.0,1
+,,Q,7.75,1,"McMahon, Mr. Martin",0,127,3,male,0,0.0,370372,McMahon,man,no_group,3_37037_7.75_Q,0.33741496598639453,0
+24.0,,S,7.1417,1,"Madsen, Mr. Fridtjof Arne",0,128,3,male,0,1.0,C 17369,Madsen,man,no_group,3_C 1736_7.1417_S,0.33741496598639453,0
+,F E69,C,22.3583,1,"Peter, Miss. Anna",1,129,3,female,1,1.0,2668,Peter,woman,Peter_3_266_22.3583_C,3_266_22.3583_C,1.0,1
+45.0,,S,6.975,1,"Ekstrom, Mr. Johan",0,130,3,male,0,0.0,347061,Ekstrom,man,no_group,3_34706_6.975_S,0.33741496598639453,0
+33.0,,C,7.8958,1,"Drazenoic, Mr. Jozef",0,131,3,male,0,0.0,349241,Drazenoic,man,no_group,3_34924_7.8958_C,0.33741496598639453,0
+20.0,,S,7.05,1,"Coelho, Mr. Domingos Fernandeo",0,132,3,male,0,0.0,SOTON/O.Q. 3101307,Coelho,man,no_group,3_SOTON/O.Q. 310130_7.05_S,0.33741496598639453,0
+47.0,,S,14.5,1,"Robins, Mrs. Alexander A (Grace Charity Laury)",0,133,3,female,1,0.0,A/5. 3337,Robins,woman,no_group,3_A/5. 333_14.5_S,0.33741496598639453,1
+29.0,,S,26.0,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",0,134,2,female,1,1.0,228414,Weisz,woman,no_group,2_22841_26.0_S,0.33741496598639453,1
+25.0,,S,13.0,1,"Sobey, Mr. Samuel James Hayden",0,135,2,male,0,0.0,C.A. 29178,Sobey,man,no_group,2_C.A. 2917_13.0_S,0.33741496598639453,0
+23.0,,C,15.0458,1,"Richard, Mr. Emile",0,136,2,male,0,0.0,SC/PARIS 2133,Richard,man,no_group,2_SC/PARIS 213_15.0458_C,0.33741496598639453,0
+19.0,D47,S,26.2833,1,"Newsom, Miss. Helen Monypeny",2,137,1,female,0,1.0,11752,Newsom,woman,no_group,1_1175_26.2833_S,0.33741496598639453,1
+37.0,C123,S,53.1,1,"Futrelle, Mr. Jacques Heath",0,138,1,male,1,0.0,113803,Futrelle,man,no_group,1_11380_53.1_S,0.33741496598639453,0
+16.0,,S,9.2167,1,"Osen, Mr. Olaf Elon",0,139,3,male,0,0.0,7534,Osen,man,no_group,3_753_9.2167_S,0.33741496598639453,0
+24.0,B86,C,79.2,1,"Giglio, Mr. Victor",0,140,1,male,0,0.0,PC 17593,Giglio,man,no_group,1_PC 1759_79.2_C,0.33741496598639453,0
+,,C,15.2458,1,"Boulos, Mrs. Joseph (Sultana)",2,141,3,female,0,0.0,2678,Boulos,woman,Boulos_3_267_15.2458_C,3_267_15.2458_C,0.0,0
+22.0,,S,7.75,1,"Nysten, Miss. Anna Sofia",0,142,3,female,0,1.0,347081,Nysten,woman,no_group,3_34708_7.75_S,0.33741496598639453,1
+24.0,,S,15.85,1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",0,143,3,female,1,1.0,STON/O2. 3101279,Hakkarainen,woman,no_group,3_STON/O2. 310127_15.85_S,0.33741496598639453,1
+19.0,,Q,6.75,1,"Burke, Mr. Jeremiah",0,144,3,male,0,0.0,365222,Burke,man,no_group,3_36522_6.75_Q,0.33741496598639453,0
+18.0,,S,11.5,1,"Andrew, Mr. Edgardo Samuel",0,145,2,male,0,0.0,231945,Andrew,man,no_group,2_23194_11.5_S,0.33741496598639453,0
+19.0,,S,36.75,1,"Nicholls, Mr. Joseph Charles",1,146,2,male,1,0.0,C.A. 33112,Nicholls,man,no_group,2_C.A. 3311_36.75_S,0.33741496598639453,0
+27.0,,S,7.7958,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",0,147,3,male,0,1.0,350043,Andersson,man,no_group,3_35004_7.7958_S,0.33741496598639453,0
+9.0,,S,34.375,1,"Ford, Miss. Robina Maggie ""Ruby""",2,148,3,female,2,0.0,W./C. 6608,Ford,woman,Ford_3_W./C. 660_34.375_S,3_W./C. 660_34.375_S,0.0,0
+36.5,F2,S,26.0,1,"Navratil, Mr. Michel (""Louis M Hoffman"")",2,149,2,male,0,0.0,230080,Navratil,man,no_group,2_23008_26.0_S,0.33741496598639453,0
+42.0,,S,13.0,1,"Byles, Rev. Thomas Roussel Davids",0,150,2,male,0,0.0,244310,Byles,man,no_group,2_24431_13.0_S,0.33741496598639453,0
+51.0,,S,12.525,1,"Bateman, Rev. Robert James",0,151,2,male,0,0.0,S.O.P. 1166,Bateman,man,no_group,2_S.O.P. 116_12.525_S,0.33741496598639453,0
+22.0,C2,S,66.6,1,"Pears, Mrs. Thomas (Edith Wearne)",0,152,1,female,1,1.0,113776,Pears,woman,no_group,1_11377_66.6_S,0.33741496598639453,1
+55.5,,S,8.05,1,"Meo, Mr. Alfonzo",0,153,3,male,0,0.0,A.5. 11206,Meo,man,no_group,3_A.5. 1120_8.05_S,0.33741496598639453,0
+40.5,,S,14.5,1,"van Billiard, Mr. Austin Blyler",2,154,3,male,0,0.0,A/5. 851,van Billiard,man,no_group,3_A/5. 85_14.5_S,0.33741496598639453,0
+,,S,7.3125,1,"Olsen, Mr. Ole Martin",0,155,3,male,0,0.0,Fa 265302,Olsen,man,no_group,3_Fa 26530_7.3125_S,0.33741496598639453,0
+51.0,,C,61.3792,1,"Williams, Mr. Charles Duane",1,156,1,male,0,0.0,PC 17597,Williams,man,no_group,1_PC 1759_61.3792_C,0.33741496598639453,0
+16.0,,Q,7.7333,1,"Gilnagh, Miss. Katherine ""Katie""",0,157,3,female,0,1.0,35851,Gilnagh,woman,no_group,3_3585_7.7333_Q,0.33741496598639453,1
+30.0,,S,8.05,1,"Corn, Mr. Harry",0,158,3,male,0,0.0,SOTON/OQ 392090,Corn,man,no_group,3_SOTON/OQ 39209_8.05_S,0.33741496598639453,0
+,,S,8.6625,1,"Smiljanic, Mr. Mile",0,159,3,male,0,0.0,315037,Smiljanic,man,no_group,3_31503_8.6625_S,0.33741496598639453,0
+,,S,69.55,1,"Sage, Master. Thomas Henry",2,160,3,male,8,0.0,CA. 2343,Sage,boy,Sage_3_CA. 234_69.55_S,3_CA. 234_69.55_S,0.0,0
+44.0,,S,16.1,1,"Cribb, Mr. John Hatfield",1,161,3,male,0,0.0,371362,Cribb,man,no_group,3_37136_16.1_S,0.33741496598639453,0
+40.0,,S,15.75,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",0,162,2,female,0,1.0,C.A. 33595,Watt,woman,Watt_2_C.A. 3359_15.75_S,2_C.A. 3359_15.75_S,1.0,1
+26.0,,S,7.775,1,"Bengtsson, Mr. John Viktor",0,163,3,male,0,0.0,347068,Bengtsson,man,no_group,3_34706_7.775_S,0.33741496598639453,0
+17.0,,S,8.6625,1,"Calic, Mr. Jovo",0,164,3,male,0,0.0,315093,Calic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+1.0,,S,39.6875,1,"Panula, Master. Eino Viljami",1,165,3,male,4,0.0,3101295,Panula,boy,Panula_3_310129_39.6875_S,3_310129_39.6875_S,0.0,0
+9.0,,S,20.525,1,"Goldsmith, Master. Frank John William ""Frankie""",2,166,3,male,0,1.0,363291,Goldsmith,boy,Goldsmith_3_36329_20.525_S,3_36329_20.525_S,1.0,1
+,E33,S,55.0,1,"Chibnall, Mrs. (Edith Martha Bowerman)",1,167,1,female,0,1.0,113505,Chibnall,woman,no_group,1_11350_55.0_S,0.33741496598639453,1
+45.0,,S,27.9,1,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",4,168,3,female,1,0.0,347088,Skoog,woman,Skoog_3_34708_27.9_S,3_34708_27.9_S,0.0,0
+,,S,25.925,1,"Baumann, Mr. John D",0,169,1,male,0,0.0,PC 17318,Baumann,man,no_group,1_PC 1731_25.925_S,0.33741496598639453,0
+28.0,,S,56.4958,1,"Ling, Mr. Lee",0,170,3,male,0,0.0,1601,Ling,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+61.0,B19,S,33.5,1,"Van der hoef, Mr. Wyckoff",0,171,1,male,0,0.0,111240,Van der hoef,man,no_group,1_11124_33.5_S,0.33741496598639453,0
+4.0,,Q,29.125,1,"Rice, Master. Arthur",1,172,3,male,4,0.0,382652,Rice,boy,Rice_3_38265_29.125_Q,3_38265_29.125_Q,0.0,0
+1.0,,S,11.1333,1,"Johnson, Miss. Eleanor Ileen",1,173,3,female,1,1.0,347742,Johnson,woman,Johnson_3_34774_11.1333_S,3_34774_11.1333_S,1.0,1
+21.0,,S,7.925,1,"Sivola, Mr. Antti Wilhelm",0,174,3,male,0,0.0,STON/O 2. 3101280,Sivola,man,no_group,3_STON/O 2. 310128_7.925_S,0.33741496598639453,0
+56.0,A7,C,30.6958,1,"Smith, Mr. James Clinch",0,175,1,male,0,0.0,17764,Smith,man,no_group,1_1776_30.6958_C,0.33741496598639453,0
+18.0,,S,7.8542,1,"Klasen, Mr. Klas Albin",1,176,3,male,1,0.0,350404,Klasen,man,no_group,3_35040_7.8542_S,0.33741496598639453,0
+,,S,25.4667,1,"Lefebre, Master. Henry Forbes",1,177,3,male,3,0.0,4133,Lefebre,boy,Lefebre_3_413_25.4667_S,3_413_25.4667_S,0.0,0
+50.0,C49,C,28.7125,1,"Isham, Miss. Ann Elizabeth",0,178,1,female,0,0.0,PC 17595,Isham,woman,no_group,1_PC 1759_28.7125_C,0.33741496598639453,1
+30.0,,S,13.0,1,"Hale, Mr. Reginald",0,179,2,male,0,0.0,250653,Hale,man,no_group,2_25065_13.0_S,0.33741496598639453,0
+36.0,,S,0.0,1,"Leonard, Mr. Lionel",0,180,3,male,0,0.0,LINE,Leonard,man,no_group,3_LIN_0.0_S,0.33741496598639453,0
+,,S,69.55,1,"Sage, Miss. Constance Gladys",2,181,3,female,8,0.0,CA. 2343,Sage,woman,Sage_3_CA. 234_69.55_S,3_CA. 234_69.55_S,0.0,0
+,,C,15.05,1,"Pernot, Mr. Rene",0,182,2,male,0,0.0,SC/PARIS 2131,Pernot,man,no_group,2_SC/PARIS 213_15.05_C,0.33741496598639453,0
+9.0,,S,31.3875,1,"Asplund, Master. Clarence Gustaf Hugo",2,183,3,male,4,0.0,347077,Asplund,boy,Asplund_3_34707_31.3875_S,3_34707_31.3875_S,0.75,0
+1.0,F4,S,39.0,1,"Becker, Master. Richard F",1,184,2,male,2,1.0,230136,Becker,boy,Becker_2_23013_39.0_S,2_23013_39.0_S,1.0,1
+4.0,,S,22.025,1,"Kink-Heilmann, Miss. Luise Gretchen",2,185,3,female,0,1.0,315153,Kink-Heilmann,woman,Kink-Heilmann_3_31515_22.025_S,3_31515_22.025_S,1.0,1
+,A32,S,50.0,1,"Rood, Mr. Hugh Roscoe",0,186,1,male,0,0.0,113767,Rood,man,no_group,1_11376_50.0_S,0.33741496598639453,0
+,,Q,15.5,1,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",0,187,3,female,1,1.0,370365,O'Brien,woman,no_group,3_37036_15.5_Q,0.33741496598639453,1
+45.0,,S,26.55,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",0,188,1,male,0,1.0,111428,Romaine,man,no_group,1_11142_26.55_S,0.33741496598639453,0
+40.0,,Q,15.5,1,"Bourke, Mr. John",1,189,3,male,1,0.0,364849,Bourke,man,no_group,3_36484_15.5_Q,0.33741496598639453,0
+36.0,,S,7.8958,1,"Turcin, Mr. Stjepan",0,190,3,male,0,0.0,349247,Turcin,man,no_group,3_34924_7.8958_S,0.33741496598639453,0
+32.0,,S,13.0,1,"Pinsky, Mrs. (Rosa)",0,191,2,female,0,1.0,234604,Pinsky,woman,no_group,2_23460_13.0_S,0.33741496598639453,1
+19.0,,S,13.0,1,"Carbines, Mr. William",0,192,2,male,0,0.0,28424,Carbines,man,no_group,2_2842_13.0_S,0.33741496598639453,0
+19.0,,S,7.8542,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",0,193,3,female,1,1.0,350046,Andersen-Jensen,woman,no_group,3_35004_7.8542_S,0.33741496598639453,1
+3.0,F2,S,26.0,1,"Navratil, Master. Michel M",1,194,2,male,1,1.0,230080,Navratil,boy,Navratil_2_23008_26.0_S,2_23008_26.0_S,1.0,1
+44.0,B4,C,27.7208,1,"Brown, Mrs. James Joseph (Margaret Tobin)",0,195,1,female,0,1.0,PC 17610,Brown,woman,no_group,1_PC 1761_27.7208_C,0.33741496598639453,1
+58.0,B80,C,146.5208,1,"Lurette, Miss. Elise",0,196,1,female,0,1.0,PC 17569,Lurette,woman,no_group,1_PC 1756_146.5208_C,0.33741496598639453,1
+,,Q,7.75,1,"Mernagh, Mr. Robert",0,197,3,male,0,0.0,368703,Mernagh,man,no_group,3_36870_7.75_Q,0.33741496598639453,0
+42.0,,S,8.4042,1,"Olsen, Mr. Karl Siegwart Andreas",1,198,3,male,0,0.0,4579,Olsen,man,no_group,3_457_8.4042_S,0.33741496598639453,0
+,,Q,7.75,1,"Madigan, Miss. Margaret ""Maggie""",0,199,3,female,0,1.0,370370,Madigan,woman,no_group,3_37037_7.75_Q,0.33741496598639453,1
+24.0,,S,13.0,1,"Yrois, Miss. Henriette (""Mrs Harbeck"")",0,200,2,female,0,0.0,248747,Yrois,woman,no_group,2_24874_13.0_S,0.33741496598639453,1
+28.0,,S,9.5,1,"Vande Walle, Mr. Nestor Cyriel",0,201,3,male,0,0.0,345770,Vande Walle,man,no_group,3_34577_9.5_S,0.33741496598639453,0
+,,S,69.55,1,"Sage, Mr. Frederick",2,202,3,male,8,0.0,CA. 2343,Sage,man,no_group,3_CA. 234_69.55_S,0.33741496598639453,0
+34.0,,S,6.4958,1,"Johanson, Mr. Jakob Alfred",0,203,3,male,0,0.0,3101264,Johanson,man,no_group,3_310126_6.4958_S,0.33741496598639453,0
+45.5,,C,7.225,1,"Youseff, Mr. Gerious",0,204,3,male,0,0.0,2628,Youseff,man,no_group,3_262_7.225_C,0.33741496598639453,0
+18.0,,S,8.05,1,"Cohen, Mr. Gurshon ""Gus""",0,205,3,male,0,1.0,A/5 3540,Cohen,man,no_group,3_A/5 354_8.05_S,0.33741496598639453,0
+2.0,G6,S,10.4625,1,"Strom, Miss. Telma Matilda",1,206,3,female,0,0.0,347054,Strom,woman,Strom_3_34705_10.4625_S,3_34705_10.4625_S,0.0,0
+32.0,,S,15.85,1,"Backstrom, Mr. Karl Alfred",0,207,3,male,1,0.0,3101278,Backstrom,man,no_group,3_310127_15.85_S,0.33741496598639453,0
+26.0,,C,18.7875,1,"Albimona, Mr. Nassef Cassem",0,208,3,male,0,1.0,2699,Albimona,man,no_group,3_269_18.7875_C,0.33741496598639453,0
+16.0,,Q,7.75,1,"Carr, Miss. Helen ""Ellen""",0,209,3,female,0,1.0,367231,Carr,woman,no_group,3_36723_7.75_Q,0.33741496598639453,1
+40.0,A31,C,31.0,1,"Blank, Mr. Henry",0,210,1,male,0,1.0,112277,Blank,man,no_group,1_11227_31.0_C,0.33741496598639453,0
+24.0,,S,7.05,1,"Ali, Mr. Ahmed",0,211,3,male,0,0.0,SOTON/O.Q. 3101311,Ali,man,no_group,3_SOTON/O.Q. 310131_7.05_S,0.33741496598639453,0
+35.0,,S,21.0,1,"Cameron, Miss. Clear Annie",0,212,2,female,0,1.0,F.C.C. 13528,Cameron,woman,no_group,2_F.C.C. 1352_21.0_S,0.33741496598639453,1
+22.0,,S,7.25,1,"Perkin, Mr. John Henry",0,213,3,male,0,0.0,A/5 21174,Perkin,man,no_group,3_A/5 2117_7.25_S,0.33741496598639453,0
+30.0,,S,13.0,1,"Givard, Mr. Hans Kristensen",0,214,2,male,0,0.0,250646,Givard,man,no_group,2_25064_13.0_S,0.33741496598639453,0
+,,Q,7.75,1,"Kiernan, Mr. Philip",0,215,3,male,1,0.0,367229,Kiernan,man,no_group,3_36722_7.75_Q,0.33741496598639453,0
+31.0,D36,C,113.275,1,"Newell, Miss. Madeleine",0,216,1,female,1,1.0,35273,Newell,woman,Newell_1_3527_113.275_C,1_3527_113.275_C,1.0,1
+27.0,,S,7.925,1,"Honkanen, Miss. Eliina",0,217,3,female,0,1.0,STON/O2. 3101283,Honkanen,woman,no_group,3_STON/O2. 310128_7.925_S,0.33741496598639453,1
+42.0,,S,27.0,1,"Jacobsohn, Mr. Sidney Samuel",0,218,2,male,1,0.0,243847,Jacobsohn,man,no_group,2_24384_27.0_S,0.33741496598639453,0
+32.0,D15,C,76.2917,1,"Bazzani, Miss. Albina",0,219,1,female,0,1.0,11813,Bazzani,woman,no_group,1_1181_76.2917_C,0.33741496598639453,1
+30.0,,S,10.5,1,"Harris, Mr. Walter",0,220,2,male,0,0.0,W/C 14208,Harris,man,no_group,2_W/C 1420_10.5_S,0.33741496598639453,0
+16.0,,S,8.05,1,"Sunderland, Mr. Victor Francis",0,221,3,male,0,1.0,SOTON/OQ 392089,Sunderland,man,no_group,3_SOTON/OQ 39208_8.05_S,0.33741496598639453,0
+27.0,,S,13.0,1,"Bracken, Mr. James H",0,222,2,male,0,0.0,220367,Bracken,man,no_group,2_22036_13.0_S,0.33741496598639453,0
+51.0,,S,8.05,1,"Green, Mr. George Henry",0,223,3,male,0,0.0,21440,Green,man,no_group,3_2144_8.05_S,0.33741496598639453,0
+,,S,7.8958,1,"Nenkoff, Mr. Christo",0,224,3,male,0,0.0,349234,Nenkoff,man,no_group,3_34923_7.8958_S,0.33741496598639453,0
+38.0,C93,S,90.0,1,"Hoyt, Mr. Frederick Maxfield",0,225,1,male,1,1.0,19943,Hoyt,man,no_group,1_1994_90.0_S,0.33741496598639453,0
+22.0,,S,9.35,1,"Berglund, Mr. Karl Ivar Sven",0,226,3,male,0,0.0,PP 4348,Berglund,man,no_group,3_PP 434_9.35_S,0.33741496598639453,0
+19.0,,S,10.5,1,"Mellors, Mr. William John",0,227,2,male,0,1.0,SW/PP 751,Mellors,man,no_group,2_SW/PP 75_10.5_S,0.33741496598639453,0
+20.5,,S,7.25,1,"Lovell, Mr. John Hall (""Henry"")",0,228,3,male,0,0.0,A/5 21173,Lovell,man,no_group,3_A/5 2117_7.25_S,0.33741496598639453,0
+18.0,,S,13.0,1,"Fahlstrom, Mr. Arne Jonas",0,229,2,male,0,0.0,236171,Fahlstrom,man,no_group,2_23617_13.0_S,0.33741496598639453,0
+,,S,25.4667,1,"Lefebre, Miss. Mathilde",1,230,3,female,3,0.0,4133,Lefebre,woman,Lefebre_3_413_25.4667_S,3_413_25.4667_S,0.0,0
+35.0,C83,S,83.475,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",0,231,1,female,1,1.0,36973,Harris,woman,no_group,1_3697_83.475_S,0.33741496598639453,1
+29.0,,S,7.775,1,"Larsson, Mr. Bengt Edvin",0,232,3,male,0,0.0,347067,Larsson,man,no_group,3_34706_7.775_S,0.33741496598639453,0
+59.0,,S,13.5,1,"Sjostedt, Mr. Ernst Adolf",0,233,2,male,0,0.0,237442,Sjostedt,man,no_group,2_23744_13.5_S,0.33741496598639453,0
+5.0,,S,31.3875,1,"Asplund, Miss. Lillian Gertrud",2,234,3,female,4,1.0,347077,Asplund,woman,Asplund_3_34707_31.3875_S,3_34707_31.3875_S,0.75,1
+24.0,,S,10.5,1,"Leyson, Mr. Robert William Norman",0,235,2,male,0,0.0,C.A. 29566,Leyson,man,no_group,2_C.A. 2956_10.5_S,0.33741496598639453,0
+,,S,7.55,1,"Harknett, Miss. Alice Phoebe",0,236,3,female,0,0.0,W./C. 6609,Harknett,woman,no_group,3_W./C. 660_7.55_S,0.33741496598639453,1
+44.0,,S,26.0,1,"Hold, Mr. Stephen",0,237,2,male,1,0.0,26707,Hold,man,no_group,2_2670_26.0_S,0.33741496598639453,0
+8.0,,S,26.25,1,"Collyer, Miss. Marjorie ""Lottie""",2,238,2,female,0,1.0,C.A. 31921,Collyer,woman,Collyer_2_C.A. 3192_26.25_S,2_C.A. 3192_26.25_S,1.0,1
+19.0,,S,10.5,1,"Pengelly, Mr. Frederick William",0,239,2,male,0,0.0,28665,Pengelly,man,no_group,2_2866_10.5_S,0.33741496598639453,0
+33.0,,S,12.275,1,"Hunt, Mr. George Henry",0,240,2,male,0,0.0,SCO/W 1585,Hunt,man,no_group,2_SCO/W 158_12.275_S,0.33741496598639453,0
+,,C,14.4542,1,"Zabour, Miss. Thamine",0,241,3,female,1,0.0,2665,Zabour,woman,Zabour_3_266_14.4542_C,3_266_14.4542_C,0.0,0
+,,Q,15.5,1,"Murphy, Miss. Katherine ""Kate""",0,242,3,female,1,1.0,367230,Murphy,woman,Murphy_3_36723_15.5_Q,3_36723_15.5_Q,1.0,1
+29.0,,S,10.5,1,"Coleridge, Mr. Reginald Charles",0,243,2,male,0,0.0,W./C. 14263,Coleridge,man,no_group,2_W./C. 1426_10.5_S,0.33741496598639453,0
+22.0,,S,7.125,1,"Maenpaa, Mr. Matti Alexanteri",0,244,3,male,0,0.0,STON/O 2. 3101275,Maenpaa,man,no_group,3_STON/O 2. 310127_7.125_S,0.33741496598639453,0
+30.0,,C,7.225,1,"Attalah, Mr. Sleiman",0,245,3,male,0,0.0,2694,Attalah,man,no_group,3_269_7.225_C,0.33741496598639453,0
+44.0,C78,Q,90.0,1,"Minahan, Dr. William Edward",0,246,1,male,2,0.0,19928,Minahan,man,no_group,1_1992_90.0_Q,0.33741496598639453,0
+25.0,,S,7.775,1,"Lindahl, Miss. Agda Thorilda Viktoria",0,247,3,female,0,0.0,347071,Lindahl,woman,no_group,3_34707_7.775_S,0.33741496598639453,1
+24.0,,S,14.5,1,"Hamalainen, Mrs. William (Anna)",2,248,2,female,0,1.0,250649,Hamalainen,woman,Hamalainen_2_25064_14.5_S,2_25064_14.5_S,1.0,1
+37.0,D35,S,52.5542,1,"Beckwith, Mr. Richard Leonard",1,249,1,male,1,1.0,11751,Beckwith,man,no_group,1_1175_52.5542_S,0.33741496598639453,0
+54.0,,S,26.0,1,"Carter, Rev. Ernest Courtenay",0,250,2,male,1,0.0,244252,Carter,man,no_group,2_24425_26.0_S,0.33741496598639453,0
+,,S,7.25,1,"Reed, Mr. James George",0,251,3,male,0,0.0,362316,Reed,man,no_group,3_36231_7.25_S,0.33741496598639453,0
+29.0,G6,S,10.4625,1,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",1,252,3,female,1,0.0,347054,Strom,woman,Strom_3_34705_10.4625_S,3_34705_10.4625_S,0.0,0
+62.0,C87,S,26.55,1,"Stead, Mr. William Thomas",0,253,1,male,0,0.0,113514,Stead,man,no_group,1_11351_26.55_S,0.33741496598639453,0
+30.0,,S,16.1,1,"Lobb, Mr. William Arthur",0,254,3,male,1,0.0,A/5. 3336,Lobb,man,no_group,3_A/5. 333_16.1_S,0.33741496598639453,0
+41.0,,S,20.2125,1,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",2,255,3,female,0,0.0,370129,Rosblom,woman,Rosblom_3_37012_20.2125_S,3_37012_20.2125_S,0.0,0
+29.0,,C,15.2458,1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",2,256,3,female,0,1.0,2650,Touma,woman,Touma_3_265_15.2458_C,3_265_15.2458_C,1.0,1
+,,C,79.2,1,"Thorne, Mrs. Gertrude Maybelle",0,257,1,female,0,1.0,PC 17585,Thorne,woman,no_group,1_PC 1758_79.2_C,0.33741496598639453,1
+30.0,B77,S,86.5,1,"Cherry, Miss. Gladys",0,258,1,female,0,1.0,110152,Cherry,woman,no_group,1_11015_86.5_S,0.33741496598639453,1
+35.0,,C,512.3292,1,"Ward, Miss. Anna",0,259,1,female,0,1.0,PC 17755,Ward,woman,no_group,1_PC 1775_512.3292_C,0.33741496598639453,1
+50.0,,S,26.0,1,"Parrish, Mrs. (Lutie Davis)",1,260,2,female,0,1.0,230433,Parrish,woman,no_group,2_23043_26.0_S,0.33741496598639453,1
+,,Q,7.75,1,"Smith, Mr. Thomas",0,261,3,male,0,0.0,384461,Smith,man,no_group,3_38446_7.75_Q,0.33741496598639453,0
+3.0,,S,31.3875,1,"Asplund, Master. Edvin Rojj Felix",2,262,3,male,4,1.0,347077,Asplund,boy,Asplund_3_34707_31.3875_S,3_34707_31.3875_S,0.75,0
+52.0,E67,S,79.65,1,"Taussig, Mr. Emil",1,263,1,male,1,0.0,110413,Taussig,man,no_group,1_11041_79.65_S,0.33741496598639453,0
+40.0,B94,S,0.0,1,"Harrison, Mr. William",0,264,1,male,0,0.0,112059,Harrison,man,no_group,1_11205_0.0_S,0.33741496598639453,0
+,,Q,7.75,1,"Henry, Miss. Delia",0,265,3,female,0,0.0,382649,Henry,woman,no_group,3_38264_7.75_Q,0.33741496598639453,1
+36.0,,S,10.5,1,"Reeves, Mr. David",0,266,2,male,0,0.0,C.A. 17248,Reeves,man,no_group,2_C.A. 1724_10.5_S,0.33741496598639453,0
+16.0,,S,39.6875,1,"Panula, Mr. Ernesti Arvid",1,267,3,male,4,0.0,3101295,Panula,man,no_group,3_310129_39.6875_S,0.33741496598639453,0
+25.0,,S,7.775,1,"Persson, Mr. Ernst Ulrik",0,268,3,male,1,1.0,347083,Persson,man,no_group,3_34708_7.775_S,0.33741496598639453,0
+58.0,C125,S,153.4625,1,"Graham, Mrs. William Thompson (Edith Junkins)",1,269,1,female,0,1.0,PC 17582,Graham,woman,no_group,1_PC 1758_153.4625_S,0.33741496598639453,1
+35.0,C99,S,135.6333,1,"Bissette, Miss. Amelia",0,270,1,female,0,1.0,PC 17760,Bissette,woman,no_group,1_PC 1776_135.6333_S,0.33741496598639453,1
+,,S,31.0,1,"Cairns, Mr. Alexander",0,271,1,male,0,0.0,113798,Cairns,man,no_group,1_11379_31.0_S,0.33741496598639453,0
+25.0,,S,0.0,1,"Tornquist, Mr. William Henry",0,272,3,male,0,1.0,LINE,Tornquist,man,no_group,3_LIN_0.0_S,0.33741496598639453,0
+41.0,,S,19.5,1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",1,273,2,female,0,1.0,250644,Mellinger,woman,Mellinger_2_25064_19.5_S,2_25064_19.5_S,1.0,1
+37.0,C118,C,29.7,1,"Natsch, Mr. Charles H",1,274,1,male,0,0.0,PC 17596,Natsch,man,no_group,1_PC 1759_29.7_C,0.33741496598639453,0
+,,Q,7.75,1,"Healy, Miss. Hanora ""Nora""",0,275,3,female,0,1.0,370375,Healy,woman,no_group,3_37037_7.75_Q,0.33741496598639453,1
+63.0,D7,S,77.9583,1,"Andrews, Miss. Kornelia Theodosia",0,276,1,female,1,1.0,13502,Andrews,woman,no_group,1_1350_77.9583_S,0.33741496598639453,1
+45.0,,S,7.75,1,"Lindblom, Miss. Augusta Charlotta",0,277,3,female,0,0.0,347073,Lindblom,woman,no_group,3_34707_7.75_S,0.33741496598639453,1
+,,S,0.0,1,"Parkes, Mr. Francis ""Frank""",0,278,2,male,0,0.0,239853,Parkes,man,no_group,2_23985_0.0_S,0.33741496598639453,0
+7.0,,Q,29.125,1,"Rice, Master. Eric",1,279,3,male,4,0.0,382652,Rice,boy,Rice_3_38265_29.125_Q,3_38265_29.125_Q,0.0,0
+35.0,,S,20.25,1,"Abbott, Mrs. Stanton (Rosa Hunt)",1,280,3,female,1,1.0,C.A. 2673,Abbott,woman,Abbott_3_C.A. 267_20.25_S,3_C.A. 267_20.25_S,1.0,1
+65.0,,Q,7.75,1,"Duane, Mr. Frank",0,281,3,male,0,0.0,336439,Duane,man,no_group,3_33643_7.75_Q,0.33741496598639453,0
+28.0,,S,7.8542,1,"Olsson, Mr. Nils Johan Goransson",0,282,3,male,0,0.0,347464,Olsson,man,no_group,3_34746_7.8542_S,0.33741496598639453,0
+16.0,,S,9.5,1,"de Pelsmaeker, Mr. Alfons",0,283,3,male,0,0.0,345778,de Pelsmaeker,man,no_group,3_34577_9.5_S,0.33741496598639453,0
+19.0,,S,8.05,1,"Dorking, Mr. Edward Arthur",0,284,3,male,0,1.0,A/5. 10482,Dorking,man,no_group,3_A/5. 1048_8.05_S,0.33741496598639453,0
+,A19,S,26.0,1,"Smith, Mr. Richard William",0,285,1,male,0,0.0,113056,Smith,man,no_group,1_11305_26.0_S,0.33741496598639453,0
+33.0,,C,8.6625,1,"Stankovic, Mr. Ivan",0,286,3,male,0,0.0,349239,Stankovic,man,no_group,3_34923_8.6625_C,0.33741496598639453,0
+30.0,,S,9.5,1,"de Mulder, Mr. Theodore",0,287,3,male,0,1.0,345774,de Mulder,man,no_group,3_34577_9.5_S,0.33741496598639453,0
+22.0,,S,7.8958,1,"Naidenoff, Mr. Penko",0,288,3,male,0,0.0,349206,Naidenoff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+42.0,,S,13.0,1,"Hosono, Mr. Masabumi",0,289,2,male,0,1.0,237798,Hosono,man,no_group,2_23779_13.0_S,0.33741496598639453,0
+22.0,,Q,7.75,1,"Connolly, Miss. Kate",0,290,3,female,0,1.0,370373,Connolly,woman,no_group,3_37037_7.75_Q,0.33741496598639453,1
+26.0,,S,78.85,1,"Barber, Miss. Ellen ""Nellie""",0,291,1,female,0,1.0,19877,Barber,woman,no_group,1_1987_78.85_S,0.33741496598639453,1
+19.0,B49,C,91.0792,1,"Bishop, Mrs. Dickinson H (Helen Walton)",0,292,1,female,1,1.0,11967,Bishop,woman,no_group,1_1196_91.0792_C,0.33741496598639453,1
+36.0,D,C,12.875,1,"Levy, Mr. Rene Jacques",0,293,2,male,0,0.0,SC/Paris 2163,Levy,man,no_group,2_SC/Paris 216_12.875_C,0.33741496598639453,0
+24.0,,S,8.85,1,"Haas, Miss. Aloisia",0,294,3,female,0,0.0,349236,Haas,woman,no_group,3_34923_8.85_S,0.33741496598639453,1
+24.0,,S,7.8958,1,"Mineff, Mr. Ivan",0,295,3,male,0,0.0,349233,Mineff,man,no_group,3_34923_7.8958_S,0.33741496598639453,0
+,,C,27.7208,1,"Lewy, Mr. Ervin G",0,296,1,male,0,0.0,PC 17612,Lewy,man,no_group,1_PC 1761_27.7208_C,0.33741496598639453,0
+23.5,,C,7.2292,1,"Hanna, Mr. Mansour",0,297,3,male,0,0.0,2693,Hanna,man,no_group,3_269_7.2292_C,0.33741496598639453,0
+2.0,C22 C26,S,151.55,1,"Allison, Miss. Helen Loraine",2,298,1,female,1,0.0,113781,Allison,woman,Allison_1_11378_151.55_S,1_11378_151.55_S,0.5,1
+,C106,S,30.5,1,"Saalfeld, Mr. Adolphe",0,299,1,male,0,1.0,19988,Saalfeld,man,no_group,1_1998_30.5_S,0.33741496598639453,0
+50.0,B58 B60,C,247.5208,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",1,300,1,female,0,1.0,PC 17558,Baxter,woman,no_group,1_PC 1755_247.5208_C,0.33741496598639453,1
+,,Q,7.75,1,"Kelly, Miss. Anna Katherine ""Annie Kate""",0,301,3,female,0,1.0,9234,Kelly,woman,no_group,3_923_7.75_Q,0.33741496598639453,1
+,,Q,23.25,1,"McCoy, Mr. Bernard",0,302,3,male,2,1.0,367226,McCoy,man,no_group,3_36722_23.25_Q,0.33741496598639453,0
+19.0,,S,0.0,1,"Johnson, Mr. William Cahoone Jr",0,303,3,male,0,0.0,LINE,Johnson,man,no_group,3_LIN_0.0_S,0.33741496598639453,0
+,E101,Q,12.35,1,"Keane, Miss. Nora A",0,304,2,female,0,1.0,226593,Keane,woman,no_group,2_22659_12.35_Q,0.33741496598639453,1
+,,S,8.05,1,"Williams, Mr. Howard Hugh ""Harry""",0,305,3,male,0,0.0,A/5 2466,Williams,man,no_group,3_A/5 246_8.05_S,0.33741496598639453,0
+0.92,C22 C26,S,151.55,1,"Allison, Master. Hudson Trevor",2,306,1,male,1,1.0,113781,Allison,boy,Allison_1_11378_151.55_S,1_11378_151.55_S,0.5,0
+,,C,110.8833,1,"Fleming, Miss. Margaret",0,307,1,female,0,1.0,17421,Fleming,woman,no_group,1_1742_110.8833_C,0.33741496598639453,1
+17.0,C65,C,108.9,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",0,308,1,female,1,1.0,PC 17758,Penasco y Castellana,woman,no_group,1_PC 1775_108.9_C,0.33741496598639453,1
+30.0,,C,24.0,1,"Abelson, Mr. Samuel",0,309,2,male,1,0.0,P/PP 3381,Abelson,man,no_group,2_P/PP 338_24.0_C,0.33741496598639453,0
+30.0,E36,C,56.9292,1,"Francatelli, Miss. Laura Mabel",0,310,1,female,0,1.0,PC 17485,Francatelli,woman,no_group,1_PC 1748_56.9292_C,0.33741496598639453,1
+24.0,C54,C,83.1583,1,"Hays, Miss. Margaret Bechstein",0,311,1,female,0,1.0,11767,Hays,woman,no_group,1_1176_83.1583_C,0.33741496598639453,1
+18.0,B57 B59 B63 B66,C,262.375,1,"Ryerson, Miss. Emily Borie",2,312,1,female,2,1.0,PC 17608,Ryerson,woman,Ryerson_1_PC 1760_262.375_C,1_PC 1760_262.375_C,1.0,1
+26.0,,S,26.0,1,"Lahtinen, Mrs. William (Anna Sylfven)",1,313,2,female,1,0.0,250651,Lahtinen,woman,no_group,2_25065_26.0_S,0.33741496598639453,1
+28.0,,S,7.8958,1,"Hendekovic, Mr. Ignjac",0,314,3,male,0,0.0,349243,Hendekovic,man,no_group,3_34924_7.8958_S,0.33741496598639453,0
+43.0,,S,26.25,1,"Hart, Mr. Benjamin",1,315,2,male,1,0.0,F.C.C. 13529,Hart,man,no_group,2_F.C.C. 1352_26.25_S,0.33741496598639453,0
+26.0,,S,7.8542,1,"Nilsson, Miss. Helmina Josefina",0,316,3,female,0,1.0,347470,Nilsson,woman,no_group,3_34747_7.8542_S,0.33741496598639453,1
+24.0,,S,26.0,1,"Kantor, Mrs. Sinai (Miriam Sternin)",0,317,2,female,1,1.0,244367,Kantor,woman,no_group,2_24436_26.0_S,0.33741496598639453,1
+54.0,,S,14.0,1,"Moraweck, Dr. Ernest",0,318,2,male,0,0.0,29011,Moraweck,man,no_group,2_2901_14.0_S,0.33741496598639453,0
+31.0,C7,S,164.8667,1,"Wick, Miss. Mary Natalie",2,319,1,female,0,1.0,36928,Wick,woman,Wick_1_3692_164.8667_S,1_3692_164.8667_S,1.0,1
+40.0,E34,C,134.5,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1,320,1,female,1,1.0,16966,Spedden,woman,Spedden_1_1696_134.5_C,1_1696_134.5_C,1.0,1
+22.0,,S,7.25,1,"Dennis, Mr. Samuel",0,321,3,male,0,0.0,A/5 21172,Dennis,man,no_group,3_A/5 2117_7.25_S,0.33741496598639453,0
+27.0,,S,7.8958,1,"Danoff, Mr. Yoto",0,322,3,male,0,0.0,349219,Danoff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+30.0,,Q,12.35,1,"Slayter, Miss. Hilda Mary",0,323,2,female,0,1.0,234818,Slayter,woman,no_group,2_23481_12.35_Q,0.33741496598639453,1
+22.0,,S,29.0,1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",1,324,2,female,1,1.0,248738,Caldwell,woman,Caldwell_2_24873_29.0_S,2_24873_29.0_S,1.0,1
+,,S,69.55,1,"Sage, Mr. George John Jr",2,325,3,male,8,0.0,CA. 2343,Sage,man,no_group,3_CA. 234_69.55_S,0.33741496598639453,0
+36.0,C32,C,135.6333,1,"Young, Miss. Marie Grice",0,326,1,female,0,1.0,PC 17760,Young,woman,no_group,1_PC 1776_135.6333_C,0.33741496598639453,1
+61.0,,S,6.2375,1,"Nysveen, Mr. Johan Hansen",0,327,3,male,0,0.0,345364,Nysveen,man,no_group,3_34536_6.2375_S,0.33741496598639453,0
+36.0,D,S,13.0,1,"Ball, Mrs. (Ada E Hall)",0,328,2,female,0,1.0,28551,Ball,woman,no_group,2_2855_13.0_S,0.33741496598639453,1
+31.0,,S,20.525,1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",1,329,3,female,1,1.0,363291,Goldsmith,woman,Goldsmith_3_36329_20.525_S,3_36329_20.525_S,1.0,1
+16.0,B18,C,57.9792,1,"Hippach, Miss. Jean Gertrude",1,330,1,female,0,1.0,111361,Hippach,woman,Hippach_1_11136_57.9792_C,1_11136_57.9792_C,1.0,1
+,,Q,23.25,1,"McCoy, Miss. Agnes",0,331,3,female,2,1.0,367226,McCoy,woman,McCoy_3_36722_23.25_Q,3_36722_23.25_Q,1.0,1
+45.5,C124,S,28.5,1,"Partner, Mr. Austen",0,332,1,male,0,0.0,113043,Partner,man,no_group,1_11304_28.5_S,0.33741496598639453,0
+38.0,C91,S,153.4625,1,"Graham, Mr. George Edward",1,333,1,male,0,0.0,PC 17582,Graham,man,no_group,1_PC 1758_153.4625_S,0.33741496598639453,0
+16.0,,S,18.0,1,"Vander Planke, Mr. Leo Edmondus",0,334,3,male,2,0.0,345764,Vander Planke,man,no_group,3_34576_18.0_S,0.33741496598639453,0
+,,S,133.65,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",0,335,1,female,1,1.0,PC 17611,Frauenthal,woman,no_group,1_PC 1761_133.65_S,0.33741496598639453,1
+,,S,7.8958,1,"Denkoff, Mr. Mitto",0,336,3,male,0,0.0,349225,Denkoff,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+29.0,C2,S,66.6,1,"Pears, Mr. Thomas Clinton",0,337,1,male,1,0.0,113776,Pears,man,no_group,1_11377_66.6_S,0.33741496598639453,0
+41.0,E40,C,134.5,1,"Burns, Miss. Elizabeth Margaret",0,338,1,female,0,1.0,16966,Burns,woman,Spedden_1_1696_134.5_C,1_1696_134.5_C,1.0,1
+45.0,,S,8.05,1,"Dahl, Mr. Karl Edwart",0,339,3,male,0,1.0,7598,Dahl,man,no_group,3_759_8.05_S,0.33741496598639453,0
+45.0,T,S,35.5,1,"Blackwell, Mr. Stephen Weart",0,340,1,male,0,0.0,113784,Blackwell,man,no_group,1_11378_35.5_S,0.33741496598639453,0
+2.0,F2,S,26.0,1,"Navratil, Master. Edmond Roger",1,341,2,male,1,1.0,230080,Navratil,boy,Navratil_2_23008_26.0_S,2_23008_26.0_S,1.0,1
+24.0,C23 C25 C27,S,263.0,1,"Fortune, Miss. Alice Elizabeth",2,342,1,female,3,1.0,19950,Fortune,woman,Fortune_1_1995_263.0_S,1_1995_263.0_S,1.0,1
+28.0,,S,13.0,1,"Collander, Mr. Erik Gustaf",0,343,2,male,0,0.0,248740,Collander,man,no_group,2_24874_13.0_S,0.33741496598639453,0
+25.0,,S,13.0,1,"Sedgwick, Mr. Charles Frederick Waddington",0,344,2,male,0,0.0,244361,Sedgwick,man,no_group,2_24436_13.0_S,0.33741496598639453,0
+36.0,,S,13.0,1,"Fox, Mr. Stanley Hubert",0,345,2,male,0,0.0,229236,Fox,man,no_group,2_22923_13.0_S,0.33741496598639453,0
+24.0,F33,S,13.0,1,"Brown, Miss. Amelia ""Mildred""",0,346,2,female,0,1.0,248733,Brown,woman,no_group,2_24873_13.0_S,0.33741496598639453,1
+40.0,,S,13.0,1,"Smith, Miss. Marion Elsie",0,347,2,female,0,1.0,31418,Smith,woman,no_group,2_3141_13.0_S,0.33741496598639453,1
+,,S,16.1,1,"Davison, Mrs. Thomas Henry (Mary E Finck)",0,348,3,female,1,1.0,386525,Davison,woman,no_group,3_38652_16.1_S,0.33741496598639453,1
+3.0,,S,15.9,1,"Coutts, Master. William Loch ""William""",1,349,3,male,1,1.0,C.A. 37671,Coutts,boy,Coutts_3_C.A. 3767_15.9_S,3_C.A. 3767_15.9_S,1.0,1
+42.0,,S,8.6625,1,"Dimic, Mr. Jovan",0,350,3,male,0,0.0,315088,Dimic,man,no_group,3_31508_8.6625_S,0.33741496598639453,0
+23.0,,S,9.225,1,"Odahl, Mr. Nils Martin",0,351,3,male,0,0.0,7267,Odahl,man,no_group,3_726_9.225_S,0.33741496598639453,0
+,C128,S,35.0,1,"Williams-Lambert, Mr. Fletcher Fellows",0,352,1,male,0,0.0,113510,Williams-Lambert,man,no_group,1_11351_35.0_S,0.33741496598639453,0
+15.0,,C,7.2292,1,"Elias, Mr. Tannous",1,353,3,male,1,0.0,2695,Elias,man,no_group,3_269_7.2292_C,0.33741496598639453,0
+25.0,,S,17.8,1,"Arnold-Franchi, Mr. Josef",0,354,3,male,1,0.0,349237,Arnold-Franchi,man,no_group,3_34923_17.8_S,0.33741496598639453,0
+,,C,7.225,1,"Yousif, Mr. Wazli",0,355,3,male,0,0.0,2647,Yousif,man,no_group,3_264_7.225_C,0.33741496598639453,0
+28.0,,S,9.5,1,"Vanden Steen, Mr. Leo Peter",0,356,3,male,0,0.0,345783,Vanden Steen,man,no_group,3_34578_9.5_S,0.33741496598639453,0
+22.0,E33,S,55.0,1,"Bowerman, Miss. Elsie Edith",1,357,1,female,0,1.0,113505,Bowerman,woman,no_group,1_11350_55.0_S,0.33741496598639453,1
+38.0,,S,13.0,1,"Funk, Miss. Annie Clemmer",0,358,2,female,0,0.0,237671,Funk,woman,no_group,2_23767_13.0_S,0.33741496598639453,1
+,,Q,7.8792,1,"McGovern, Miss. Mary",0,359,3,female,0,1.0,330931,McGovern,woman,no_group,3_33093_7.8792_Q,0.33741496598639453,1
+,,Q,7.8792,1,"Mockler, Miss. Helen Mary ""Ellie""",0,360,3,female,0,1.0,330980,Mockler,woman,no_group,3_33098_7.8792_Q,0.33741496598639453,1
+40.0,,S,27.9,1,"Skoog, Mr. Wilhelm",4,361,3,male,1,0.0,347088,Skoog,man,no_group,3_34708_27.9_S,0.33741496598639453,0
+29.0,,C,27.7208,1,"del Carlo, Mr. Sebastiano",0,362,2,male,1,0.0,SC/PARIS 2167,del Carlo,man,no_group,2_SC/PARIS 216_27.7208_C,0.33741496598639453,0
+45.0,,C,14.4542,1,"Barbara, Mrs. (Catherine David)",1,363,3,female,0,0.0,2691,Barbara,woman,Barbara_3_269_14.4542_C,3_269_14.4542_C,0.0,0
+35.0,,S,7.05,1,"Asim, Mr. Adola",0,364,3,male,0,0.0,SOTON/O.Q. 3101310,Asim,man,no_group,3_SOTON/O.Q. 310131_7.05_S,0.33741496598639453,0
+,,Q,15.5,1,"O'Brien, Mr. Thomas",0,365,3,male,1,0.0,370365,O'Brien,man,no_group,3_37036_15.5_Q,0.33741496598639453,0
+30.0,,S,7.25,1,"Adahl, Mr. Mauritz Nils Martin",0,366,3,male,0,0.0,C 7076,Adahl,man,no_group,3_C 707_7.25_S,0.33741496598639453,0
+60.0,D37,C,75.25,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",0,367,1,female,1,1.0,110813,Warren,woman,no_group,1_11081_75.25_C,0.33741496598639453,1
+,,C,7.2292,1,"Moussa, Mrs. (Mantoura Boulos)",0,368,3,female,0,1.0,2626,Moussa,woman,no_group,3_262_7.2292_C,0.33741496598639453,1
+,,Q,7.75,1,"Jermyn, Miss. Annie",0,369,3,female,0,1.0,14313,Jermyn,woman,no_group,3_1431_7.75_Q,0.33741496598639453,1
+24.0,B35,C,69.3,1,"Aubart, Mme. Leontine Pauline",0,370,1,female,0,1.0,PC 17477,Aubart,woman,no_group,1_PC 1747_69.3_C,0.33741496598639453,1
+25.0,E50,C,55.4417,1,"Harder, Mr. George Achilles",0,371,1,male,1,1.0,11765,Harder,man,no_group,1_1176_55.4417_C,0.33741496598639453,0
+18.0,,S,6.4958,1,"Wiklund, Mr. Jakob Alfred",0,372,3,male,1,0.0,3101267,Wiklund,man,no_group,3_310126_6.4958_S,0.33741496598639453,0
+19.0,,S,8.05,1,"Beavan, Mr. William Thomas",0,373,3,male,0,0.0,323951,Beavan,man,no_group,3_32395_8.05_S,0.33741496598639453,0
+22.0,,C,135.6333,1,"Ringhini, Mr. Sante",0,374,1,male,0,0.0,PC 17760,Ringhini,man,no_group,1_PC 1776_135.6333_C,0.33741496598639453,0
+3.0,,S,21.075,1,"Palsson, Miss. Stina Viola",1,375,3,female,3,0.0,349909,Palsson,woman,Palsson_3_34990_21.075_S,3_34990_21.075_S,0.0,0
+,,C,82.1708,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",0,376,1,female,1,1.0,PC 17604,Meyer,woman,no_group,1_PC 1760_82.1708_C,0.33741496598639453,1
+22.0,,S,7.25,1,"Landergren, Miss. Aurora Adelia",0,377,3,female,0,1.0,C 7077,Landergren,woman,no_group,3_C 707_7.25_S,0.33741496598639453,1
+27.0,C82,C,211.5,1,"Widener, Mr. Harry Elkins",2,378,1,male,0,0.0,113503,Widener,man,no_group,1_11350_211.5_C,0.33741496598639453,0
+20.0,,C,4.0125,1,"Betros, Mr. Tannous",0,379,3,male,0,0.0,2648,Betros,man,no_group,3_264_4.0125_C,0.33741496598639453,0
+19.0,,S,7.775,1,"Gustafsson, Mr. Karl Gideon",0,380,3,male,0,0.0,347069,Gustafsson,man,no_group,3_34706_7.775_S,0.33741496598639453,0
+42.0,,C,227.525,1,"Bidois, Miss. Rosalie",0,381,1,female,0,1.0,PC 17757,Bidois,woman,no_group,1_PC 1775_227.525_C,0.33741496598639453,1
+1.0,,C,15.7417,1,"Nakid, Miss. Maria (""Mary"")",2,382,3,female,0,1.0,2653,Nakid,woman,Nakid_3_265_15.7417_C,3_265_15.7417_C,1.0,1
+32.0,,S,7.925,1,"Tikkanen, Mr. Juho",0,383,3,male,0,0.0,STON/O 2. 3101293,Tikkanen,man,no_group,3_STON/O 2. 310129_7.925_S,0.33741496598639453,0
+35.0,,S,52.0,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",0,384,1,female,1,1.0,113789,Holverson,woman,no_group,1_11378_52.0_S,0.33741496598639453,1
+,,S,7.8958,1,"Plotcharsky, Mr. Vasil",0,385,3,male,0,0.0,349227,Plotcharsky,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+18.0,,S,73.5,1,"Davies, Mr. Charles Henry",0,386,2,male,0,0.0,S.O.C. 14879,Davies,man,no_group,2_S.O.C. 1487_73.5_S,0.33741496598639453,0
+1.0,,S,46.9,1,"Goodwin, Master. Sidney Leonard",2,387,3,male,5,0.0,CA 2144,Goodwin,boy,Goodwin_3_CA 214_46.9_S,3_CA 214_46.9_S,0.0,0
+36.0,,S,13.0,1,"Buss, Miss. Kate",0,388,2,female,0,1.0,27849,Buss,woman,no_group,2_2784_13.0_S,0.33741496598639453,1
+,,Q,7.7292,1,"Sadlier, Mr. Matthew",0,389,3,male,0,0.0,367655,Sadlier,man,no_group,3_36765_7.7292_Q,0.33741496598639453,0
+17.0,,C,12.0,1,"Lehmann, Miss. Bertha",0,390,2,female,0,1.0,SC 1748,Lehmann,woman,no_group,2_SC 174_12.0_C,0.33741496598639453,1
+36.0,B96 B98,S,120.0,1,"Carter, Mr. William Ernest",2,391,1,male,1,1.0,113760,Carter,man,no_group,1_11376_120.0_S,0.33741496598639453,0
+21.0,,S,7.7958,1,"Jansson, Mr. Carl Olof",0,392,3,male,0,1.0,350034,Jansson,man,no_group,3_35003_7.7958_S,0.33741496598639453,0
+28.0,,S,7.925,1,"Gustafsson, Mr. Johan Birger",0,393,3,male,2,0.0,3101277,Gustafsson,man,no_group,3_310127_7.925_S,0.33741496598639453,0
+23.0,D36,C,113.275,1,"Newell, Miss. Marjorie",0,394,1,female,1,1.0,35273,Newell,woman,Newell_1_3527_113.275_C,1_3527_113.275_C,1.0,1
+24.0,G6,S,16.7,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",2,395,3,female,0,1.0,PP 9549,Sandstrom,woman,Sandstrom_3_PP 954_16.7_S,3_PP 954_16.7_S,1.0,1
+22.0,,S,7.7958,1,"Johansson, Mr. Erik",0,396,3,male,0,0.0,350052,Johansson,man,no_group,3_35005_7.7958_S,0.33741496598639453,0
+31.0,,S,7.8542,1,"Olsson, Miss. Elina",0,397,3,female,0,0.0,350407,Olsson,woman,no_group,3_35040_7.8542_S,0.33741496598639453,1
+46.0,,S,26.0,1,"McKane, Mr. Peter David",0,398,2,male,0,0.0,28403,McKane,man,no_group,2_2840_26.0_S,0.33741496598639453,0
+23.0,,S,10.5,1,"Pain, Dr. Alfred",0,399,2,male,0,0.0,244278,Pain,man,no_group,2_24427_10.5_S,0.33741496598639453,0
+28.0,,S,12.65,1,"Trout, Mrs. William H (Jessie L)",0,400,2,female,0,1.0,240929,Trout,woman,no_group,2_24092_12.65_S,0.33741496598639453,1
+39.0,,S,7.925,1,"Niskanen, Mr. Juha",0,401,3,male,0,1.0,STON/O 2. 3101289,Niskanen,man,no_group,3_STON/O 2. 310128_7.925_S,0.33741496598639453,0
+26.0,,S,8.05,1,"Adams, Mr. John",0,402,3,male,0,0.0,341826,Adams,man,no_group,3_34182_8.05_S,0.33741496598639453,0
+21.0,,S,9.825,1,"Jussila, Miss. Mari Aina",0,403,3,female,1,0.0,4137,Jussila,woman,Jussila_3_413_9.825_S,3_413_9.825_S,0.0,0
+28.0,,S,15.85,1,"Hakkarainen, Mr. Pekka Pietari",0,404,3,male,1,0.0,STON/O2. 3101279,Hakkarainen,man,no_group,3_STON/O2. 310127_15.85_S,0.33741496598639453,0
+20.0,,S,8.6625,1,"Oreskovic, Miss. Marija",0,405,3,female,0,0.0,315096,Oreskovic,woman,no_group,3_31509_8.6625_S,0.33741496598639453,1
+34.0,,S,21.0,1,"Gale, Mr. Shadrach",0,406,2,male,1,0.0,28664,Gale,man,no_group,2_2866_21.0_S,0.33741496598639453,0
+51.0,,S,7.75,1,"Widegren, Mr. Carl/Charles Peter",0,407,3,male,0,0.0,347064,Widegren,man,no_group,3_34706_7.75_S,0.33741496598639453,0
+3.0,,S,18.75,1,"Richards, Master. William Rowe",1,408,2,male,1,1.0,29106,Richards,boy,Richards_2_2910_18.75_S,2_2910_18.75_S,1.0,1
+21.0,,S,7.775,1,"Birkeland, Mr. Hans Martin Monsen",0,409,3,male,0,0.0,312992,Birkeland,man,no_group,3_31299_7.775_S,0.33741496598639453,0
+,,S,25.4667,1,"Lefebre, Miss. Ida",1,410,3,female,3,0.0,4133,Lefebre,woman,Lefebre_3_413_25.4667_S,3_413_25.4667_S,0.0,0
+,,S,7.8958,1,"Sdycoff, Mr. Todor",0,411,3,male,0,0.0,349222,Sdycoff,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+,,Q,6.8583,1,"Hart, Mr. Henry",0,412,3,male,0,0.0,394140,Hart,man,no_group,3_39414_6.8583_Q,0.33741496598639453,0
+33.0,C78,Q,90.0,1,"Minahan, Miss. Daisy E",0,413,1,female,1,1.0,19928,Minahan,woman,Minahan_1_1992_90.0_Q,1_1992_90.0_Q,1.0,1
+,,S,0.0,1,"Cunningham, Mr. Alfred Fleming",0,414,2,male,0,0.0,239853,Cunningham,man,no_group,2_23985_0.0_S,0.33741496598639453,0
+44.0,,S,7.925,1,"Sundman, Mr. Johan Julian",0,415,3,male,0,1.0,STON/O 2. 3101269,Sundman,man,no_group,3_STON/O 2. 310126_7.925_S,0.33741496598639453,0
+,,S,8.05,1,"Meek, Mrs. Thomas (Annie Louise Rowley)",0,416,3,female,0,0.0,343095,Meek,woman,no_group,3_34309_8.05_S,0.33741496598639453,1
+34.0,,S,32.5,1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1,417,2,female,1,1.0,28220,Drew,woman,Drew_2_2822_32.5_S,2_2822_32.5_S,1.0,1
+18.0,,S,13.0,1,"Silven, Miss. Lyyli Karoliina",2,418,2,female,0,1.0,250652,Silven,woman,no_group,2_25065_13.0_S,0.33741496598639453,1
+30.0,,S,13.0,1,"Matthews, Mr. William John",0,419,2,male,0,0.0,28228,Matthews,man,no_group,2_2822_13.0_S,0.33741496598639453,0
+10.0,,S,24.15,1,"Van Impe, Miss. Catharina",2,420,3,female,0,0.0,345773,Van Impe,woman,Van Impe_3_34577_24.15_S,3_34577_24.15_S,0.0,0
+,,C,7.8958,1,"Gheorgheff, Mr. Stanio",0,421,3,male,0,0.0,349254,Gheorgheff,man,no_group,3_34925_7.8958_C,0.33741496598639453,0
+21.0,,Q,7.7333,1,"Charters, Mr. David",0,422,3,male,0,0.0,A/5. 13032,Charters,man,no_group,3_A/5. 1303_7.7333_Q,0.33741496598639453,0
+29.0,,S,7.875,1,"Zimmerman, Mr. Leo",0,423,3,male,0,0.0,315082,Zimmerman,man,no_group,3_31508_7.875_S,0.33741496598639453,0
+28.0,,S,14.4,1,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",1,424,3,female,1,0.0,347080,Danbom,woman,Danbom_3_34708_14.4_S,3_34708_14.4_S,0.0,0
+18.0,,S,20.2125,1,"Rosblom, Mr. Viktor Richard",1,425,3,male,1,0.0,370129,Rosblom,man,no_group,3_37012_20.2125_S,0.33741496598639453,0
+,,S,7.25,1,"Wiseman, Mr. Phillippe",0,426,3,male,0,0.0,A/4. 34244,Wiseman,man,no_group,3_A/4. 3424_7.25_S,0.33741496598639453,0
+28.0,,S,26.0,1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",0,427,2,female,1,1.0,2003,Clarke,woman,no_group,2_200_26.0_S,0.33741496598639453,1
+19.0,,S,26.0,1,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",0,428,2,female,0,1.0,250655,Phillips,woman,no_group,2_25065_26.0_S,0.33741496598639453,1
+,,Q,7.75,1,"Flynn, Mr. James",0,429,3,male,0,0.0,364851,Flynn,man,no_group,3_36485_7.75_Q,0.33741496598639453,0
+32.0,E10,S,8.05,1,"Pickard, Mr. Berk (Berk Trembisky)",0,430,3,male,0,1.0,SOTON/O.Q. 392078,Pickard,man,no_group,3_SOTON/O.Q. 39207_8.05_S,0.33741496598639453,0
+28.0,C52,S,26.55,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",0,431,1,male,0,1.0,110564,Bjornstrom-Steffansson,man,no_group,1_11056_26.55_S,0.33741496598639453,0
+,,S,16.1,1,"Thorneycroft, Mrs. Percival (Florence Kate White)",0,432,3,female,1,1.0,376564,Thorneycroft,woman,no_group,3_37656_16.1_S,0.33741496598639453,1
+42.0,,S,26.0,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",0,433,2,female,1,1.0,SC/AH 3085,Louch,woman,no_group,2_SC/AH 308_26.0_S,0.33741496598639453,1
+17.0,,S,7.125,1,"Kallio, Mr. Nikolai Erland",0,434,3,male,0,0.0,STON/O 2. 3101274,Kallio,man,no_group,3_STON/O 2. 310127_7.125_S,0.33741496598639453,0
+50.0,E44,S,55.9,1,"Silvey, Mr. William Baird",0,435,1,male,1,0.0,13507,Silvey,man,no_group,1_1350_55.9_S,0.33741496598639453,0
+14.0,B96 B98,S,120.0,1,"Carter, Miss. Lucile Polk",2,436,1,female,1,1.0,113760,Carter,woman,Carter_1_11376_120.0_S,1_11376_120.0_S,1.0,1
+21.0,,S,34.375,1,"Ford, Miss. Doolina Margaret ""Daisy""",2,437,3,female,2,0.0,W./C. 6608,Ford,woman,Ford_3_W./C. 660_34.375_S,3_W./C. 660_34.375_S,0.0,0
+24.0,,S,18.75,1,"Richards, Mrs. Sidney (Emily Hocking)",3,438,2,female,2,1.0,29106,Richards,woman,Richards_2_2910_18.75_S,2_2910_18.75_S,1.0,1
+64.0,C23 C25 C27,S,263.0,1,"Fortune, Mr. Mark",4,439,1,male,1,0.0,19950,Fortune,man,no_group,1_1995_263.0_S,0.33741496598639453,0
+31.0,,S,10.5,1,"Kvillner, Mr. Johan Henrik Johannesson",0,440,2,male,0,0.0,C.A. 18723,Kvillner,man,no_group,2_C.A. 1872_10.5_S,0.33741496598639453,0
+45.0,,S,26.25,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",1,441,2,female,1,1.0,F.C.C. 13529,Hart,woman,Hart_2_F.C.C. 1352_26.25_S,2_F.C.C. 1352_26.25_S,1.0,1
+20.0,,S,9.5,1,"Hampe, Mr. Leon",0,442,3,male,0,0.0,345769,Hampe,man,no_group,3_34576_9.5_S,0.33741496598639453,0
+25.0,,S,7.775,1,"Petterson, Mr. Johan Emil",0,443,3,male,1,0.0,347076,Petterson,man,no_group,3_34707_7.775_S,0.33741496598639453,0
+28.0,,S,13.0,1,"Reynaldo, Ms. Encarnacion",0,444,2,female,0,1.0,230434,Reynaldo,woman,no_group,2_23043_13.0_S,0.33741496598639453,1
+,,S,8.1125,1,"Johannesen-Bratthammer, Mr. Bernt",0,445,3,male,0,1.0,65306,Johannesen-Bratthammer,man,no_group,3_6530_8.1125_S,0.33741496598639453,0
+4.0,A34,S,81.8583,1,"Dodge, Master. Washington",2,446,1,male,0,1.0,33638,Dodge,boy,Dodge_1_3363_81.8583_S,1_3363_81.8583_S,1.0,1
+13.0,,S,19.5,1,"Mellinger, Miss. Madeleine Violet",1,447,2,female,0,1.0,250644,Mellinger,woman,Mellinger_2_25064_19.5_S,2_25064_19.5_S,1.0,1
+34.0,,S,26.55,1,"Seward, Mr. Frederic Kimber",0,448,1,male,0,1.0,113794,Seward,man,no_group,1_11379_26.55_S,0.33741496598639453,0
+5.0,,C,19.2583,1,"Baclini, Miss. Marie Catherine",1,449,3,female,2,1.0,2666,Baclini,woman,Baclini_3_266_19.2583_C,3_266_19.2583_C,1.0,1
+52.0,C104,S,30.5,1,"Peuchen, Major. Arthur Godfrey",0,450,1,male,0,1.0,113786,Peuchen,man,no_group,1_11378_30.5_S,0.33741496598639453,0
+36.0,,S,27.75,1,"West, Mr. Edwy Arthur",2,451,2,male,1,0.0,C.A. 34651,West,man,no_group,2_C.A. 3465_27.75_S,0.33741496598639453,0
+,,S,19.9667,1,"Hagland, Mr. Ingvald Olai Olsen",0,452,3,male,1,0.0,65303,Hagland,man,no_group,3_6530_19.9667_S,0.33741496598639453,0
+30.0,C111,C,27.75,1,"Foreman, Mr. Benjamin Laventall",0,453,1,male,0,0.0,113051,Foreman,man,no_group,1_11305_27.75_C,0.33741496598639453,0
+49.0,C92,C,89.1042,1,"Goldenberg, Mr. Samuel L",0,454,1,male,1,1.0,17453,Goldenberg,man,no_group,1_1745_89.1042_C,0.33741496598639453,0
+,,S,8.05,1,"Peduzzi, Mr. Joseph",0,455,3,male,0,0.0,A/5 2817,Peduzzi,man,no_group,3_A/5 281_8.05_S,0.33741496598639453,0
+29.0,,C,7.8958,1,"Jalsevac, Mr. Ivan",0,456,3,male,0,1.0,349240,Jalsevac,man,no_group,3_34924_7.8958_C,0.33741496598639453,0
+65.0,E38,S,26.55,1,"Millet, Mr. Francis Davis",0,457,1,male,0,0.0,13509,Millet,man,no_group,1_1350_26.55_S,0.33741496598639453,0
+,D21,S,51.8625,1,"Kenyon, Mrs. Frederick R (Marion)",0,458,1,female,1,1.0,17464,Kenyon,woman,no_group,1_1746_51.8625_S,0.33741496598639453,1
+50.0,,S,10.5,1,"Toomey, Miss. Ellen",0,459,2,female,0,1.0,F.C.C. 13531,Toomey,woman,no_group,2_F.C.C. 1353_10.5_S,0.33741496598639453,1
+,,Q,7.75,1,"O'Connor, Mr. Maurice",0,460,3,male,0,0.0,371060,O'Connor,man,no_group,3_37106_7.75_Q,0.33741496598639453,0
+48.0,E12,S,26.55,1,"Anderson, Mr. Harry",0,461,1,male,0,1.0,19952,Anderson,man,no_group,1_1995_26.55_S,0.33741496598639453,0
+34.0,,S,8.05,1,"Morley, Mr. William",0,462,3,male,0,0.0,364506,Morley,man,no_group,3_36450_8.05_S,0.33741496598639453,0
+47.0,E63,S,38.5,1,"Gee, Mr. Arthur H",0,463,1,male,0,0.0,111320,Gee,man,no_group,1_11132_38.5_S,0.33741496598639453,0
+48.0,,S,13.0,1,"Milling, Mr. Jacob Christian",0,464,2,male,0,0.0,234360,Milling,man,no_group,2_23436_13.0_S,0.33741496598639453,0
+,,S,8.05,1,"Maisner, Mr. Simon",0,465,3,male,0,0.0,A/S 2816,Maisner,man,no_group,3_A/S 281_8.05_S,0.33741496598639453,0
+38.0,,S,7.05,1,"Goncalves, Mr. Manuel Estanslas",0,466,3,male,0,0.0,SOTON/O.Q. 3101306,Goncalves,man,no_group,3_SOTON/O.Q. 310130_7.05_S,0.33741496598639453,0
+,,S,0.0,1,"Campbell, Mr. William",0,467,2,male,0,0.0,239853,Campbell,man,no_group,2_23985_0.0_S,0.33741496598639453,0
+56.0,,S,26.55,1,"Smart, Mr. John Montgomery",0,468,1,male,0,0.0,113792,Smart,man,no_group,1_11379_26.55_S,0.33741496598639453,0
+,,Q,7.725,1,"Scanlan, Mr. James",0,469,3,male,0,0.0,36209,Scanlan,man,no_group,3_3620_7.725_Q,0.33741496598639453,0
+0.75,,C,19.2583,1,"Baclini, Miss. Helene Barbara",1,470,3,female,2,1.0,2666,Baclini,woman,Baclini_3_266_19.2583_C,3_266_19.2583_C,1.0,1
+,,S,7.25,1,"Keefe, Mr. Arthur",0,471,3,male,0,0.0,323592,Keefe,man,no_group,3_32359_7.25_S,0.33741496598639453,0
+38.0,,S,8.6625,1,"Cacic, Mr. Luka",0,472,3,male,0,0.0,315089,Cacic,man,no_group,3_31508_8.6625_S,0.33741496598639453,0
+33.0,,S,27.75,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",2,473,2,female,1,1.0,C.A. 34651,West,woman,West_2_C.A. 3465_27.75_S,2_C.A. 3465_27.75_S,1.0,1
+23.0,D,C,13.7917,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",0,474,2,female,0,1.0,SC/AH Basle 541,Jerwan,woman,no_group,2_SC/AH Basle 54_13.7917_C,0.33741496598639453,1
+22.0,,S,9.8375,1,"Strandberg, Miss. Ida Sofia",0,475,3,female,0,0.0,7553,Strandberg,woman,no_group,3_755_9.8375_S,0.33741496598639453,1
+,A14,S,52.0,1,"Clifford, Mr. George Quincy",0,476,1,male,0,0.0,110465,Clifford,man,no_group,1_11046_52.0_S,0.33741496598639453,0
+34.0,,S,21.0,1,"Renouf, Mr. Peter Henry",0,477,2,male,1,0.0,31027,Renouf,man,no_group,2_3102_21.0_S,0.33741496598639453,0
+29.0,,S,7.0458,1,"Braund, Mr. Lewis Richard",0,478,3,male,1,0.0,3460,Braund,man,no_group,3_346_7.0458_S,0.33741496598639453,0
+22.0,,S,7.5208,1,"Karlsson, Mr. Nils August",0,479,3,male,0,0.0,350060,Karlsson,man,no_group,3_35006_7.5208_S,0.33741496598639453,0
+2.0,,S,12.2875,1,"Hirvonen, Miss. Hildur E",1,480,3,female,0,1.0,3101298,Hirvonen,woman,Hirvonen_3_310129_12.2875_S,3_310129_12.2875_S,1.0,1
+9.0,,S,46.9,1,"Goodwin, Master. Harold Victor",2,481,3,male,5,0.0,CA 2144,Goodwin,boy,Goodwin_3_CA 214_46.9_S,3_CA 214_46.9_S,0.0,0
+,,S,0.0,1,"Frost, Mr. Anthony Wood ""Archie""",0,482,2,male,0,0.0,239854,Frost,man,no_group,2_23985_0.0_S,0.33741496598639453,0
+50.0,,S,8.05,1,"Rouse, Mr. Richard Henry",0,483,3,male,0,0.0,A/5 3594,Rouse,man,no_group,3_A/5 359_8.05_S,0.33741496598639453,0
+63.0,,S,9.5875,1,"Turkula, Mrs. (Hedwig)",0,484,3,female,0,1.0,4134,Turkula,woman,no_group,3_413_9.5875_S,0.33741496598639453,1
+25.0,B49,C,91.0792,1,"Bishop, Mr. Dickinson H",0,485,1,male,1,1.0,11967,Bishop,man,no_group,1_1196_91.0792_C,0.33741496598639453,0
+,,S,25.4667,1,"Lefebre, Miss. Jeannie",1,486,3,female,3,0.0,4133,Lefebre,woman,Lefebre_3_413_25.4667_S,3_413_25.4667_S,0.0,0
+35.0,C93,S,90.0,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",0,487,1,female,1,1.0,19943,Hoyt,woman,no_group,1_1994_90.0_S,0.33741496598639453,1
+58.0,B37,C,29.7,1,"Kent, Mr. Edward Austin",0,488,1,male,0,0.0,11771,Kent,man,no_group,1_1177_29.7_C,0.33741496598639453,0
+30.0,,S,8.05,1,"Somerton, Mr. Francis William",0,489,3,male,0,0.0,A.5. 18509,Somerton,man,no_group,3_A.5. 1850_8.05_S,0.33741496598639453,0
+9.0,,S,15.9,1,"Coutts, Master. Eden Leslie ""Neville""",1,490,3,male,1,1.0,C.A. 37671,Coutts,boy,Coutts_3_C.A. 3767_15.9_S,3_C.A. 3767_15.9_S,1.0,1
+,,S,19.9667,1,"Hagland, Mr. Konrad Mathias Reiersen",0,491,3,male,1,0.0,65304,Hagland,man,no_group,3_6530_19.9667_S,0.33741496598639453,0
+21.0,,S,7.25,1,"Windelov, Mr. Einar",0,492,3,male,0,0.0,SOTON/OQ 3101317,Windelov,man,no_group,3_SOTON/OQ 310131_7.25_S,0.33741496598639453,0
+55.0,C30,S,30.5,1,"Molson, Mr. Harry Markland",0,493,1,male,0,0.0,113787,Molson,man,no_group,1_11378_30.5_S,0.33741496598639453,0
+71.0,,C,49.5042,1,"Artagaveytia, Mr. Ramon",0,494,1,male,0,0.0,PC 17609,Artagaveytia,man,no_group,1_PC 1760_49.5042_C,0.33741496598639453,0
+21.0,,S,8.05,1,"Stanley, Mr. Edward Roland",0,495,3,male,0,0.0,A/4 45380,Stanley,man,no_group,3_A/4 4538_8.05_S,0.33741496598639453,0
+,,C,14.4583,1,"Yousseff, Mr. Gerious",0,496,3,male,0,0.0,2627,Yousseff,man,no_group,3_262_14.4583_C,0.33741496598639453,0
+54.0,D20,C,78.2667,1,"Eustis, Miss. Elizabeth Mussey",0,497,1,female,1,1.0,36947,Eustis,woman,no_group,1_3694_78.2667_C,0.33741496598639453,1
+,,S,15.1,1,"Shellard, Mr. Frederick William",0,498,3,male,0,0.0,C.A. 6212,Shellard,man,no_group,3_C.A. 621_15.1_S,0.33741496598639453,0
+25.0,C22 C26,S,151.55,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",2,499,1,female,1,0.0,113781,Allison,woman,Allison_1_11378_151.55_S,1_11378_151.55_S,0.5,1
+24.0,,S,7.7958,1,"Svensson, Mr. Olof",0,500,3,male,0,0.0,350035,Svensson,man,no_group,3_35003_7.7958_S,0.33741496598639453,0
+17.0,,S,8.6625,1,"Calic, Mr. Petar",0,501,3,male,0,0.0,315086,Calic,man,no_group,3_31508_8.6625_S,0.33741496598639453,0
+21.0,,Q,7.75,1,"Canavan, Miss. Mary",0,502,3,female,0,0.0,364846,Canavan,woman,no_group,3_36484_7.75_Q,0.33741496598639453,1
+,,Q,7.6292,1,"O'Sullivan, Miss. Bridget Mary",0,503,3,female,0,0.0,330909,O'Sullivan,woman,no_group,3_33090_7.6292_Q,0.33741496598639453,1
+37.0,,S,9.5875,1,"Laitinen, Miss. Kristina Sofia",0,504,3,female,0,0.0,4135,Laitinen,woman,no_group,3_413_9.5875_S,0.33741496598639453,1
+16.0,B79,S,86.5,1,"Maioni, Miss. Roberta",0,505,1,female,0,1.0,110152,Maioni,woman,no_group,1_11015_86.5_S,0.33741496598639453,1
+18.0,C65,C,108.9,1,"Penasco y Castellana, Mr. Victor de Satode",0,506,1,male,1,0.0,PC 17758,Penasco y Castellana,man,no_group,1_PC 1775_108.9_C,0.33741496598639453,0
+33.0,,S,26.0,1,"Quick, Mrs. Frederick Charles (Jane Richards)",2,507,2,female,0,1.0,26360,Quick,woman,Quick_2_2636_26.0_S,2_2636_26.0_S,1.0,1
+,,S,26.55,1,"Bradley, Mr. George (""George Arthur Brayton"")",0,508,1,male,0,1.0,111427,Bradley,man,no_group,1_11142_26.55_S,0.33741496598639453,0
+28.0,,S,22.525,1,"Olsen, Mr. Henry Margido",0,509,3,male,0,0.0,C 4001,Olsen,man,no_group,3_C 400_22.525_S,0.33741496598639453,0
+26.0,,S,56.4958,1,"Lang, Mr. Fang",0,510,3,male,0,1.0,1601,Lang,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+29.0,,Q,7.75,1,"Daly, Mr. Eugene Patrick",0,511,3,male,0,1.0,382651,Daly,man,no_group,3_38265_7.75_Q,0.33741496598639453,0
+,,S,8.05,1,"Webber, Mr. James",0,512,3,male,0,0.0,SOTON/OQ 3101316,Webber,man,no_group,3_SOTON/OQ 310131_8.05_S,0.33741496598639453,0
+36.0,E25,S,26.2875,1,"McGough, Mr. James Robert",0,513,1,male,0,1.0,PC 17473,McGough,man,no_group,1_PC 1747_26.2875_S,0.33741496598639453,0
+54.0,,C,59.4,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",0,514,1,female,1,1.0,PC 17603,Rothschild,woman,no_group,1_PC 1760_59.4_C,0.33741496598639453,1
+24.0,,S,7.4958,1,"Coleff, Mr. Satio",0,515,3,male,0,0.0,349209,Coleff,man,no_group,3_34920_7.4958_S,0.33741496598639453,0
+47.0,D46,S,34.0208,1,"Walker, Mr. William Anderson",0,516,1,male,0,0.0,36967,Walker,man,no_group,1_3696_34.0208_S,0.33741496598639453,0
+34.0,F33,S,10.5,1,"Lemore, Mrs. (Amelia Milley)",0,517,2,female,0,1.0,C.A. 34260,Lemore,woman,no_group,2_C.A. 3426_10.5_S,0.33741496598639453,1
+,,Q,24.15,1,"Ryan, Mr. Patrick",0,518,3,male,0,0.0,371110,Ryan,man,no_group,3_37111_24.15_Q,0.33741496598639453,0
+36.0,,S,26.0,1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",0,519,2,female,1,1.0,226875,Angle,woman,no_group,2_22687_26.0_S,0.33741496598639453,1
+32.0,,S,7.8958,1,"Pavlovic, Mr. Stefo",0,520,3,male,0,0.0,349242,Pavlovic,man,no_group,3_34924_7.8958_S,0.33741496598639453,0
+30.0,B73,S,93.5,1,"Perreault, Miss. Anne",0,521,1,female,0,1.0,12749,Perreault,woman,no_group,1_1274_93.5_S,0.33741496598639453,1
+22.0,,S,7.8958,1,"Vovk, Mr. Janko",0,522,3,male,0,0.0,349252,Vovk,man,no_group,3_34925_7.8958_S,0.33741496598639453,0
+,,C,7.225,1,"Lahoud, Mr. Sarkis",0,523,3,male,0,0.0,2624,Lahoud,man,no_group,3_262_7.225_C,0.33741496598639453,0
+44.0,B18,C,57.9792,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",1,524,1,female,0,1.0,111361,Hippach,woman,Hippach_1_11136_57.9792_C,1_11136_57.9792_C,1.0,1
+,,C,7.2292,1,"Kassem, Mr. Fared",0,525,3,male,0,0.0,2700,Kassem,man,no_group,3_270_7.2292_C,0.33741496598639453,0
+40.5,,Q,7.75,1,"Farrell, Mr. James",0,526,3,male,0,0.0,367232,Farrell,man,no_group,3_36723_7.75_Q,0.33741496598639453,0
+50.0,,S,10.5,1,"Ridsdale, Miss. Lucy",0,527,2,female,0,1.0,W./C. 14258,Ridsdale,woman,no_group,2_W./C. 1425_10.5_S,0.33741496598639453,1
+,C95,S,221.7792,1,"Farthing, Mr. John",0,528,1,male,0,0.0,PC 17483,Farthing,man,no_group,1_PC 1748_221.7792_S,0.33741496598639453,0
+39.0,,S,7.925,1,"Salonen, Mr. Johan Werner",0,529,3,male,0,0.0,3101296,Salonen,man,no_group,3_310129_7.925_S,0.33741496598639453,0
+23.0,,S,11.5,1,"Hocking, Mr. Richard George",1,530,2,male,2,0.0,29104,Hocking,man,no_group,2_2910_11.5_S,0.33741496598639453,0
+2.0,,S,26.0,1,"Quick, Miss. Phyllis May",1,531,2,female,1,1.0,26360,Quick,woman,Quick_2_2636_26.0_S,2_2636_26.0_S,1.0,1
+,,C,7.2292,1,"Toufik, Mr. Nakli",0,532,3,male,0,0.0,2641,Toufik,man,no_group,3_264_7.2292_C,0.33741496598639453,0
+17.0,,C,7.2292,1,"Elias, Mr. Joseph Jr",1,533,3,male,1,0.0,2690,Elias,man,no_group,3_269_7.2292_C,0.33741496598639453,0
+,,C,22.3583,1,"Peter, Mrs. Catherine (Catherine Rizk)",2,534,3,female,0,1.0,2668,Peter,woman,Peter_3_266_22.3583_C,3_266_22.3583_C,1.0,1
+30.0,,S,8.6625,1,"Cacic, Miss. Marija",0,535,3,female,0,0.0,315084,Cacic,woman,Cacic_3_31508_8.6625_S,3_31508_8.6625_S,0.0,0
+7.0,,S,26.25,1,"Hart, Miss. Eva Miriam",2,536,2,female,0,1.0,F.C.C. 13529,Hart,woman,Hart_2_F.C.C. 1352_26.25_S,2_F.C.C. 1352_26.25_S,1.0,1
+45.0,B38,S,26.55,1,"Butt, Major. Archibald Willingham",0,537,1,male,0,0.0,113050,Butt,man,no_group,1_11305_26.55_S,0.33741496598639453,0
+30.0,,C,106.425,1,"LeRoy, Miss. Bertha",0,538,1,female,0,1.0,PC 17761,LeRoy,woman,no_group,1_PC 1776_106.425_C,0.33741496598639453,1
+,,S,14.5,1,"Risien, Mr. Samuel Beard",0,539,3,male,0,0.0,364498,Risien,man,no_group,3_36449_14.5_S,0.33741496598639453,0
+22.0,B39,C,49.5,1,"Frolicher, Miss. Hedwig Margaritha",2,540,1,female,0,1.0,13568,Frolicher,woman,no_group,1_1356_49.5_C,0.33741496598639453,1
+36.0,B22,S,71.0,1,"Crosby, Miss. Harriet R",2,541,1,female,0,1.0,WE/P 5735,Crosby,woman,no_group,1_WE/P 573_71.0_S,0.33741496598639453,1
+9.0,,S,31.275,1,"Andersson, Miss. Ingeborg Constanzia",2,542,3,female,4,0.0,347082,Andersson,woman,Andersson_3_34708_31.275_S,3_34708_31.275_S,0.0,0
+11.0,,S,31.275,1,"Andersson, Miss. Sigrid Elisabeth",2,543,3,female,4,0.0,347082,Andersson,woman,Andersson_3_34708_31.275_S,3_34708_31.275_S,0.0,0
+32.0,,S,26.0,1,"Beane, Mr. Edward",0,544,2,male,1,1.0,2908,Beane,man,no_group,2_290_26.0_S,0.33741496598639453,0
+50.0,C86,C,106.425,1,"Douglas, Mr. Walter Donald",0,545,1,male,1,0.0,PC 17761,Douglas,man,no_group,1_PC 1776_106.425_C,0.33741496598639453,0
+64.0,,S,26.0,1,"Nicholson, Mr. Arthur Ernest",0,546,1,male,0,0.0,693,Nicholson,man,no_group,1_69_26.0_S,0.33741496598639453,0
+19.0,,S,26.0,1,"Beane, Mrs. Edward (Ethel Clarke)",0,547,2,female,1,1.0,2908,Beane,woman,no_group,2_290_26.0_S,0.33741496598639453,1
+,,C,13.8625,1,"Padro y Manent, Mr. Julian",0,548,2,male,0,1.0,SC/PARIS 2146,Padro y Manent,man,no_group,2_SC/PARIS 214_13.8625_C,0.33741496598639453,0
+33.0,,S,20.525,1,"Goldsmith, Mr. Frank John",1,549,3,male,1,0.0,363291,Goldsmith,man,no_group,3_36329_20.525_S,0.33741496598639453,0
+8.0,,S,36.75,1,"Davies, Master. John Morgan Jr",1,550,2,male,1,1.0,C.A. 33112,Davies,boy,Davies_2_C.A. 3311_36.75_S,2_C.A. 3311_36.75_S,1.0,1
+17.0,C70,C,110.8833,1,"Thayer, Mr. John Borland Jr",2,551,1,male,0,1.0,17421,Thayer,man,no_group,1_1742_110.8833_C,0.33741496598639453,0
+27.0,,S,26.0,1,"Sharp, Mr. Percival James R",0,552,2,male,0,0.0,244358,Sharp,man,no_group,2_24435_26.0_S,0.33741496598639453,0
+,,Q,7.8292,1,"O'Brien, Mr. Timothy",0,553,3,male,0,0.0,330979,O'Brien,man,no_group,3_33097_7.8292_Q,0.33741496598639453,0
+22.0,,C,7.225,1,"Leeni, Mr. Fahim (""Philip Zenni"")",0,554,3,male,0,1.0,2620,Leeni,man,no_group,3_262_7.225_C,0.33741496598639453,0
+22.0,,S,7.775,1,"Ohman, Miss. Velin",0,555,3,female,0,1.0,347085,Ohman,woman,no_group,3_34708_7.775_S,0.33741496598639453,1
+62.0,,S,26.55,1,"Wright, Mr. George",0,556,1,male,0,0.0,113807,Wright,man,no_group,1_11380_26.55_S,0.33741496598639453,0
+48.0,A16,C,39.6,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",0,557,1,female,1,1.0,11755,Duff Gordon,woman,no_group,1_1175_39.6_C,0.33741496598639453,1
+,,C,227.525,1,"Robbins, Mr. Victor",0,558,1,male,0,0.0,PC 17757,Robbins,man,no_group,1_PC 1775_227.525_C,0.33741496598639453,0
+39.0,E67,S,79.65,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",1,559,1,female,1,1.0,110413,Taussig,woman,Taussig_1_11041_79.65_S,1_11041_79.65_S,1.0,1
+36.0,,S,17.4,1,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",0,560,3,female,1,1.0,345572,de Messemaeker,woman,no_group,3_34557_17.4_S,0.33741496598639453,1
+,,Q,7.75,1,"Morrow, Mr. Thomas Rowan",0,561,3,male,0,0.0,372622,Morrow,man,no_group,3_37262_7.75_Q,0.33741496598639453,0
+40.0,,S,7.8958,1,"Sivic, Mr. Husein",0,562,3,male,0,0.0,349251,Sivic,man,no_group,3_34925_7.8958_S,0.33741496598639453,0
+28.0,,S,13.5,1,"Norman, Mr. Robert Douglas",0,563,2,male,0,0.0,218629,Norman,man,no_group,2_21862_13.5_S,0.33741496598639453,0
+,,S,8.05,1,"Simmons, Mr. John",0,564,3,male,0,0.0,SOTON/OQ 392082,Simmons,man,no_group,3_SOTON/OQ 39208_8.05_S,0.33741496598639453,0
+,,S,8.05,1,"Meanwell, Miss. (Marion Ogden)",0,565,3,female,0,0.0,SOTON/O.Q. 392087,Meanwell,woman,no_group,3_SOTON/O.Q. 39208_8.05_S,0.33741496598639453,1
+24.0,,S,24.15,1,"Davies, Mr. Alfred J",0,566,3,male,2,0.0,A/4 48871,Davies,man,no_group,3_A/4 4887_24.15_S,0.33741496598639453,0
+19.0,,S,7.8958,1,"Stoytcheff, Mr. Ilia",0,567,3,male,0,0.0,349205,Stoytcheff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+29.0,,S,21.075,1,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",4,568,3,female,0,0.0,349909,Palsson,woman,Palsson_3_34990_21.075_S,3_34990_21.075_S,0.0,0
+,,C,7.2292,1,"Doharr, Mr. Tannous",0,569,3,male,0,0.0,2686,Doharr,man,no_group,3_268_7.2292_C,0.33741496598639453,0
+32.0,,S,7.8542,1,"Jonsson, Mr. Carl",0,570,3,male,0,1.0,350417,Jonsson,man,no_group,3_35041_7.8542_S,0.33741496598639453,0
+62.0,,S,10.5,1,"Harris, Mr. George",0,571,2,male,0,1.0,S.W./PP 752,Harris,man,no_group,2_S.W./PP 75_10.5_S,0.33741496598639453,0
+53.0,C101,S,51.4792,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",0,572,1,female,2,1.0,11769,Appleton,woman,no_group,1_1176_51.4792_S,0.33741496598639453,1
+36.0,E25,S,26.3875,1,"Flynn, Mr. John Irwin (""Irving"")",0,573,1,male,0,1.0,PC 17474,Flynn,man,no_group,1_PC 1747_26.3875_S,0.33741496598639453,0
+,,Q,7.75,1,"Kelly, Miss. Mary",0,574,3,female,0,1.0,14312,Kelly,woman,no_group,3_1431_7.75_Q,0.33741496598639453,1
+16.0,,S,8.05,1,"Rush, Mr. Alfred George John",0,575,3,male,0,0.0,A/4. 20589,Rush,man,no_group,3_A/4. 2058_8.05_S,0.33741496598639453,0
+19.0,,S,14.5,1,"Patchett, Mr. George",0,576,3,male,0,0.0,358585,Patchett,man,no_group,3_35858_14.5_S,0.33741496598639453,0
+34.0,,S,13.0,1,"Garside, Miss. Ethel",0,577,2,female,0,1.0,243880,Garside,woman,no_group,2_24388_13.0_S,0.33741496598639453,1
+39.0,E44,S,55.9,1,"Silvey, Mrs. William Baird (Alice Munger)",0,578,1,female,1,1.0,13507,Silvey,woman,no_group,1_1350_55.9_S,0.33741496598639453,1
+,,C,14.4583,1,"Caram, Mrs. Joseph (Maria Elias)",0,579,3,female,1,0.0,2689,Caram,woman,no_group,3_268_14.4583_C,0.33741496598639453,1
+32.0,,S,7.925,1,"Jussila, Mr. Eiriik",0,580,3,male,0,1.0,STON/O 2. 3101286,Jussila,man,no_group,3_STON/O 2. 310128_7.925_S,0.33741496598639453,0
+25.0,,S,30.0,1,"Christy, Miss. Julie Rachel",1,581,2,female,1,1.0,237789,Christy,woman,Christy_2_23778_30.0_S,2_23778_30.0_S,1.0,1
+39.0,C68,C,110.8833,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",1,582,1,female,1,1.0,17421,Thayer,woman,no_group,1_1742_110.8833_C,0.33741496598639453,1
+54.0,,S,26.0,1,"Downton, Mr. William James",0,583,2,male,0,0.0,28403,Downton,man,no_group,2_2840_26.0_S,0.33741496598639453,0
+36.0,A10,C,40.125,1,"Ross, Mr. John Hugo",0,584,1,male,0,0.0,13049,Ross,man,no_group,1_1304_40.125_C,0.33741496598639453,0
+,,C,8.7125,1,"Paulner, Mr. Uscher",0,585,3,male,0,0.0,3411,Paulner,man,no_group,3_341_8.7125_C,0.33741496598639453,0
+18.0,E68,S,79.65,1,"Taussig, Miss. Ruth",2,586,1,female,0,1.0,110413,Taussig,woman,Taussig_1_11041_79.65_S,1_11041_79.65_S,1.0,1
+47.0,,S,15.0,1,"Jarvis, Mr. John Denzil",0,587,2,male,0,0.0,237565,Jarvis,man,no_group,2_23756_15.0_S,0.33741496598639453,0
+60.0,B41,C,79.2,1,"Frolicher-Stehli, Mr. Maxmillian",1,588,1,male,1,1.0,13567,Frolicher-Stehli,man,no_group,1_1356_79.2_C,0.33741496598639453,0
+22.0,,S,8.05,1,"Gilinski, Mr. Eliezer",0,589,3,male,0,0.0,14973,Gilinski,man,no_group,3_1497_8.05_S,0.33741496598639453,0
+,,S,8.05,1,"Murdlin, Mr. Joseph",0,590,3,male,0,0.0,A./5. 3235,Murdlin,man,no_group,3_A./5. 323_8.05_S,0.33741496598639453,0
+35.0,,S,7.125,1,"Rintamaki, Mr. Matti",0,591,3,male,0,0.0,STON/O 2. 3101273,Rintamaki,man,no_group,3_STON/O 2. 310127_7.125_S,0.33741496598639453,0
+52.0,D20,C,78.2667,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",0,592,1,female,1,1.0,36947,Stephenson,woman,no_group,1_3694_78.2667_C,0.33741496598639453,1
+47.0,,S,7.25,1,"Elsbury, Mr. William James",0,593,3,male,0,0.0,A/5 3902,Elsbury,man,no_group,3_A/5 390_7.25_S,0.33741496598639453,0
+,,Q,7.75,1,"Bourke, Miss. Mary",2,594,3,female,0,0.0,364848,Bourke,woman,no_group,3_36484_7.75_Q,0.33741496598639453,1
+37.0,,S,26.0,1,"Chapman, Mr. John Henry",0,595,2,male,1,0.0,SC/AH 29037,Chapman,man,no_group,2_SC/AH 2903_26.0_S,0.33741496598639453,0
+36.0,,S,24.15,1,"Van Impe, Mr. Jean Baptiste",1,596,3,male,1,0.0,345773,Van Impe,man,no_group,3_34577_24.15_S,0.33741496598639453,0
+,,S,33.0,1,"Leitch, Miss. Jessie Wills",0,597,2,female,0,1.0,248727,Leitch,woman,no_group,2_24872_33.0_S,0.33741496598639453,1
+49.0,,S,0.0,1,"Johnson, Mr. Alfred",0,598,3,male,0,0.0,LINE,Johnson,man,no_group,3_LIN_0.0_S,0.33741496598639453,0
+,,C,7.225,1,"Boulos, Mr. Hanna",0,599,3,male,0,0.0,2664,Boulos,man,no_group,3_266_7.225_C,0.33741496598639453,0
+49.0,A20,C,56.9292,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",0,600,1,male,1,1.0,PC 17485,Duff Gordon,man,no_group,1_PC 1748_56.9292_C,0.33741496598639453,0
+24.0,,S,27.0,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",1,601,2,female,2,1.0,243847,Jacobsohn,woman,no_group,2_24384_27.0_S,0.33741496598639453,1
+,,S,7.8958,1,"Slabenoff, Mr. Petco",0,602,3,male,0,0.0,349214,Slabenoff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+,,S,42.4,1,"Harrington, Mr. Charles H",0,603,1,male,0,0.0,113796,Harrington,man,no_group,1_11379_42.4_S,0.33741496598639453,0
+44.0,,S,8.05,1,"Torber, Mr. Ernst William",0,604,3,male,0,0.0,364511,Torber,man,no_group,3_36451_8.05_S,0.33741496598639453,0
+35.0,,C,26.55,1,"Homer, Mr. Harry (""Mr E Haven"")",0,605,1,male,0,1.0,111426,Homer,man,no_group,1_11142_26.55_C,0.33741496598639453,0
+36.0,,S,15.55,1,"Lindell, Mr. Edvard Bengtsson",0,606,3,male,1,0.0,349910,Lindell,man,no_group,3_34991_15.55_S,0.33741496598639453,0
+30.0,,S,7.8958,1,"Karaic, Mr. Milan",0,607,3,male,0,0.0,349246,Karaic,man,no_group,3_34924_7.8958_S,0.33741496598639453,0
+27.0,,S,30.5,1,"Daniel, Mr. Robert Williams",0,608,1,male,0,1.0,113804,Daniel,man,no_group,1_11380_30.5_S,0.33741496598639453,0
+22.0,,C,41.5792,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",2,609,2,female,1,1.0,SC/Paris 2123,Laroche,woman,Laroche_2_SC/Paris 212_41.5792_C,2_SC/Paris 212_41.5792_C,1.0,1
+40.0,C125,S,153.4625,1,"Shutes, Miss. Elizabeth W",0,610,1,female,0,1.0,PC 17582,Shutes,woman,no_group,1_PC 1758_153.4625_S,0.33741496598639453,1
+39.0,,S,31.275,1,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",5,611,3,female,1,0.0,347082,Andersson,woman,Andersson_3_34708_31.275_S,3_34708_31.275_S,0.0,0
+,,S,7.05,1,"Jardin, Mr. Jose Neto",0,612,3,male,0,0.0,SOTON/O.Q. 3101305,Jardin,man,no_group,3_SOTON/O.Q. 310130_7.05_S,0.33741496598639453,0
+,,Q,15.5,1,"Murphy, Miss. Margaret Jane",0,613,3,female,1,1.0,367230,Murphy,woman,Murphy_3_36723_15.5_Q,3_36723_15.5_Q,1.0,1
+,,Q,7.75,1,"Horgan, Mr. John",0,614,3,male,0,0.0,370377,Horgan,man,no_group,3_37037_7.75_Q,0.33741496598639453,0
+35.0,,S,8.05,1,"Brocklebank, Mr. William Alfred",0,615,3,male,0,0.0,364512,Brocklebank,man,no_group,3_36451_8.05_S,0.33741496598639453,0
+24.0,,S,65.0,1,"Herman, Miss. Alice",2,616,2,female,1,1.0,220845,Herman,woman,Herman_2_22084_65.0_S,2_22084_65.0_S,1.0,1
+34.0,,S,14.4,1,"Danbom, Mr. Ernst Gilbert",1,617,3,male,1,0.0,347080,Danbom,man,no_group,3_34708_14.4_S,0.33741496598639453,0
+26.0,,S,16.1,1,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",0,618,3,female,1,0.0,A/5. 3336,Lobb,woman,no_group,3_A/5. 333_16.1_S,0.33741496598639453,1
+4.0,F4,S,39.0,1,"Becker, Miss. Marion Louise",1,619,2,female,2,1.0,230136,Becker,woman,Becker_2_23013_39.0_S,2_23013_39.0_S,1.0,1
+26.0,,S,10.5,1,"Gavey, Mr. Lawrence",0,620,2,male,0,0.0,31028,Gavey,man,no_group,2_3102_10.5_S,0.33741496598639453,0
+27.0,,C,14.4542,1,"Yasbeck, Mr. Antoni",0,621,3,male,1,0.0,2659,Yasbeck,man,no_group,3_265_14.4542_C,0.33741496598639453,0
+42.0,D19,S,52.5542,1,"Kimball, Mr. Edwin Nelson Jr",0,622,1,male,1,1.0,11753,Kimball,man,no_group,1_1175_52.5542_S,0.33741496598639453,0
+20.0,,C,15.7417,1,"Nakid, Mr. Sahid",1,623,3,male,1,1.0,2653,Nakid,man,no_group,3_265_15.7417_C,0.33741496598639453,0
+21.0,,S,7.8542,1,"Hansen, Mr. Henry Damsgaard",0,624,3,male,0,0.0,350029,Hansen,man,no_group,3_35002_7.8542_S,0.33741496598639453,0
+21.0,,S,16.1,1,"Bowen, Mr. David John ""Dai""",0,625,3,male,0,0.0,54636,Bowen,man,no_group,3_5463_16.1_S,0.33741496598639453,0
+61.0,D50,S,32.3208,1,"Sutton, Mr. Frederick",0,626,1,male,0,0.0,36963,Sutton,man,no_group,1_3696_32.3208_S,0.33741496598639453,0
+57.0,,Q,12.35,1,"Kirkland, Rev. Charles Leonard",0,627,2,male,0,0.0,219533,Kirkland,man,no_group,2_21953_12.35_Q,0.33741496598639453,0
+21.0,D9,S,77.9583,1,"Longley, Miss. Gretchen Fiske",0,628,1,female,0,1.0,13502,Longley,woman,no_group,1_1350_77.9583_S,0.33741496598639453,1
+26.0,,S,7.8958,1,"Bostandyeff, Mr. Guentcho",0,629,3,male,0,0.0,349224,Bostandyeff,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+,,Q,7.7333,1,"O'Connell, Mr. Patrick D",0,630,3,male,0,0.0,334912,O'Connell,man,no_group,3_33491_7.7333_Q,0.33741496598639453,0
+80.0,A23,S,30.0,1,"Barkworth, Mr. Algernon Henry Wilson",0,631,1,male,0,1.0,27042,Barkworth,man,no_group,1_2704_30.0_S,0.33741496598639453,0
+51.0,,S,7.0542,1,"Lundahl, Mr. Johan Svensson",0,632,3,male,0,0.0,347743,Lundahl,man,no_group,3_34774_7.0542_S,0.33741496598639453,0
+32.0,B50,C,30.5,1,"Stahelin-Maeglin, Dr. Max",0,633,1,male,0,1.0,13214,Stahelin-Maeglin,man,no_group,1_1321_30.5_C,0.33741496598639453,0
+,,S,0.0,1,"Parr, Mr. William Henry Marsh",0,634,1,male,0,0.0,112052,Parr,man,no_group,1_11205_0.0_S,0.33741496598639453,0
+9.0,,S,27.9,1,"Skoog, Miss. Mabel",2,635,3,female,3,0.0,347088,Skoog,woman,Skoog_3_34708_27.9_S,3_34708_27.9_S,0.0,0
+28.0,,S,13.0,1,"Davis, Miss. Mary",0,636,2,female,0,1.0,237668,Davis,woman,no_group,2_23766_13.0_S,0.33741496598639453,1
+32.0,,S,7.925,1,"Leinonen, Mr. Antti Gustaf",0,637,3,male,0,0.0,STON/O 2. 3101292,Leinonen,man,no_group,3_STON/O 2. 310129_7.925_S,0.33741496598639453,0
+31.0,,S,26.25,1,"Collyer, Mr. Harvey",1,638,2,male,1,0.0,C.A. 31921,Collyer,man,no_group,2_C.A. 3192_26.25_S,0.33741496598639453,0
+41.0,,S,39.6875,1,"Panula, Mrs. Juha (Maria Emilia Ojala)",5,639,3,female,0,0.0,3101295,Panula,woman,Panula_3_310129_39.6875_S,3_310129_39.6875_S,0.0,0
+,,S,16.1,1,"Thorneycroft, Mr. Percival",0,640,3,male,1,0.0,376564,Thorneycroft,man,no_group,3_37656_16.1_S,0.33741496598639453,0
+20.0,,S,7.8542,1,"Jensen, Mr. Hans Peder",0,641,3,male,0,0.0,350050,Jensen,man,no_group,3_35005_7.8542_S,0.33741496598639453,0
+24.0,B35,C,69.3,1,"Sagesser, Mlle. Emma",0,642,1,female,0,1.0,PC 17477,Sagesser,woman,no_group,1_PC 1747_69.3_C,0.33741496598639453,1
+2.0,,S,27.9,1,"Skoog, Miss. Margit Elizabeth",2,643,3,female,3,0.0,347088,Skoog,woman,Skoog_3_34708_27.9_S,3_34708_27.9_S,0.0,0
+,,S,56.4958,1,"Foo, Mr. Choong",0,644,3,male,0,1.0,1601,Foo,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+0.75,,C,19.2583,1,"Baclini, Miss. Eugenie",1,645,3,female,2,1.0,2666,Baclini,woman,Baclini_3_266_19.2583_C,3_266_19.2583_C,1.0,1
+48.0,D33,C,76.7292,1,"Harper, Mr. Henry Sleeper",0,646,1,male,1,1.0,PC 17572,Harper,man,no_group,1_PC 1757_76.7292_C,0.33741496598639453,0
+19.0,,S,7.8958,1,"Cor, Mr. Liudevit",0,647,3,male,0,0.0,349231,Cor,man,no_group,3_34923_7.8958_S,0.33741496598639453,0
+56.0,A26,C,35.5,1,"Simonius-Blumer, Col. Oberst Alfons",0,648,1,male,0,1.0,13213,Simonius-Blumer,man,no_group,1_1321_35.5_C,0.33741496598639453,0
+,,S,7.55,1,"Willey, Mr. Edward",0,649,3,male,0,0.0,S.O./P.P. 751,Willey,man,no_group,3_S.O./P.P. 75_7.55_S,0.33741496598639453,0
+23.0,,S,7.55,1,"Stanley, Miss. Amy Zillah Elsie",0,650,3,female,0,1.0,CA. 2314,Stanley,woman,no_group,3_CA. 231_7.55_S,0.33741496598639453,1
+,,S,7.8958,1,"Mitkoff, Mr. Mito",0,651,3,male,0,0.0,349221,Mitkoff,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+18.0,,S,23.0,1,"Doling, Miss. Elsie",1,652,2,female,0,1.0,231919,Doling,woman,Doling_2_23191_23.0_S,2_23191_23.0_S,1.0,1
+21.0,,S,8.4333,1,"Kalvik, Mr. Johannes Halvorsen",0,653,3,male,0,0.0,8475,Kalvik,man,no_group,3_847_8.4333_S,0.33741496598639453,0
+,,Q,7.8292,1,"O'Leary, Miss. Hanora ""Norah""",0,654,3,female,0,1.0,330919,O'Leary,woman,no_group,3_33091_7.8292_Q,0.33741496598639453,1
+18.0,,Q,6.75,1,"Hegarty, Miss. Hanora ""Nora""",0,655,3,female,0,0.0,365226,Hegarty,woman,no_group,3_36522_6.75_Q,0.33741496598639453,1
+24.0,,S,73.5,1,"Hickman, Mr. Leonard Mark",0,656,2,male,2,0.0,S.O.C. 14879,Hickman,man,no_group,2_S.O.C. 1487_73.5_S,0.33741496598639453,0
+,,S,7.8958,1,"Radeff, Mr. Alexander",0,657,3,male,0,0.0,349223,Radeff,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+32.0,,Q,15.5,1,"Bourke, Mrs. John (Catherine)",1,658,3,female,1,0.0,364849,Bourke,woman,no_group,3_36484_15.5_Q,0.33741496598639453,1
+23.0,,S,13.0,1,"Eitemiller, Mr. George Floyd",0,659,2,male,0,0.0,29751,Eitemiller,man,no_group,2_2975_13.0_S,0.33741496598639453,0
+58.0,D48,C,113.275,1,"Newell, Mr. Arthur Webster",2,660,1,male,0,0.0,35273,Newell,man,no_group,1_3527_113.275_C,0.33741496598639453,0
+50.0,,S,133.65,1,"Frauenthal, Dr. Henry William",0,661,1,male,2,1.0,PC 17611,Frauenthal,man,no_group,1_PC 1761_133.65_S,0.33741496598639453,0
+40.0,,C,7.225,1,"Badt, Mr. Mohamed",0,662,3,male,0,0.0,2623,Badt,man,no_group,3_262_7.225_C,0.33741496598639453,0
+47.0,E58,S,25.5875,1,"Colley, Mr. Edward Pomeroy",0,663,1,male,0,0.0,5727,Colley,man,no_group,1_572_25.5875_S,0.33741496598639453,0
+36.0,,S,7.4958,1,"Coleff, Mr. Peju",0,664,3,male,0,0.0,349210,Coleff,man,no_group,3_34921_7.4958_S,0.33741496598639453,0
+20.0,,S,7.925,1,"Lindqvist, Mr. Eino William",0,665,3,male,1,1.0,STON/O 2. 3101285,Lindqvist,man,no_group,3_STON/O 2. 310128_7.925_S,0.33741496598639453,0
+32.0,,S,73.5,1,"Hickman, Mr. Lewis",0,666,2,male,2,0.0,S.O.C. 14879,Hickman,man,no_group,2_S.O.C. 1487_73.5_S,0.33741496598639453,0
+25.0,,S,13.0,1,"Butler, Mr. Reginald Fenton",0,667,2,male,0,0.0,234686,Butler,man,no_group,2_23468_13.0_S,0.33741496598639453,0
+,,S,7.775,1,"Rommetvedt, Mr. Knud Paust",0,668,3,male,0,0.0,312993,Rommetvedt,man,no_group,3_31299_7.775_S,0.33741496598639453,0
+43.0,,S,8.05,1,"Cook, Mr. Jacob",0,669,3,male,0,0.0,A/5 3536,Cook,man,no_group,3_A/5 353_8.05_S,0.33741496598639453,0
+,C126,S,52.0,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",0,670,1,female,1,1.0,19996,Taylor,woman,no_group,1_1999_52.0_S,0.33741496598639453,1
+40.0,,S,39.0,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",1,671,2,female,1,1.0,29750,Brown,woman,Brown_2_2975_39.0_S,2_2975_39.0_S,1.0,1
+31.0,B71,S,52.0,1,"Davidson, Mr. Thornton",0,672,1,male,1,0.0,F.C. 12750,Davidson,man,no_group,1_F.C. 1275_52.0_S,0.33741496598639453,0
+70.0,,S,10.5,1,"Mitchell, Mr. Henry Michael",0,673,2,male,0,0.0,C.A. 24580,Mitchell,man,no_group,2_C.A. 2458_10.5_S,0.33741496598639453,0
+31.0,,S,13.0,1,"Wilhelms, Mr. Charles",0,674,2,male,0,1.0,244270,Wilhelms,man,no_group,2_24427_13.0_S,0.33741496598639453,0
+,,S,0.0,1,"Watson, Mr. Ennis Hastings",0,675,2,male,0,0.0,239856,Watson,man,no_group,2_23985_0.0_S,0.33741496598639453,0
+18.0,,S,7.775,1,"Edvardsson, Mr. Gustaf Hjalmar",0,676,3,male,0,0.0,349912,Edvardsson,man,no_group,3_34991_7.775_S,0.33741496598639453,0
+24.5,,S,8.05,1,"Sawyer, Mr. Frederick Charles",0,677,3,male,0,0.0,342826,Sawyer,man,no_group,3_34282_8.05_S,0.33741496598639453,0
+18.0,,S,9.8417,1,"Turja, Miss. Anna Sofia",0,678,3,female,0,1.0,4138,Turja,woman,no_group,3_413_9.8417_S,0.33741496598639453,1
+43.0,,S,46.9,1,"Goodwin, Mrs. Frederick (Augusta Tyler)",6,679,3,female,1,0.0,CA 2144,Goodwin,woman,Goodwin_3_CA 214_46.9_S,3_CA 214_46.9_S,0.0,0
+36.0,B51 B53 B55,C,512.3292,1,"Cardeza, Mr. Thomas Drake Martinez",1,680,1,male,0,1.0,PC 17755,Cardeza,man,no_group,1_PC 1775_512.3292_C,0.33741496598639453,0
+,,Q,8.1375,1,"Peters, Miss. Katie",0,681,3,female,0,0.0,330935,Peters,woman,no_group,3_33093_8.1375_Q,0.33741496598639453,1
+27.0,D49,C,76.7292,1,"Hassab, Mr. Hammad",0,682,1,male,0,1.0,PC 17572,Hassab,man,no_group,1_PC 1757_76.7292_C,0.33741496598639453,0
+20.0,,S,9.225,1,"Olsvigen, Mr. Thor Anderson",0,683,3,male,0,0.0,6563,Olsvigen,man,no_group,3_656_9.225_S,0.33741496598639453,0
+14.0,,S,46.9,1,"Goodwin, Mr. Charles Edward",2,684,3,male,5,0.0,CA 2144,Goodwin,man,no_group,3_CA 214_46.9_S,0.33741496598639453,0
+60.0,,S,39.0,1,"Brown, Mr. Thomas William Solomon",1,685,2,male,1,0.0,29750,Brown,man,no_group,2_2975_39.0_S,0.33741496598639453,0
+25.0,,C,41.5792,1,"Laroche, Mr. Joseph Philippe Lemercier",2,686,2,male,1,0.0,SC/Paris 2123,Laroche,man,no_group,2_SC/Paris 212_41.5792_C,0.33741496598639453,0
+14.0,,S,39.6875,1,"Panula, Mr. Jaako Arnold",1,687,3,male,4,0.0,3101295,Panula,man,no_group,3_310129_39.6875_S,0.33741496598639453,0
+19.0,,S,10.1708,1,"Dakic, Mr. Branko",0,688,3,male,0,0.0,349228,Dakic,man,no_group,3_34922_10.1708_S,0.33741496598639453,0
+18.0,,S,7.7958,1,"Fischer, Mr. Eberhard Thelander",0,689,3,male,0,0.0,350036,Fischer,man,no_group,3_35003_7.7958_S,0.33741496598639453,0
+15.0,B5,S,211.3375,1,"Madill, Miss. Georgette Alexandra",1,690,1,female,0,1.0,24160,Madill,woman,no_group,1_2416_211.3375_S,0.33741496598639453,1
+31.0,B20,S,57.0,1,"Dick, Mr. Albert Adrian",0,691,1,male,1,1.0,17474,Dick,man,no_group,1_1747_57.0_S,0.33741496598639453,0
+4.0,,C,13.4167,1,"Karun, Miss. Manca",1,692,3,female,0,1.0,349256,Karun,woman,no_group,3_34925_13.4167_C,0.33741496598639453,1
+,,S,56.4958,1,"Lam, Mr. Ali",0,693,3,male,0,1.0,1601,Lam,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+25.0,,C,7.225,1,"Saad, Mr. Khalil",0,694,3,male,0,0.0,2672,Saad,man,no_group,3_267_7.225_C,0.33741496598639453,0
+60.0,,S,26.55,1,"Weir, Col. John",0,695,1,male,0,0.0,113800,Weir,man,no_group,1_11380_26.55_S,0.33741496598639453,0
+52.0,,S,13.5,1,"Chapman, Mr. Charles Henry",0,696,2,male,0,0.0,248731,Chapman,man,no_group,2_24873_13.5_S,0.33741496598639453,0
+44.0,,S,8.05,1,"Kelly, Mr. James",0,697,3,male,0,0.0,363592,Kelly,man,no_group,3_36359_8.05_S,0.33741496598639453,0
+,,Q,7.7333,1,"Mullens, Miss. Katherine ""Katie""",0,698,3,female,0,1.0,35852,Mullens,woman,no_group,3_3585_7.7333_Q,0.33741496598639453,1
+49.0,C68,C,110.8833,1,"Thayer, Mr. John Borland",1,699,1,male,1,0.0,17421,Thayer,man,no_group,1_1742_110.8833_C,0.33741496598639453,0
+42.0,F G63,S,7.65,1,"Humblen, Mr. Adolf Mathias Nicolai Olsen",0,700,3,male,0,0.0,348121,Humblen,man,no_group,3_34812_7.65_S,0.33741496598639453,0
+18.0,C62 C64,C,227.525,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",0,701,1,female,1,1.0,PC 17757,Astor,woman,no_group,1_PC 1775_227.525_C,0.33741496598639453,1
+35.0,E24,S,26.2875,1,"Silverthorne, Mr. Spencer Victor",0,702,1,male,0,1.0,PC 17475,Silverthorne,man,no_group,1_PC 1747_26.2875_S,0.33741496598639453,0
+18.0,,C,14.4542,1,"Barbara, Miss. Saiide",1,703,3,female,0,0.0,2691,Barbara,woman,Barbara_3_269_14.4542_C,3_269_14.4542_C,0.0,0
+25.0,,Q,7.7417,1,"Gallagher, Mr. Martin",0,704,3,male,0,0.0,36864,Gallagher,man,no_group,3_3686_7.7417_Q,0.33741496598639453,0
+26.0,,S,7.8542,1,"Hansen, Mr. Henrik Juul",0,705,3,male,1,0.0,350025,Hansen,man,no_group,3_35002_7.8542_S,0.33741496598639453,0
+39.0,,S,26.0,1,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",0,706,2,male,0,0.0,250655,Morley,man,no_group,2_25065_26.0_S,0.33741496598639453,0
+45.0,,S,13.5,1,"Kelly, Mrs. Florence ""Fannie""",0,707,2,female,0,1.0,223596,Kelly,woman,no_group,2_22359_13.5_S,0.33741496598639453,1
+42.0,E24,S,26.2875,1,"Calderhead, Mr. Edward Pennington",0,708,1,male,0,1.0,PC 17476,Calderhead,man,no_group,1_PC 1747_26.2875_S,0.33741496598639453,0
+22.0,,S,151.55,1,"Cleaver, Miss. Alice",0,709,1,female,0,1.0,113781,Cleaver,woman,Allison_1_11378_151.55_S,1_11378_151.55_S,0.5,1
+,,C,15.2458,1,"Moubarek, Master. Halim Gonios (""William George"")",1,710,3,male,1,1.0,2661,Moubarek,boy,Moubarek_3_266_15.2458_C,3_266_15.2458_C,1.0,1
+24.0,C90,C,49.5042,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",0,711,1,female,0,1.0,PC 17482,Mayne,woman,no_group,1_PC 1748_49.5042_C,0.33741496598639453,1
+,C124,S,26.55,1,"Klaber, Mr. Herman",0,712,1,male,0,0.0,113028,Klaber,man,no_group,1_11302_26.55_S,0.33741496598639453,0
+48.0,C126,S,52.0,1,"Taylor, Mr. Elmer Zebley",0,713,1,male,1,1.0,19996,Taylor,man,no_group,1_1999_52.0_S,0.33741496598639453,0
+29.0,,S,9.4833,1,"Larsson, Mr. August Viktor",0,714,3,male,0,0.0,7545,Larsson,man,no_group,3_754_9.4833_S,0.33741496598639453,0
+52.0,,S,13.0,1,"Greenberg, Mr. Samuel",0,715,2,male,0,0.0,250647,Greenberg,man,no_group,2_25064_13.0_S,0.33741496598639453,0
+19.0,F G73,S,7.65,1,"Soholt, Mr. Peter Andreas Lauritz Andersen",0,716,3,male,0,0.0,348124,Soholt,man,no_group,3_34812_7.65_S,0.33741496598639453,0
+38.0,C45,C,227.525,1,"Endres, Miss. Caroline Louise",0,717,1,female,0,1.0,PC 17757,Endres,woman,no_group,1_PC 1775_227.525_C,0.33741496598639453,1
+27.0,E101,S,10.5,1,"Troutt, Miss. Edwina Celia ""Winnie""",0,718,2,female,0,1.0,34218,Troutt,woman,no_group,2_3421_10.5_S,0.33741496598639453,1
+,,Q,15.5,1,"McEvoy, Mr. Michael",0,719,3,male,0,0.0,36568,McEvoy,man,no_group,3_3656_15.5_Q,0.33741496598639453,0
+33.0,,S,7.775,1,"Johnson, Mr. Malkolm Joackim",0,720,3,male,0,0.0,347062,Johnson,man,no_group,3_34706_7.775_S,0.33741496598639453,0
+6.0,,S,33.0,1,"Harper, Miss. Annie Jessie ""Nina""",1,721,2,female,0,1.0,248727,Harper,woman,no_group,2_24872_33.0_S,0.33741496598639453,1
+17.0,,S,7.0542,1,"Jensen, Mr. Svend Lauritz",0,722,3,male,1,0.0,350048,Jensen,man,no_group,3_35004_7.0542_S,0.33741496598639453,0
+34.0,,S,13.0,1,"Gillespie, Mr. William Henry",0,723,2,male,0,0.0,12233,Gillespie,man,no_group,2_1223_13.0_S,0.33741496598639453,0
+50.0,,S,13.0,1,"Hodges, Mr. Henry Price",0,724,2,male,0,0.0,250643,Hodges,man,no_group,2_25064_13.0_S,0.33741496598639453,0
+27.0,E8,S,53.1,1,"Chambers, Mr. Norman Campbell",0,725,1,male,1,1.0,113806,Chambers,man,no_group,1_11380_53.1_S,0.33741496598639453,0
+20.0,,S,8.6625,1,"Oreskovic, Mr. Luka",0,726,3,male,0,0.0,315094,Oreskovic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+30.0,,S,21.0,1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",0,727,2,female,3,1.0,31027,Renouf,woman,no_group,2_3102_21.0_S,0.33741496598639453,1
+,,Q,7.7375,1,"Mannion, Miss. Margareth",0,728,3,female,0,1.0,36866,Mannion,woman,no_group,3_3686_7.7375_Q,0.33741496598639453,1
+25.0,,S,26.0,1,"Bryhl, Mr. Kurt Arnold Gottfrid",0,729,2,male,1,0.0,236853,Bryhl,man,no_group,2_23685_26.0_S,0.33741496598639453,0
+25.0,,S,7.925,1,"Ilmakangas, Miss. Pieta Sofia",0,730,3,female,1,0.0,STON/O2. 3101271,Ilmakangas,woman,Ilmakangas_3_STON/O2. 310127_7.925_S,3_STON/O2. 310127_7.925_S,0.0,0
+29.0,B5,S,211.3375,1,"Allen, Miss. Elisabeth Walton",0,731,1,female,0,1.0,24160,Allen,woman,no_group,1_2416_211.3375_S,0.33741496598639453,1
+11.0,,C,18.7875,1,"Hassan, Mr. Houssein G N",0,732,3,male,0,0.0,2699,Hassan,man,no_group,3_269_18.7875_C,0.33741496598639453,0
+,,S,0.0,1,"Knight, Mr. Robert J",0,733,2,male,0,0.0,239855,Knight,man,no_group,2_23985_0.0_S,0.33741496598639453,0
+23.0,,S,13.0,1,"Berriman, Mr. William John",0,734,2,male,0,0.0,28425,Berriman,man,no_group,2_2842_13.0_S,0.33741496598639453,0
+23.0,,S,13.0,1,"Troupiansky, Mr. Moses Aaron",0,735,2,male,0,0.0,233639,Troupiansky,man,no_group,2_23363_13.0_S,0.33741496598639453,0
+28.5,,S,16.1,1,"Williams, Mr. Leslie",0,736,3,male,0,0.0,54636,Williams,man,no_group,3_5463_16.1_S,0.33741496598639453,0
+48.0,,S,34.375,1,"Ford, Mrs. Edward (Margaret Ann Watson)",3,737,3,female,1,0.0,W./C. 6608,Ford,woman,Ford_3_W./C. 660_34.375_S,3_W./C. 660_34.375_S,0.0,0
+35.0,B101,C,512.3292,1,"Lesurer, Mr. Gustave J",0,738,1,male,0,1.0,PC 17755,Lesurer,man,no_group,1_PC 1775_512.3292_C,0.33741496598639453,0
+,,S,7.8958,1,"Ivanoff, Mr. Kanio",0,739,3,male,0,0.0,349201,Ivanoff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+,,S,7.8958,1,"Nankoff, Mr. Minko",0,740,3,male,0,0.0,349218,Nankoff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+,D45,S,30.0,1,"Hawksford, Mr. Walter James",0,741,1,male,0,1.0,16988,Hawksford,man,no_group,1_1698_30.0_S,0.33741496598639453,0
+36.0,C46,S,78.85,1,"Cavendish, Mr. Tyrell William",0,742,1,male,1,0.0,19877,Cavendish,man,no_group,1_1987_78.85_S,0.33741496598639453,0
+21.0,B57 B59 B63 B66,C,262.375,1,"Ryerson, Miss. Susan Parker ""Suzette""",2,743,1,female,2,1.0,PC 17608,Ryerson,woman,Ryerson_1_PC 1760_262.375_C,1_PC 1760_262.375_C,1.0,1
+24.0,,S,16.1,1,"McNamee, Mr. Neal",0,744,3,male,1,0.0,376566,McNamee,man,no_group,3_37656_16.1_S,0.33741496598639453,0
+31.0,,S,7.925,1,"Stranden, Mr. Juho",0,745,3,male,0,1.0,STON/O 2. 3101288,Stranden,man,no_group,3_STON/O 2. 310128_7.925_S,0.33741496598639453,0
+70.0,B22,S,71.0,1,"Crosby, Capt. Edward Gifford",1,746,1,male,1,0.0,WE/P 5735,Crosby,man,no_group,1_WE/P 573_71.0_S,0.33741496598639453,0
+16.0,,S,20.25,1,"Abbott, Mr. Rossmore Edward",1,747,3,male,1,0.0,C.A. 2673,Abbott,man,no_group,3_C.A. 267_20.25_S,0.33741496598639453,0
+30.0,,S,13.0,1,"Sinkkonen, Miss. Anna",0,748,2,female,0,1.0,250648,Sinkkonen,woman,no_group,2_25064_13.0_S,0.33741496598639453,1
+19.0,D30,S,53.1,1,"Marvin, Mr. Daniel Warner",0,749,1,male,1,0.0,113773,Marvin,man,no_group,1_11377_53.1_S,0.33741496598639453,0
+31.0,,Q,7.75,1,"Connaghton, Mr. Michael",0,750,3,male,0,0.0,335097,Connaghton,man,no_group,3_33509_7.75_Q,0.33741496598639453,0
+4.0,,S,23.0,1,"Wells, Miss. Joan",1,751,2,female,1,1.0,29103,Wells,woman,Wells_2_2910_23.0_S,2_2910_23.0_S,1.0,1
+6.0,E121,S,12.475,1,"Moor, Master. Meier",1,752,3,male,0,1.0,392096,Moor,boy,Moor_3_39209_12.475_S,3_39209_12.475_S,1.0,1
+33.0,,S,9.5,1,"Vande Velde, Mr. Johannes Joseph",0,753,3,male,0,0.0,345780,Vande Velde,man,no_group,3_34578_9.5_S,0.33741496598639453,0
+23.0,,S,7.8958,1,"Jonkoff, Mr. Lalio",0,754,3,male,0,0.0,349204,Jonkoff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+48.0,,S,65.0,1,"Herman, Mrs. Samuel (Jane Laver)",2,755,2,female,1,1.0,220845,Herman,woman,Herman_2_22084_65.0_S,2_22084_65.0_S,1.0,1
+0.67,,S,14.5,1,"Hamalainen, Master. Viljo",1,756,2,male,1,1.0,250649,Hamalainen,boy,Hamalainen_2_25064_14.5_S,2_25064_14.5_S,1.0,1
+28.0,,S,7.7958,1,"Carlsson, Mr. August Sigfrid",0,757,3,male,0,0.0,350042,Carlsson,man,no_group,3_35004_7.7958_S,0.33741496598639453,0
+18.0,,S,11.5,1,"Bailey, Mr. Percy Andrew",0,758,2,male,0,0.0,29108,Bailey,man,no_group,2_2910_11.5_S,0.33741496598639453,0
+34.0,,S,8.05,1,"Theobald, Mr. Thomas Leonard",0,759,3,male,0,0.0,363294,Theobald,man,no_group,3_36329_8.05_S,0.33741496598639453,0
+33.0,B77,S,86.5,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",0,760,1,female,0,1.0,110152,Rothes,woman,no_group,1_11015_86.5_S,0.33741496598639453,1
+,,S,14.5,1,"Garfirth, Mr. John",0,761,3,male,0,0.0,358585,Garfirth,man,no_group,3_35858_14.5_S,0.33741496598639453,0
+41.0,,S,7.125,1,"Nirva, Mr. Iisakki Antino Aijo",0,762,3,male,0,0.0,SOTON/O2 3101272,Nirva,man,no_group,3_SOTON/O2 310127_7.125_S,0.33741496598639453,0
+20.0,,C,7.2292,1,"Barah, Mr. Hanna Assi",0,763,3,male,0,1.0,2663,Barah,man,no_group,3_266_7.2292_C,0.33741496598639453,0
+36.0,B96 B98,S,120.0,1,"Carter, Mrs. William Ernest (Lucile Polk)",2,764,1,female,1,1.0,113760,Carter,woman,Carter_1_11376_120.0_S,1_11376_120.0_S,1.0,1
+16.0,,S,7.775,1,"Eklund, Mr. Hans Linus",0,765,3,male,0,0.0,347074,Eklund,man,no_group,3_34707_7.775_S,0.33741496598639453,0
+51.0,D11,S,77.9583,1,"Hogeboom, Mrs. John C (Anna Andrews)",0,766,1,female,1,1.0,13502,Hogeboom,woman,no_group,1_1350_77.9583_S,0.33741496598639453,1
+,,C,39.6,1,"Brewe, Dr. Arthur Jackson",0,767,1,male,0,0.0,112379,Brewe,man,no_group,1_11237_39.6_C,0.33741496598639453,0
+30.5,,Q,7.75,1,"Mangan, Miss. Mary",0,768,3,female,0,0.0,364850,Mangan,woman,no_group,3_36485_7.75_Q,0.33741496598639453,1
+,,Q,24.15,1,"Moran, Mr. Daniel J",0,769,3,male,1,0.0,371110,Moran,man,no_group,3_37111_24.15_Q,0.33741496598639453,0
+32.0,,S,8.3625,1,"Gronnestad, Mr. Daniel Danielsen",0,770,3,male,0,0.0,8471,Gronnestad,man,no_group,3_847_8.3625_S,0.33741496598639453,0
+24.0,,S,9.5,1,"Lievens, Mr. Rene Aime",0,771,3,male,0,0.0,345781,Lievens,man,no_group,3_34578_9.5_S,0.33741496598639453,0
+48.0,,S,7.8542,1,"Jensen, Mr. Niels Peder",0,772,3,male,0,0.0,350047,Jensen,man,no_group,3_35004_7.8542_S,0.33741496598639453,0
+57.0,E77,S,10.5,1,"Mack, Mrs. (Mary)",0,773,2,female,0,0.0,S.O./P.P. 3,Mack,woman,no_group,2_S.O./P.P. _10.5_S,0.33741496598639453,1
+,,C,7.225,1,"Elias, Mr. Dibo",0,774,3,male,0,0.0,2674,Elias,man,no_group,3_267_7.225_C,0.33741496598639453,0
+54.0,,S,23.0,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",3,775,2,female,1,1.0,29105,Hocking,woman,Hocking_2_2910_23.0_S,2_2910_23.0_S,1.0,1
+18.0,,S,7.75,1,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",0,776,3,male,0,0.0,347078,Myhrman,man,no_group,3_34707_7.75_S,0.33741496598639453,0
+,F38,Q,7.75,1,"Tobin, Mr. Roger",0,777,3,male,0,0.0,383121,Tobin,man,no_group,3_38312_7.75_Q,0.33741496598639453,0
+5.0,,S,12.475,1,"Emanuel, Miss. Virginia Ethel",0,778,3,female,0,1.0,364516,Emanuel,woman,no_group,3_36451_12.475_S,0.33741496598639453,1
+,,Q,7.7375,1,"Kilgannon, Mr. Thomas J",0,779,3,male,0,0.0,36865,Kilgannon,man,no_group,3_3686_7.7375_Q,0.33741496598639453,0
+43.0,B3,S,211.3375,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",1,780,1,female,0,1.0,24160,Robert,woman,no_group,1_2416_211.3375_S,0.33741496598639453,1
+13.0,,C,7.2292,1,"Ayoub, Miss. Banoura",0,781,3,female,0,1.0,2687,Ayoub,woman,no_group,3_268_7.2292_C,0.33741496598639453,1
+17.0,B20,S,57.0,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",0,782,1,female,1,1.0,17474,Dick,woman,no_group,1_1747_57.0_S,0.33741496598639453,1
+29.0,D6,S,30.0,1,"Long, Mr. Milton Clyde",0,783,1,male,0,0.0,113501,Long,man,no_group,1_11350_30.0_S,0.33741496598639453,0
+,,S,23.45,1,"Johnston, Mr. Andrew G",2,784,3,male,1,0.0,W./C. 6607,Johnston,man,no_group,3_W./C. 660_23.45_S,0.33741496598639453,0
+25.0,,S,7.05,1,"Ali, Mr. William",0,785,3,male,0,0.0,SOTON/O.Q. 3101312,Ali,man,no_group,3_SOTON/O.Q. 310131_7.05_S,0.33741496598639453,0
+25.0,,S,7.25,1,"Harmer, Mr. Abraham (David Lishin)",0,786,3,male,0,0.0,374887,Harmer,man,no_group,3_37488_7.25_S,0.33741496598639453,0
+18.0,,S,7.4958,1,"Sjoblom, Miss. Anna Sofia",0,787,3,female,0,1.0,3101265,Sjoblom,woman,no_group,3_310126_7.4958_S,0.33741496598639453,1
+8.0,,Q,29.125,1,"Rice, Master. George Hugh",1,788,3,male,4,0.0,382652,Rice,boy,Rice_3_38265_29.125_Q,3_38265_29.125_Q,0.0,0
+1.0,,S,20.575,1,"Dean, Master. Bertram Vere",2,789,3,male,1,1.0,C.A. 2315,Dean,boy,Dean_3_C.A. 231_20.575_S,3_C.A. 231_20.575_S,1.0,1
+46.0,B82 B84,C,79.2,1,"Guggenheim, Mr. Benjamin",0,790,1,male,0,0.0,PC 17593,Guggenheim,man,no_group,1_PC 1759_79.2_C,0.33741496598639453,0
+,,Q,7.75,1,"Keane, Mr. Andrew ""Andy""",0,791,3,male,0,0.0,12460,Keane,man,no_group,3_1246_7.75_Q,0.33741496598639453,0
+16.0,,S,26.0,1,"Gaskell, Mr. Alfred",0,792,2,male,0,0.0,239865,Gaskell,man,no_group,2_23986_26.0_S,0.33741496598639453,0
+,,S,69.55,1,"Sage, Miss. Stella Anna",2,793,3,female,8,0.0,CA. 2343,Sage,woman,Sage_3_CA. 234_69.55_S,3_CA. 234_69.55_S,0.0,0
+,,C,30.6958,1,"Hoyt, Mr. William Fisher",0,794,1,male,0,0.0,PC 17600,Hoyt,man,no_group,1_PC 1760_30.6958_C,0.33741496598639453,0
+25.0,,S,7.8958,1,"Dantcheff, Mr. Ristiu",0,795,3,male,0,0.0,349203,Dantcheff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+39.0,,S,13.0,1,"Otter, Mr. Richard",0,796,2,male,0,0.0,28213,Otter,man,no_group,2_2821_13.0_S,0.33741496598639453,0
+49.0,D17,S,25.9292,1,"Leader, Dr. Alice (Farnham)",0,797,1,female,0,1.0,17465,Leader,woman,no_group,1_1746_25.9292_S,0.33741496598639453,1
+31.0,,S,8.6833,1,"Osman, Mrs. Mara",0,798,3,female,0,1.0,349244,Osman,woman,no_group,3_34924_8.6833_S,0.33741496598639453,1
+30.0,,C,7.2292,1,"Ibrahim Shawah, Mr. Yousseff",0,799,3,male,0,0.0,2685,Ibrahim Shawah,man,no_group,3_268_7.2292_C,0.33741496598639453,0
+30.0,,S,24.15,1,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",1,800,3,female,1,0.0,345773,Van Impe,woman,Van Impe_3_34577_24.15_S,3_34577_24.15_S,0.0,0
+34.0,,S,13.0,1,"Ponesell, Mr. Martin",0,801,2,male,0,0.0,250647,Ponesell,man,no_group,2_25064_13.0_S,0.33741496598639453,0
+31.0,,S,26.25,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",1,802,2,female,1,1.0,C.A. 31921,Collyer,woman,Collyer_2_C.A. 3192_26.25_S,2_C.A. 3192_26.25_S,1.0,1
+11.0,B96 B98,S,120.0,1,"Carter, Master. William Thornton II",2,803,1,male,1,1.0,113760,Carter,boy,Carter_1_11376_120.0_S,1_11376_120.0_S,1.0,1
+0.42,,C,8.5167,1,"Thomas, Master. Assad Alexander",1,804,3,male,0,1.0,2625,Thomas,boy,Thomas_3_262_8.5167_C,3_262_8.5167_C,1.0,1
+27.0,,S,6.975,1,"Hedman, Mr. Oskar Arvid",0,805,3,male,0,1.0,347089,Hedman,man,no_group,3_34708_6.975_S,0.33741496598639453,0
+31.0,,S,7.775,1,"Johansson, Mr. Karl Johan",0,806,3,male,0,0.0,347063,Johansson,man,no_group,3_34706_7.775_S,0.33741496598639453,0
+39.0,A36,S,0.0,1,"Andrews, Mr. Thomas Jr",0,807,1,male,0,0.0,112050,Andrews,man,no_group,1_11205_0.0_S,0.33741496598639453,0
+18.0,,S,7.775,1,"Pettersson, Miss. Ellen Natalia",0,808,3,female,0,0.0,347087,Pettersson,woman,no_group,3_34708_7.775_S,0.33741496598639453,1
+39.0,,S,13.0,1,"Meyer, Mr. August",0,809,2,male,0,0.0,248723,Meyer,man,no_group,2_24872_13.0_S,0.33741496598639453,0
+33.0,E8,S,53.1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",0,810,1,female,1,1.0,113806,Chambers,woman,no_group,1_11380_53.1_S,0.33741496598639453,1
+26.0,,S,7.8875,1,"Alexander, Mr. William",0,811,3,male,0,0.0,3474,Alexander,man,no_group,3_347_7.8875_S,0.33741496598639453,0
+39.0,,S,24.15,1,"Lester, Mr. James",0,812,3,male,0,0.0,A/4 48871,Lester,man,no_group,3_A/4 4887_24.15_S,0.33741496598639453,0
+35.0,,S,10.5,1,"Slemen, Mr. Richard James",0,813,2,male,0,0.0,28206,Slemen,man,no_group,2_2820_10.5_S,0.33741496598639453,0
+6.0,,S,31.275,1,"Andersson, Miss. Ebba Iris Alfrida",2,814,3,female,4,0.0,347082,Andersson,woman,Andersson_3_34708_31.275_S,3_34708_31.275_S,0.0,0
+30.5,,S,8.05,1,"Tomlin, Mr. Ernest Portage",0,815,3,male,0,0.0,364499,Tomlin,man,no_group,3_36449_8.05_S,0.33741496598639453,0
+,B102,S,0.0,1,"Fry, Mr. Richard",0,816,1,male,0,0.0,112058,Fry,man,no_group,1_11205_0.0_S,0.33741496598639453,0
+23.0,,S,7.925,1,"Heininen, Miss. Wendla Maria",0,817,3,female,0,0.0,STON/O2. 3101290,Heininen,woman,no_group,3_STON/O2. 310129_7.925_S,0.33741496598639453,1
+31.0,,C,37.0042,1,"Mallet, Mr. Albert",1,818,2,male,1,0.0,S.C./PARIS 2079,Mallet,man,no_group,2_S.C./PARIS 207_37.0042_C,0.33741496598639453,0
+43.0,,S,6.45,1,"Holm, Mr. John Fredrik Alexander",0,819,3,male,0,0.0,C 7075,Holm,man,no_group,3_C 707_6.45_S,0.33741496598639453,0
+10.0,,S,27.9,1,"Skoog, Master. Karl Thorsten",2,820,3,male,3,0.0,347088,Skoog,boy,Skoog_3_34708_27.9_S,3_34708_27.9_S,0.0,0
+52.0,B69,S,93.5,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",1,821,1,female,1,1.0,12749,Hays,woman,no_group,1_1274_93.5_S,0.33741496598639453,1
+27.0,,S,8.6625,1,"Lulic, Mr. Nikola",0,822,3,male,0,1.0,315098,Lulic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+38.0,,S,0.0,1,"Reuchlin, Jonkheer. John George",0,823,1,male,0,0.0,19972,Reuchlin,man,no_group,1_1997_0.0_S,0.33741496598639453,0
+27.0,E121,S,12.475,1,"Moor, Mrs. (Beila)",1,824,3,female,0,1.0,392096,Moor,woman,Moor_3_39209_12.475_S,3_39209_12.475_S,1.0,1
+2.0,,S,39.6875,1,"Panula, Master. Urho Abraham",1,825,3,male,4,0.0,3101295,Panula,boy,Panula_3_310129_39.6875_S,3_310129_39.6875_S,0.0,0
+,,Q,6.95,1,"Flynn, Mr. John",0,826,3,male,0,0.0,368323,Flynn,man,no_group,3_36832_6.95_Q,0.33741496598639453,0
+,,S,56.4958,1,"Lam, Mr. Len",0,827,3,male,0,0.0,1601,Lam,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+1.0,,C,37.0042,1,"Mallet, Master. Andre",2,828,2,male,0,1.0,S.C./PARIS 2079,Mallet,boy,Mallet_2_S.C./PARIS 207_37.0042_C,2_S.C./PARIS 207_37.0042_C,1.0,1
+,,Q,7.75,1,"McCormack, Mr. Thomas Joseph",0,829,3,male,0,1.0,367228,McCormack,man,no_group,3_36722_7.75_Q,0.33741496598639453,0
+62.0,B28,,80.0,1,"Stone, Mrs. George Nelson (Martha Evelyn)",0,830,1,female,0,1.0,113572,Stone,woman,no_group,1_11357_80.0_nan,0.33741496598639453,1
+15.0,,C,14.4542,1,"Yasbeck, Mrs. Antoni (Selini Alexander)",0,831,3,female,1,1.0,2659,Yasbeck,woman,no_group,3_265_14.4542_C,0.33741496598639453,1
+0.83,,S,18.75,1,"Richards, Master. George Sibley",1,832,2,male,1,1.0,29106,Richards,boy,Richards_2_2910_18.75_S,2_2910_18.75_S,1.0,1
+,,C,7.2292,1,"Saad, Mr. Amin",0,833,3,male,0,0.0,2671,Saad,man,no_group,3_267_7.2292_C,0.33741496598639453,0
+23.0,,S,7.8542,1,"Augustsson, Mr. Albert",0,834,3,male,0,0.0,347468,Augustsson,man,no_group,3_34746_7.8542_S,0.33741496598639453,0
+18.0,,S,8.3,1,"Allum, Mr. Owen George",0,835,3,male,0,0.0,2223,Allum,man,no_group,3_222_8.3_S,0.33741496598639453,0
+39.0,E49,C,83.1583,1,"Compton, Miss. Sara Rebecca",1,836,1,female,1,1.0,PC 17756,Compton,woman,Compton_1_PC 1775_83.1583_C,1_PC 1775_83.1583_C,1.0,1
+21.0,,S,8.6625,1,"Pasic, Mr. Jakob",0,837,3,male,0,0.0,315097,Pasic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+,,S,8.05,1,"Sirota, Mr. Maurice",0,838,3,male,0,0.0,392092,Sirota,man,no_group,3_39209_8.05_S,0.33741496598639453,0
+32.0,,S,56.4958,1,"Chip, Mr. Chang",0,839,3,male,0,1.0,1601,Chip,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+,C47,C,29.7,1,"Marechal, Mr. Pierre",0,840,1,male,0,1.0,11774,Marechal,man,no_group,1_1177_29.7_C,0.33741496598639453,0
+20.0,,S,7.925,1,"Alhomaki, Mr. Ilmari Rudolf",0,841,3,male,0,0.0,SOTON/O2 3101287,Alhomaki,man,no_group,3_SOTON/O2 310128_7.925_S,0.33741496598639453,0
+16.0,,S,10.5,1,"Mudd, Mr. Thomas Charles",0,842,2,male,0,0.0,S.O./P.P. 3,Mudd,man,no_group,2_S.O./P.P. _10.5_S,0.33741496598639453,0
+30.0,,C,31.0,1,"Serepeca, Miss. Augusta",0,843,1,female,0,1.0,113798,Serepeca,woman,no_group,1_11379_31.0_C,0.33741496598639453,1
+34.5,,C,6.4375,1,"Lemberopolous, Mr. Peter L",0,844,3,male,0,0.0,2683,Lemberopolous,man,no_group,3_268_6.4375_C,0.33741496598639453,0
+17.0,,S,8.6625,1,"Culumovic, Mr. Jeso",0,845,3,male,0,0.0,315090,Culumovic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+42.0,,S,7.55,1,"Abbing, Mr. Anthony",0,846,3,male,0,0.0,C.A. 5547,Abbing,man,no_group,3_C.A. 554_7.55_S,0.33741496598639453,0
+,,S,69.55,1,"Sage, Mr. Douglas Bullen",2,847,3,male,8,0.0,CA. 2343,Sage,man,no_group,3_CA. 234_69.55_S,0.33741496598639453,0
+35.0,,C,7.8958,1,"Markoff, Mr. Marin",0,848,3,male,0,0.0,349213,Markoff,man,no_group,3_34921_7.8958_C,0.33741496598639453,0
+28.0,,S,33.0,1,"Harper, Rev. John",1,849,2,male,0,0.0,248727,Harper,man,no_group,2_24872_33.0_S,0.33741496598639453,0
+,C92,C,89.1042,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",0,850,1,female,1,1.0,17453,Goldenberg,woman,no_group,1_1745_89.1042_C,0.33741496598639453,1
+4.0,,S,31.275,1,"Andersson, Master. Sigvard Harald Elias",2,851,3,male,4,0.0,347082,Andersson,boy,Andersson_3_34708_31.275_S,3_34708_31.275_S,0.0,0
+74.0,,S,7.775,1,"Svensson, Mr. Johan",0,852,3,male,0,0.0,347060,Svensson,man,no_group,3_34706_7.775_S,0.33741496598639453,0
+9.0,,C,15.2458,1,"Boulos, Miss. Nourelain",1,853,3,female,1,0.0,2678,Boulos,woman,Boulos_3_267_15.2458_C,3_267_15.2458_C,0.0,0
+16.0,D28,S,39.4,1,"Lines, Miss. Mary Conover",1,854,1,female,0,1.0,PC 17592,Lines,woman,Lines_1_PC 1759_39.4_S,1_PC 1759_39.4_S,1.0,1
+44.0,,S,26.0,1,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",0,855,2,female,1,0.0,244252,Carter,woman,no_group,2_24425_26.0_S,0.33741496598639453,1
+18.0,,S,9.35,1,"Aks, Mrs. Sam (Leah Rosen)",1,856,3,female,0,1.0,392091,Aks,woman,Aks_3_39209_9.35_S,3_39209_9.35_S,1.0,1
+45.0,,S,164.8667,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",1,857,1,female,1,1.0,36928,Wick,woman,Wick_1_3692_164.8667_S,1_3692_164.8667_S,1.0,1
+51.0,E17,S,26.55,1,"Daly, Mr. Peter Denis ",0,858,1,male,0,1.0,113055,Daly,man,no_group,1_11305_26.55_S,0.33741496598639453,0
+24.0,,C,19.2583,1,"Baclini, Mrs. Solomon (Latifa Qurban)",3,859,3,female,0,1.0,2666,Baclini,woman,Baclini_3_266_19.2583_C,3_266_19.2583_C,1.0,1
+,,C,7.2292,1,"Razi, Mr. Raihed",0,860,3,male,0,0.0,2629,Razi,man,no_group,3_262_7.2292_C,0.33741496598639453,0
+41.0,,S,14.1083,1,"Hansen, Mr. Claus Peter",0,861,3,male,2,0.0,350026,Hansen,man,no_group,3_35002_14.1083_S,0.33741496598639453,0
+21.0,,S,11.5,1,"Giles, Mr. Frederick Edward",0,862,2,male,1,0.0,28134,Giles,man,no_group,2_2813_11.5_S,0.33741496598639453,0
+48.0,D17,S,25.9292,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",0,863,1,female,0,1.0,17466,Swift,woman,no_group,1_1746_25.9292_S,0.33741496598639453,1
+,,S,69.55,1,"Sage, Miss. Dorothy Edith ""Dolly""",2,864,3,female,8,0.0,CA. 2343,Sage,woman,Sage_3_CA. 234_69.55_S,3_CA. 234_69.55_S,0.0,0
+24.0,,S,13.0,1,"Gill, Mr. John William",0,865,2,male,0,0.0,233866,Gill,man,no_group,2_23386_13.0_S,0.33741496598639453,0
+42.0,,S,13.0,1,"Bystrom, Mrs. (Karolina)",0,866,2,female,0,1.0,236852,Bystrom,woman,no_group,2_23685_13.0_S,0.33741496598639453,1
+27.0,,C,13.8583,1,"Duran y More, Miss. Asuncion",0,867,2,female,1,1.0,SC/PARIS 2149,Duran y More,woman,Duran y More_2_SC/PARIS 214_13.8583_C,2_SC/PARIS 214_13.8583_C,1.0,1
+31.0,A24,S,50.4958,1,"Roebling, Mr. Washington Augustus II",0,868,1,male,0,0.0,PC 17590,Roebling,man,no_group,1_PC 1759_50.4958_S,0.33741496598639453,0
+,,S,9.5,1,"van Melkebeke, Mr. Philemon",0,869,3,male,0,0.0,345777,van Melkebeke,man,no_group,3_34577_9.5_S,0.33741496598639453,0
+4.0,,S,11.1333,1,"Johnson, Master. Harold Theodor",1,870,3,male,1,1.0,347742,Johnson,boy,Johnson_3_34774_11.1333_S,3_34774_11.1333_S,1.0,1
+26.0,,S,7.8958,1,"Balkic, Mr. Cerin",0,871,3,male,0,0.0,349248,Balkic,man,no_group,3_34924_7.8958_S,0.33741496598639453,0
+47.0,D35,S,52.5542,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",1,872,1,female,1,1.0,11751,Beckwith,woman,no_group,1_1175_52.5542_S,0.33741496598639453,1
+33.0,B51 B53 B55,S,5.0,1,"Carlsson, Mr. Frans Olof",0,873,1,male,0,0.0,695,Carlsson,man,no_group,1_69_5.0_S,0.33741496598639453,0
+47.0,,S,9.0,1,"Vander Cruyssen, Mr. Victor",0,874,3,male,0,0.0,345765,Vander Cruyssen,man,no_group,3_34576_9.0_S,0.33741496598639453,0
+28.0,,C,24.0,1,"Abelson, Mrs. Samuel (Hannah Wizosky)",0,875,2,female,1,1.0,P/PP 3381,Abelson,woman,no_group,2_P/PP 338_24.0_C,0.33741496598639453,1
+15.0,,C,7.225,1,"Najib, Miss. Adele Kiamie ""Jane""",0,876,3,female,0,1.0,2667,Najib,woman,no_group,3_266_7.225_C,0.33741496598639453,1
+20.0,,S,9.8458,1,"Gustafsson, Mr. Alfred Ossian",0,877,3,male,0,0.0,7534,Gustafsson,man,no_group,3_753_9.8458_S,0.33741496598639453,0
+19.0,,S,7.8958,1,"Petroff, Mr. Nedelio",0,878,3,male,0,0.0,349212,Petroff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+,,S,7.8958,1,"Laleff, Mr. Kristo",0,879,3,male,0,0.0,349217,Laleff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+56.0,C50,C,83.1583,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",1,880,1,female,0,1.0,11767,Potter,woman,no_group,1_1176_83.1583_C,0.33741496598639453,1
+25.0,,S,26.0,1,"Shelley, Mrs. William (Imanita Parrish Hall)",1,881,2,female,0,1.0,230433,Shelley,woman,no_group,2_23043_26.0_S,0.33741496598639453,1
+33.0,,S,7.8958,1,"Markun, Mr. Johann",0,882,3,male,0,0.0,349257,Markun,man,no_group,3_34925_7.8958_S,0.33741496598639453,0
+22.0,,S,10.5167,1,"Dahlberg, Miss. Gerda Ulrika",0,883,3,female,0,0.0,7552,Dahlberg,woman,no_group,3_755_10.5167_S,0.33741496598639453,1
+28.0,,S,10.5,1,"Banfield, Mr. Frederick James",0,884,2,male,0,0.0,C.A./SOTON 34068,Banfield,man,no_group,2_C.A./SOTON 3406_10.5_S,0.33741496598639453,0
+25.0,,S,7.05,1,"Sutehall, Mr. Henry Jr",0,885,3,male,0,0.0,SOTON/OQ 392076,Sutehall,man,no_group,3_SOTON/OQ 39207_7.05_S,0.33741496598639453,0
+39.0,,Q,29.125,1,"Rice, Mrs. William (Margaret Norton)",5,886,3,female,0,0.0,382652,Rice,woman,Rice_3_38265_29.125_Q,3_38265_29.125_Q,0.0,0
+27.0,,S,13.0,1,"Montvila, Rev. Juozas",0,887,2,male,0,0.0,211536,Montvila,man,no_group,2_21153_13.0_S,0.33741496598639453,0
+19.0,B42,S,30.0,1,"Graham, Miss. Margaret Edith",0,888,1,female,0,1.0,112053,Graham,woman,no_group,1_11205_30.0_S,0.33741496598639453,1
+,,S,23.45,1,"Johnston, Miss. Catherine Helen ""Carrie""",2,889,3,female,1,0.0,W./C. 6607,Johnston,woman,Johnston_3_W./C. 660_23.45_S,3_W./C. 660_23.45_S,0.0,0
+26.0,C148,C,30.0,1,"Behr, Mr. Karl Howell",0,890,1,male,0,1.0,111369,Behr,man,no_group,1_11136_30.0_C,0.33741496598639453,0
+32.0,,Q,7.75,1,"Dooley, Mr. Patrick",0,891,3,male,0,0.0,370376,Dooley,man,no_group,3_37037_7.75_Q,0.33741496598639453,0
+34.5,,Q,7.8292,0,"Kelly, Mr. James",0,892,3,male,0,,330911,Kelly,man,no_group,3_33091_7.8292_Q,0.33741496598639453,0
+47.0,,S,7.0,0,"Wilkes, Mrs. James (Ellen Needs)",0,893,3,female,1,,363272,Wilkes,woman,no_group,3_36327_7.0_S,0.33741496598639453,1
+62.0,,Q,9.6875,0,"Myles, Mr. Thomas Francis",0,894,2,male,0,,240276,Myles,man,no_group,2_24027_9.6875_Q,0.33741496598639453,0
+27.0,,S,8.6625,0,"Wirz, Mr. Albert",0,895,3,male,0,,315154,Wirz,man,no_group,3_31515_8.6625_S,0.33741496598639453,0
+22.0,,S,12.2875,0,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",1,896,3,female,1,,3101298,Hirvonen,woman,Hirvonen_3_310129_12.2875_S,3_310129_12.2875_S,1.0,1
+14.0,,S,9.225,0,"Svensson, Mr. Johan Cervin",0,897,3,male,0,,7538,Svensson,man,no_group,3_753_9.225_S,0.33741496598639453,0
+30.0,,Q,7.6292,0,"Connolly, Miss. Kate",0,898,3,female,0,,330972,Connolly,woman,no_group,3_33097_7.6292_Q,0.33741496598639453,1
+26.0,,S,29.0,0,"Caldwell, Mr. Albert Francis",1,899,2,male,1,,248738,Caldwell,man,no_group,2_24873_29.0_S,0.33741496598639453,0
+18.0,,C,7.2292,0,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",0,900,3,female,0,,2657,Abrahim,woman,no_group,3_265_7.2292_C,0.33741496598639453,1
+21.0,,S,24.15,0,"Davies, Mr. John Samuel",0,901,3,male,2,,A/4 48871,Davies,man,no_group,3_A/4 4887_24.15_S,0.33741496598639453,0
+,,S,7.8958,0,"Ilieff, Mr. Ylio",0,902,3,male,0,,349220,Ilieff,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+46.0,,S,26.0,0,"Jones, Mr. Charles Cresson",0,903,1,male,0,,694,Jones,man,no_group,1_69_26.0_S,0.33741496598639453,0
+23.0,B45,S,82.2667,0,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",0,904,1,female,1,,21228,Snyder,woman,no_group,1_2122_82.2667_S,0.33741496598639453,1
+63.0,,S,26.0,0,"Howard, Mr. Benjamin",0,905,2,male,1,,24065,Howard,man,no_group,2_2406_26.0_S,0.33741496598639453,0
+47.0,E31,S,61.175,0,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",0,906,1,female,1,,W.E.P. 5734,Chaffee,woman,no_group,1_W.E.P. 573_61.175_S,0.33741496598639453,1
+24.0,,C,27.7208,0,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",0,907,2,female,1,,SC/PARIS 2167,del Carlo,woman,no_group,2_SC/PARIS 216_27.7208_C,0.33741496598639453,1
+35.0,,Q,12.35,0,"Keane, Mr. Daniel",0,908,2,male,0,,233734,Keane,man,no_group,2_23373_12.35_Q,0.33741496598639453,0
+21.0,,C,7.225,0,"Assaf, Mr. Gerios",0,909,3,male,0,,2692,Assaf,man,no_group,3_269_7.225_C,0.33741496598639453,0
+27.0,,S,7.925,0,"Ilmakangas, Miss. Ida Livija",0,910,3,female,1,,STON/O2. 3101270,Ilmakangas,woman,Ilmakangas_3_STON/O2. 310127_7.925_S,3_STON/O2. 310127_7.925_S,0.0,0
+45.0,,C,7.225,0,"Assaf Khalil, Mrs. Mariana (Miriam"")""",0,911,3,female,0,,2696,Assaf Khalil,woman,no_group,3_269_7.225_C,0.33741496598639453,1
+55.0,,C,59.4,0,"Rothschild, Mr. Martin",0,912,1,male,1,,PC 17603,Rothschild,man,no_group,1_PC 1760_59.4_C,0.33741496598639453,0
+9.0,,S,3.1708,0,"Olsen, Master. Artur Karl",1,913,3,male,0,,C 17368,Olsen,boy,no_group,3_C 1736_3.1708_S,0.33741496598639453,0
+,,S,31.6833,0,"Flegenheim, Mrs. Alfred (Antoinette)",0,914,1,female,0,,PC 17598,Flegenheim,woman,no_group,1_PC 1759_31.6833_S,0.33741496598639453,1
+21.0,,C,61.3792,0,"Williams, Mr. Richard Norris II",1,915,1,male,0,,PC 17597,Williams,man,no_group,1_PC 1759_61.3792_C,0.33741496598639453,0
+48.0,B57 B59 B63 B66,C,262.375,0,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",3,916,1,female,1,,PC 17608,Ryerson,woman,Ryerson_1_PC 1760_262.375_C,1_PC 1760_262.375_C,1.0,1
+50.0,,S,14.5,0,"Robins, Mr. Alexander A",0,917,3,male,1,,A/5. 3337,Robins,man,no_group,3_A/5. 333_14.5_S,0.33741496598639453,0
+22.0,B36,C,61.9792,0,"Ostby, Miss. Helene Ragnhild",1,918,1,female,0,,113509,Ostby,woman,no_group,1_11350_61.9792_C,0.33741496598639453,1
+22.5,,C,7.225,0,"Daher, Mr. Shedid",0,919,3,male,0,,2698,Daher,man,no_group,3_269_7.225_C,0.33741496598639453,0
+41.0,A21,S,30.5,0,"Brady, Mr. John Bertram",0,920,1,male,0,,113054,Brady,man,no_group,1_11305_30.5_S,0.33741496598639453,0
+,,C,21.6792,0,"Samaan, Mr. Elias",0,921,3,male,2,,2662,Samaan,man,no_group,3_266_21.6792_C,0.33741496598639453,0
+50.0,,S,26.0,0,"Louch, Mr. Charles Alexander",0,922,2,male,1,,SC/AH 3085,Louch,man,no_group,2_SC/AH 308_26.0_S,0.33741496598639453,0
+24.0,,S,31.5,0,"Jefferys, Mr. Clifford Thomas",0,923,2,male,2,,C.A. 31029,Jefferys,man,no_group,2_C.A. 3102_31.5_S,0.33741496598639453,0
+33.0,,S,20.575,0,"Dean, Mrs. Bertram (Eva Georgetta Light)",2,924,3,female,1,,C.A. 2315,Dean,woman,Dean_3_C.A. 231_20.575_S,3_C.A. 231_20.575_S,1.0,1
+,,S,23.45,0,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",2,925,3,female,1,,W./C. 6607,Johnston,woman,Johnston_3_W./C. 660_23.45_S,3_W./C. 660_23.45_S,0.0,0
+30.0,C78,C,57.75,0,"Mock, Mr. Philipp Edmund",0,926,1,male,1,,13236,Mock,man,no_group,1_1323_57.75_C,0.33741496598639453,0
+18.5,,C,7.2292,0,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",0,927,3,male,0,,2682,Katavelas,man,no_group,3_268_7.2292_C,0.33741496598639453,0
+,,S,8.05,0,"Roth, Miss. Sarah A",0,928,3,female,0,,342712,Roth,woman,no_group,3_34271_8.05_S,0.33741496598639453,1
+21.0,,S,8.6625,0,"Cacic, Miss. Manda",0,929,3,female,0,,315087,Cacic,woman,Cacic_3_31508_8.6625_S,3_31508_8.6625_S,0.0,0
+25.0,,S,9.5,0,"Sap, Mr. Julius",0,930,3,male,0,,345768,Sap,man,no_group,3_34576_9.5_S,0.33741496598639453,0
+,,S,56.4958,0,"Hee, Mr. Ling",0,931,3,male,0,,1601,Hee,man,no_group,3_160_56.4958_S,0.33741496598639453,0
+39.0,,C,13.4167,0,"Karun, Mr. Franz",1,932,3,male,0,,349256,Karun,man,no_group,3_34925_13.4167_C,0.33741496598639453,0
+,D34,S,26.55,0,"Franklin, Mr. Thomas Parham",0,933,1,male,0,,113778,Franklin,man,no_group,1_11377_26.55_S,0.33741496598639453,0
+41.0,,S,7.85,0,"Goldsmith, Mr. Nathan",0,934,3,male,0,,SOTON/O.Q. 3101263,Goldsmith,man,no_group,3_SOTON/O.Q. 310126_7.85_S,0.33741496598639453,0
+30.0,,S,13.0,0,"Corbett, Mrs. Walter H (Irene Colvin)",0,935,2,female,0,,237249,Corbett,woman,no_group,2_23724_13.0_S,0.33741496598639453,1
+45.0,D19,S,52.5542,0,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",0,936,1,female,1,,11753,Kimball,woman,no_group,1_1175_52.5542_S,0.33741496598639453,1
+25.0,,S,7.925,0,"Peltomaki, Mr. Nikolai Johannes",0,937,3,male,0,,STON/O 2. 3101291,Peltomaki,man,no_group,3_STON/O 2. 310129_7.925_S,0.33741496598639453,0
+45.0,A9,C,29.7,0,"Chevre, Mr. Paul Romaine",0,938,1,male,0,,PC 17594,Chevre,man,no_group,1_PC 1759_29.7_C,0.33741496598639453,0
+,,Q,7.75,0,"Shaughnessy, Mr. Patrick",0,939,3,male,0,,370374,Shaughnessy,man,no_group,3_37037_7.75_Q,0.33741496598639453,0
+60.0,D15,C,76.2917,0,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",0,940,1,female,0,,11813,Bucknell,woman,no_group,1_1181_76.2917_C,0.33741496598639453,1
+36.0,,S,15.9,0,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",2,941,3,female,0,,C.A. 37671,Coutts,woman,Coutts_3_C.A. 3767_15.9_S,3_C.A. 3767_15.9_S,1.0,1
+24.0,C31,S,60.0,0,"Smith, Mr. Lucien Philip",0,942,1,male,1,,13695,Smith,man,no_group,1_1369_60.0_S,0.33741496598639453,0
+27.0,,C,15.0333,0,"Pulbaum, Mr. Franz",0,943,2,male,0,,SC/PARIS 2168,Pulbaum,man,no_group,2_SC/PARIS 216_15.0333_C,0.33741496598639453,0
+20.0,,S,23.0,0,"Hocking, Miss. Ellen Nellie""""",1,944,2,female,2,,29105,Hocking,woman,Hocking_2_2910_23.0_S,2_2910_23.0_S,1.0,1
+28.0,C23 C25 C27,S,263.0,0,"Fortune, Miss. Ethel Flora",2,945,1,female,3,,19950,Fortune,woman,Fortune_1_1995_263.0_S,1_1995_263.0_S,1.0,1
+,,C,15.5792,0,"Mangiavacchi, Mr. Serafino Emilio",0,946,2,male,0,,SC/A.3 2861,Mangiavacchi,man,no_group,2_SC/A.3 286_15.5792_C,0.33741496598639453,0
+10.0,,Q,29.125,0,"Rice, Master. Albert",1,947,3,male,4,,382652,Rice,boy,Rice_3_38265_29.125_Q,3_38265_29.125_Q,0.0,0
+35.0,,S,7.8958,0,"Cor, Mr. Bartol",0,948,3,male,0,,349230,Cor,man,no_group,3_34923_7.8958_S,0.33741496598639453,0
+25.0,F G63,S,7.65,0,"Abelseth, Mr. Olaus Jorgensen",0,949,3,male,0,,348122,Abelseth,man,no_group,3_34812_7.65_S,0.33741496598639453,0
+,,S,16.1,0,"Davison, Mr. Thomas Henry",0,950,3,male,1,,386525,Davison,man,no_group,3_38652_16.1_S,0.33741496598639453,0
+36.0,B61,C,262.375,0,"Chaudanson, Miss. Victorine",0,951,1,female,0,,PC 17608,Chaudanson,woman,Ryerson_1_PC 1760_262.375_C,1_PC 1760_262.375_C,1.0,1
+17.0,,S,7.8958,0,"Dika, Mr. Mirko",0,952,3,male,0,,349232,Dika,man,no_group,3_34923_7.8958_S,0.33741496598639453,0
+32.0,,S,13.5,0,"McCrae, Mr. Arthur Gordon",0,953,2,male,0,,237216,McCrae,man,no_group,2_23721_13.5_S,0.33741496598639453,0
+18.0,,S,7.75,0,"Bjorklund, Mr. Ernst Herbert",0,954,3,male,0,,347090,Bjorklund,man,no_group,3_34709_7.75_S,0.33741496598639453,0
+22.0,,Q,7.725,0,"Bradley, Miss. Bridget Delia",0,955,3,female,0,,334914,Bradley,woman,no_group,3_33491_7.725_Q,0.33741496598639453,1
+13.0,B57 B59 B63 B66,C,262.375,0,"Ryerson, Master. John Borie",2,956,1,male,2,,PC 17608,Ryerson,boy,Ryerson_1_PC 1760_262.375_C,1_PC 1760_262.375_C,1.0,1
+,,S,21.0,0,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",0,957,2,female,0,,F.C.C. 13534,Corey,woman,no_group,2_F.C.C. 1353_21.0_S,0.33741496598639453,1
+18.0,,Q,7.8792,0,"Burns, Miss. Mary Delia",0,958,3,female,0,,330963,Burns,woman,no_group,3_33096_7.8792_Q,0.33741496598639453,1
+47.0,,S,42.4,0,"Moore, Mr. Clarence Bloomfield",0,959,1,male,0,,113796,Moore,man,no_group,1_11379_42.4_S,0.33741496598639453,0
+31.0,C53,C,28.5375,0,"Tucker, Mr. Gilbert Milligan Jr",0,960,1,male,0,,2543,Tucker,man,no_group,1_254_28.5375_C,0.33741496598639453,0
+60.0,C23 C25 C27,S,263.0,0,"Fortune, Mrs. Mark (Mary McDougald)",4,961,1,female,1,,19950,Fortune,woman,Fortune_1_1995_263.0_S,1_1995_263.0_S,1.0,1
+24.0,,Q,7.75,0,"Mulvihill, Miss. Bertha E",0,962,3,female,0,,382653,Mulvihill,woman,no_group,3_38265_7.75_Q,0.33741496598639453,1
+21.0,,S,7.8958,0,"Minkoff, Mr. Lazar",0,963,3,male,0,,349211,Minkoff,man,no_group,3_34921_7.8958_S,0.33741496598639453,0
+29.0,,S,7.925,0,"Nieminen, Miss. Manta Josefina",0,964,3,female,0,,3101297,Nieminen,woman,no_group,3_310129_7.925_S,0.33741496598639453,1
+28.5,D43,C,27.7208,0,"Ovies y Rodriguez, Mr. Servando",0,965,1,male,0,,PC 17562,Ovies y Rodriguez,man,no_group,1_PC 1756_27.7208_C,0.33741496598639453,0
+35.0,C130,C,211.5,0,"Geiger, Miss. Amalie",0,966,1,female,0,,113503,Geiger,woman,no_group,1_11350_211.5_C,0.33741496598639453,1
+32.5,C132,C,211.5,0,"Keeping, Mr. Edwin",0,967,1,male,0,,113503,Keeping,man,no_group,1_11350_211.5_C,0.33741496598639453,0
+,,S,8.05,0,"Miles, Mr. Frank",0,968,3,male,0,,359306,Miles,man,no_group,3_35930_8.05_S,0.33741496598639453,0
+55.0,C101,S,25.7,0,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",0,969,1,female,2,,11770,Cornell,woman,no_group,1_1177_25.7_S,0.33741496598639453,1
+30.0,,S,13.0,0,"Aldworth, Mr. Charles Augustus",0,970,2,male,0,,248744,Aldworth,man,no_group,2_24874_13.0_S,0.33741496598639453,0
+24.0,,Q,7.75,0,"Doyle, Miss. Elizabeth",0,971,3,female,0,,368702,Doyle,woman,no_group,3_36870_7.75_Q,0.33741496598639453,1
+6.0,,C,15.2458,0,"Boulos, Master. Akar",1,972,3,male,1,,2678,Boulos,boy,Boulos_3_267_15.2458_C,3_267_15.2458_C,0.0,0
+67.0,C55 C57,S,221.7792,0,"Straus, Mr. Isidor",0,973,1,male,1,,PC 17483,Straus,man,no_group,1_PC 1748_221.7792_S,0.33741496598639453,0
+49.0,,S,26.0,0,"Case, Mr. Howard Brown",0,974,1,male,0,,19924,Case,man,no_group,1_1992_26.0_S,0.33741496598639453,0
+,,S,7.8958,0,"Demetri, Mr. Marinko",0,975,3,male,0,,349238,Demetri,man,no_group,3_34923_7.8958_S,0.33741496598639453,0
+,,Q,10.7083,0,"Lamb, Mr. John Joseph",0,976,2,male,0,,240261,Lamb,man,no_group,2_24026_10.7083_Q,0.33741496598639453,0
+,,C,14.4542,0,"Khalil, Mr. Betros",0,977,3,male,1,,2660,Khalil,man,no_group,3_266_14.4542_C,0.33741496598639453,0
+27.0,,Q,7.8792,0,"Barry, Miss. Julia",0,978,3,female,0,,330844,Barry,woman,no_group,3_33084_7.8792_Q,0.33741496598639453,1
+18.0,,S,8.05,0,"Badman, Miss. Emily Louisa",0,979,3,female,0,,A/4 31416,Badman,woman,no_group,3_A/4 3141_8.05_S,0.33741496598639453,1
+,,Q,7.75,0,"O'Donoghue, Ms. Bridget",0,980,3,female,0,,364856,O'Donoghue,woman,no_group,3_36485_7.75_Q,0.33741496598639453,1
+2.0,,S,23.0,0,"Wells, Master. Ralph Lester",1,981,2,male,1,,29103,Wells,boy,Wells_2_2910_23.0_S,2_2910_23.0_S,1.0,1
+22.0,,S,13.9,0,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",0,982,3,female,1,,347072,Dyker,woman,no_group,3_34707_13.9_S,0.33741496598639453,1
+,,S,7.775,0,"Pedersen, Mr. Olaf",0,983,3,male,0,,345498,Pedersen,man,no_group,3_34549_7.775_S,0.33741496598639453,0
+27.0,B71,S,52.0,0,"Davidson, Mrs. Thornton (Orian Hays)",2,984,1,female,1,,F.C. 12750,Davidson,woman,no_group,1_F.C. 1275_52.0_S,0.33741496598639453,1
+,,S,8.05,0,"Guest, Mr. Robert",0,985,3,male,0,,376563,Guest,man,no_group,3_37656_8.05_S,0.33741496598639453,0
+25.0,,C,26.0,0,"Birnbaum, Mr. Jakob",0,986,1,male,0,,13905,Birnbaum,man,no_group,1_1390_26.0_C,0.33741496598639453,0
+25.0,,S,7.7958,0,"Tenglin, Mr. Gunnar Isidor",0,987,3,male,0,,350033,Tenglin,man,no_group,3_35003_7.7958_S,0.33741496598639453,0
+76.0,C46,S,78.85,0,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",0,988,1,female,1,,19877,Cavendish,woman,no_group,1_1987_78.85_S,0.33741496598639453,1
+29.0,,S,7.925,0,"Makinen, Mr. Kalle Edvard",0,989,3,male,0,,STON/O 2. 3101268,Makinen,man,no_group,3_STON/O 2. 310126_7.925_S,0.33741496598639453,0
+20.0,,S,7.8542,0,"Braf, Miss. Elin Ester Maria",0,990,3,female,0,,347471,Braf,woman,no_group,3_34747_7.8542_S,0.33741496598639453,1
+33.0,,S,8.05,0,"Nancarrow, Mr. William Henry",0,991,3,male,0,,A./5. 3338,Nancarrow,man,no_group,3_A./5. 333_8.05_S,0.33741496598639453,0
+43.0,C116,C,55.4417,0,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",0,992,1,female,1,,11778,Stengel,woman,no_group,1_1177_55.4417_C,0.33741496598639453,1
+27.0,,S,26.0,0,"Weisz, Mr. Leopold",0,993,2,male,1,,228414,Weisz,man,no_group,2_22841_26.0_S,0.33741496598639453,0
+,,Q,7.75,0,"Foley, Mr. William",0,994,3,male,0,,365235,Foley,man,no_group,3_36523_7.75_Q,0.33741496598639453,0
+26.0,,S,7.775,0,"Johansson Palmquist, Mr. Oskar Leander",0,995,3,male,0,,347070,Johansson Palmquist,man,no_group,3_34707_7.775_S,0.33741496598639453,0
+16.0,,C,8.5167,0,"Thomas, Mrs. Alexander (Thamine Thelma"")""",1,996,3,female,1,,2625,Thomas,woman,Thomas_3_262_8.5167_C,3_262_8.5167_C,1.0,1
+28.0,,S,22.525,0,"Holthen, Mr. Johan Martin",0,997,3,male,0,,C 4001,Holthen,man,no_group,3_C 400_22.525_S,0.33741496598639453,0
+21.0,,Q,7.8208,0,"Buckley, Mr. Daniel",0,998,3,male,0,,330920,Buckley,man,no_group,3_33092_7.8208_Q,0.33741496598639453,0
+,,Q,7.75,0,"Ryan, Mr. Edward",0,999,3,male,0,,383162,Ryan,man,no_group,3_38316_7.75_Q,0.33741496598639453,0
+,,S,8.7125,0,"Willer, Mr. Aaron (Abi Weller"")""",0,1000,3,male,0,,3410,Willer,man,no_group,3_341_8.7125_S,0.33741496598639453,0
+18.5,F,S,13.0,0,"Swane, Mr. George",0,1001,2,male,0,,248734,Swane,man,no_group,2_24873_13.0_S,0.33741496598639453,0
+41.0,,C,15.0458,0,"Stanton, Mr. Samuel Ward",0,1002,2,male,0,,237734,Stanton,man,no_group,2_23773_15.0458_C,0.33741496598639453,0
+,,Q,7.7792,0,"Shine, Miss. Ellen Natalia",0,1003,3,female,0,,330968,Shine,woman,no_group,3_33096_7.7792_Q,0.33741496598639453,1
+36.0,A29,C,31.6792,0,"Evans, Miss. Edith Corse",0,1004,1,female,0,,PC 17531,Evans,woman,no_group,1_PC 1753_31.6792_C,0.33741496598639453,1
+18.5,,Q,7.2833,0,"Buckley, Miss. Katherine",0,1005,3,female,0,,329944,Buckley,woman,no_group,3_32994_7.2833_Q,0.33741496598639453,1
+63.0,C55 C57,S,221.7792,0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",0,1006,1,female,1,,PC 17483,Straus,woman,no_group,1_PC 1748_221.7792_S,0.33741496598639453,1
+18.0,,C,14.4542,0,"Chronopoulos, Mr. Demetrios",0,1007,3,male,1,,2680,Chronopoulos,man,no_group,3_268_14.4542_C,0.33741496598639453,0
+,,C,6.4375,0,"Thomas, Mr. John",0,1008,3,male,0,,2681,Thomas,man,no_group,3_268_6.4375_C,0.33741496598639453,0
+1.0,G6,S,16.7,0,"Sandstrom, Miss. Beatrice Irene",1,1009,3,female,1,,PP 9549,Sandstrom,woman,Sandstrom_3_PP 954_16.7_S,3_PP 954_16.7_S,1.0,1
+36.0,C6,C,75.2417,0,"Beattie, Mr. Thomson",0,1010,1,male,0,,13050,Beattie,man,no_group,1_1305_75.2417_C,0.33741496598639453,0
+29.0,,S,26.0,0,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",0,1011,2,female,1,,SC/AH 29037,Chapman,woman,no_group,2_SC/AH 2903_26.0_S,0.33741496598639453,1
+12.0,,S,15.75,0,"Watt, Miss. Bertha J",0,1012,2,female,0,,C.A. 33595,Watt,woman,Watt_2_C.A. 3359_15.75_S,2_C.A. 3359_15.75_S,1.0,1
+,,Q,7.75,0,"Kiernan, Mr. John",0,1013,3,male,1,,367227,Kiernan,man,no_group,3_36722_7.75_Q,0.33741496598639453,0
+35.0,C28,C,57.75,0,"Schabert, Mrs. Paul (Emma Mock)",0,1014,1,female,1,,13236,Schabert,woman,no_group,1_1323_57.75_C,0.33741496598639453,1
+28.0,,S,7.25,0,"Carver, Mr. Alfred John",0,1015,3,male,0,,392095,Carver,man,no_group,3_39209_7.25_S,0.33741496598639453,0
+,,Q,7.75,0,"Kennedy, Mr. John",0,1016,3,male,0,,368783,Kennedy,man,no_group,3_36878_7.75_Q,0.33741496598639453,0
+17.0,,S,16.1,0,"Cribb, Miss. Laura Alice",1,1017,3,female,0,,371362,Cribb,woman,no_group,3_37136_16.1_S,0.33741496598639453,1
+22.0,,S,7.7958,0,"Brobeck, Mr. Karl Rudolf",0,1018,3,male,0,,350045,Brobeck,man,no_group,3_35004_7.7958_S,0.33741496598639453,0
+,,Q,23.25,0,"McCoy, Miss. Alicia",0,1019,3,female,2,,367226,McCoy,woman,McCoy_3_36722_23.25_Q,3_36722_23.25_Q,1.0,1
+42.0,,S,13.0,0,"Bowenur, Mr. Solomon",0,1020,2,male,0,,211535,Bowenur,man,no_group,2_21153_13.0_S,0.33741496598639453,0
+24.0,,S,8.05,0,"Petersen, Mr. Marius",0,1021,3,male,0,,342441,Petersen,man,no_group,3_34244_8.05_S,0.33741496598639453,0
+32.0,,S,8.05,0,"Spinner, Mr. Henry John",0,1022,3,male,0,,STON/OQ. 369943,Spinner,man,no_group,3_STON/OQ. 36994_8.05_S,0.33741496598639453,0
+53.0,C51,C,28.5,0,"Gracie, Col. Archibald IV",0,1023,1,male,0,,113780,Gracie,man,no_group,1_11378_28.5_C,0.33741496598639453,0
+,,S,25.4667,0,"Lefebre, Mrs. Frank (Frances)",4,1024,3,female,0,,4133,Lefebre,woman,Lefebre_3_413_25.4667_S,3_413_25.4667_S,0.0,0
+,,C,6.4375,0,"Thomas, Mr. Charles P",0,1025,3,male,1,,2621,Thomas,man,no_group,3_262_6.4375_C,0.33741496598639453,0
+43.0,,S,7.8958,0,"Dintcheff, Mr. Valtcho",0,1026,3,male,0,,349226,Dintcheff,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+24.0,,S,7.8542,0,"Carlsson, Mr. Carl Robert",0,1027,3,male,0,,350409,Carlsson,man,no_group,3_35040_7.8542_S,0.33741496598639453,0
+26.5,,C,7.225,0,"Zakarian, Mr. Mapriededer",0,1028,3,male,0,,2656,Zakarian,man,no_group,3_265_7.225_C,0.33741496598639453,0
+26.0,,S,13.0,0,"Schmidt, Mr. August",0,1029,2,male,0,,248659,Schmidt,man,no_group,2_24865_13.0_S,0.33741496598639453,0
+23.0,,S,8.05,0,"Drapkin, Miss. Jennie",0,1030,3,female,0,,SOTON/OQ 392083,Drapkin,woman,no_group,3_SOTON/OQ 39208_8.05_S,0.33741496598639453,1
+40.0,,S,46.9,0,"Goodwin, Mr. Charles Frederick",6,1031,3,male,1,,CA 2144,Goodwin,man,no_group,3_CA 214_46.9_S,0.33741496598639453,0
+10.0,,S,46.9,0,"Goodwin, Miss. Jessie Allis",2,1032,3,female,5,,CA 2144,Goodwin,woman,Goodwin_3_CA 214_46.9_S,3_CA 214_46.9_S,0.0,0
+33.0,,S,151.55,0,"Daniels, Miss. Sarah",0,1033,1,female,0,,113781,Daniels,woman,Allison_1_11378_151.55_S,1_11378_151.55_S,0.5,1
+61.0,B57 B59 B63 B66,C,262.375,0,"Ryerson, Mr. Arthur Larned",3,1034,1,male,1,,PC 17608,Ryerson,man,no_group,1_PC 1760_262.375_C,0.33741496598639453,0
+28.0,,S,26.0,0,"Beauchamp, Mr. Henry James",0,1035,2,male,0,,244358,Beauchamp,man,no_group,2_24435_26.0_S,0.33741496598639453,0
+42.0,,S,26.55,0,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",0,1036,1,male,0,,17475,Lindeberg-Lind,man,no_group,1_1747_26.55_S,0.33741496598639453,0
+31.0,,S,18.0,0,"Vander Planke, Mr. Julius",0,1037,3,male,3,,345763,Vander Planke,man,no_group,3_34576_18.0_S,0.33741496598639453,0
+,E46,S,51.8625,0,"Hilliard, Mr. Herbert Henry",0,1038,1,male,0,,17463,Hilliard,man,no_group,1_1746_51.8625_S,0.33741496598639453,0
+22.0,,S,8.05,0,"Davies, Mr. Evan",0,1039,3,male,0,,SC/A4 23568,Davies,man,no_group,3_SC/A4 2356_8.05_S,0.33741496598639453,0
+,,S,26.55,0,"Crafton, Mr. John Bertram",0,1040,1,male,0,,113791,Crafton,man,no_group,1_11379_26.55_S,0.33741496598639453,0
+30.0,,S,26.0,0,"Lahtinen, Rev. William",1,1041,2,male,1,,250651,Lahtinen,man,no_group,2_25065_26.0_S,0.33741496598639453,0
+23.0,C54,C,83.1583,0,"Earnshaw, Mrs. Boulton (Olive Potter)",1,1042,1,female,0,,11767,Earnshaw,woman,no_group,1_1176_83.1583_C,0.33741496598639453,1
+,,C,7.8958,0,"Matinoff, Mr. Nicola",0,1043,3,male,0,,349255,Matinoff,man,no_group,3_34925_7.8958_C,0.33741496598639453,0
+60.5,,S,,0,"Storey, Mr. Thomas",0,1044,3,male,0,,3701,Storey,man,no_group,3_370_nan_S,0.33741496598639453,0
+36.0,,S,12.1833,0,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",2,1045,3,female,0,,350405,Klasen,woman,Klasen_3_35040_12.1833_S,3_35040_12.1833_S,0,0
+13.0,,S,31.3875,0,"Asplund, Master. Filip Oscar",2,1046,3,male,4,,347077,Asplund,boy,Asplund_3_34707_31.3875_S,3_34707_31.3875_S,0.75,0
+24.0,,S,7.55,0,"Duquemin, Mr. Joseph",0,1047,3,male,0,,S.O./P.P. 752,Duquemin,man,no_group,3_S.O./P.P. 75_7.55_S,0.33741496598639453,0
+29.0,C97,S,221.7792,0,"Bird, Miss. Ellen",0,1048,1,female,0,,PC 17483,Bird,woman,no_group,1_PC 1748_221.7792_S,0.33741496598639453,1
+23.0,,S,7.8542,0,"Lundin, Miss. Olga Elida",0,1049,3,female,0,,347469,Lundin,woman,no_group,3_34746_7.8542_S,0.33741496598639453,1
+42.0,D22,S,26.55,0,"Borebank, Mr. John James",0,1050,1,male,0,,110489,Borebank,man,no_group,1_11048_26.55_S,0.33741496598639453,0
+26.0,,S,13.775,0,"Peacock, Mrs. Benjamin (Edith Nile)",2,1051,3,female,0,,SOTON/O.Q. 3101315,Peacock,woman,Peacock_3_SOTON/O.Q. 310131_13.775_S,3_SOTON/O.Q. 310131_13.775_S,0,0
+,,Q,7.7333,0,"Smyth, Miss. Julia",0,1052,3,female,0,,335432,Smyth,woman,no_group,3_33543_7.7333_Q,0.33741496598639453,1
+7.0,,C,15.2458,0,"Touma, Master. Georges Youssef",1,1053,3,male,1,,2650,Touma,boy,Touma_3_265_15.2458_C,3_265_15.2458_C,1.0,1
+26.0,,S,13.5,0,"Wright, Miss. Marion",0,1054,2,female,0,,220844,Wright,woman,no_group,2_22084_13.5_S,0.33741496598639453,1
+,,S,7.0,0,"Pearce, Mr. Ernest",0,1055,3,male,0,,343271,Pearce,man,no_group,3_34327_7.0_S,0.33741496598639453,0
+41.0,,S,13.0,0,"Peruschitz, Rev. Joseph Maria",0,1056,2,male,0,,237393,Peruschitz,man,no_group,2_23739_13.0_S,0.33741496598639453,0
+26.0,,S,22.025,0,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1,1057,3,female,1,,315153,Kink-Heilmann,woman,Kink-Heilmann_3_31515_22.025_S,3_31515_22.025_S,1.0,1
+48.0,B10,C,50.4958,0,"Brandeis, Mr. Emil",0,1058,1,male,0,,PC 17591,Brandeis,man,no_group,1_PC 1759_50.4958_C,0.33741496598639453,0
+18.0,,S,34.375,0,"Ford, Mr. Edward Watson",2,1059,3,male,2,,W./C. 6608,Ford,man,no_group,3_W./C. 660_34.375_S,0.33741496598639453,0
+,,C,27.7208,0,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",0,1060,1,female,0,,17770,Cassebeer,woman,no_group,1_1777_27.7208_C,0.33741496598639453,1
+22.0,,S,8.9625,0,"Hellstrom, Miss. Hilda Maria",0,1061,3,female,0,,7548,Hellstrom,woman,no_group,3_754_8.9625_S,0.33741496598639453,1
+,,S,7.55,0,"Lithman, Mr. Simon",0,1062,3,male,0,,S.O./P.P. 251,Lithman,man,no_group,3_S.O./P.P. 25_7.55_S,0.33741496598639453,0
+27.0,,C,7.225,0,"Zakarian, Mr. Ortin",0,1063,3,male,0,,2670,Zakarian,man,no_group,3_267_7.225_C,0.33741496598639453,0
+23.0,,S,13.9,0,"Dyker, Mr. Adolf Fredrik",0,1064,3,male,1,,347072,Dyker,man,no_group,3_34707_13.9_S,0.33741496598639453,0
+,,C,7.2292,0,"Torfa, Mr. Assad",0,1065,3,male,0,,2673,Torfa,man,no_group,3_267_7.2292_C,0.33741496598639453,0
+40.0,,S,31.3875,0,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",5,1066,3,male,1,,347077,Asplund,man,no_group,3_34707_31.3875_S,0.33741496598639453,0
+15.0,,S,39.0,0,"Brown, Miss. Edith Eileen",2,1067,2,female,0,,29750,Brown,woman,Brown_2_2975_39.0_S,2_2975_39.0_S,1.0,1
+20.0,,S,36.75,0,"Sincock, Miss. Maude",0,1068,2,female,0,,C.A. 33112,Sincock,woman,no_group,2_C.A. 3311_36.75_S,0.33741496598639453,1
+54.0,C116,C,55.4417,0,"Stengel, Mr. Charles Emil Henry",0,1069,1,male,1,,11778,Stengel,man,no_group,1_1177_55.4417_C,0.33741496598639453,0
+36.0,F4,S,39.0,0,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",3,1070,2,female,0,,230136,Becker,woman,Becker_2_23013_39.0_S,2_23013_39.0_S,1.0,1
+64.0,E45,C,83.1583,0,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",2,1071,1,female,0,,PC 17756,Compton,woman,Compton_1_PC 1775_83.1583_C,1_PC 1775_83.1583_C,1.0,1
+30.0,,S,13.0,0,"McCrie, Mr. James Matthew",0,1072,2,male,0,,233478,McCrie,man,no_group,2_23347_13.0_S,0.33741496598639453,0
+37.0,E52,C,83.1583,0,"Compton, Mr. Alexander Taylor Jr",1,1073,1,male,1,,PC 17756,Compton,man,no_group,1_PC 1775_83.1583_C,0.33741496598639453,0
+18.0,D30,S,53.1,0,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",0,1074,1,female,1,,113773,Marvin,woman,no_group,1_11377_53.1_S,0.33741496598639453,1
+,,Q,7.75,0,"Lane, Mr. Patrick",0,1075,3,male,0,,7935,Lane,man,no_group,3_793_7.75_Q,0.33741496598639453,0
+27.0,B58 B60,C,247.5208,0,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1,1076,1,female,1,,PC 17558,Douglas,woman,no_group,1_PC 1755_247.5208_C,0.33741496598639453,1
+40.0,,S,16.0,0,"Maybery, Mr. Frank Hubert",0,1077,2,male,0,,239059,Maybery,man,no_group,2_23905_16.0_S,0.33741496598639453,0
+21.0,,S,21.0,0,"Phillips, Miss. Alice Frances Louisa",1,1078,2,female,0,,S.O./P.P. 2,Phillips,woman,no_group,2_S.O./P.P. _21.0_S,0.33741496598639453,1
+17.0,,S,8.05,0,"Davies, Mr. Joseph",0,1079,3,male,2,,A/4 48873,Davies,man,no_group,3_A/4 4887_8.05_S,0.33741496598639453,0
+,,S,69.55,0,"Sage, Miss. Ada",2,1080,3,female,8,,CA. 2343,Sage,woman,Sage_3_CA. 234_69.55_S,3_CA. 234_69.55_S,0.0,0
+40.0,,S,13.0,0,"Veal, Mr. James",0,1081,2,male,0,,28221,Veal,man,no_group,2_2822_13.0_S,0.33741496598639453,0
+34.0,,S,26.0,0,"Angle, Mr. William A",0,1082,2,male,1,,226875,Angle,man,no_group,2_22687_26.0_S,0.33741496598639453,0
+,,S,26.0,0,"Salomon, Mr. Abraham L",0,1083,1,male,0,,111163,Salomon,man,no_group,1_11116_26.0_S,0.33741496598639453,0
+11.5,,S,14.5,0,"van Billiard, Master. Walter John",1,1084,3,male,1,,A/5. 851,van Billiard,boy,van Billiard_3_A/5. 85_14.5_S,3_A/5. 85_14.5_S,0,0
+61.0,,Q,12.35,0,"Lingane, Mr. John",0,1085,2,male,0,,235509,Lingane,man,no_group,2_23550_12.35_Q,0.33741496598639453,0
+8.0,,S,32.5,0,"Drew, Master. Marshall Brines",2,1086,2,male,0,,28220,Drew,boy,Drew_2_2822_32.5_S,2_2822_32.5_S,1.0,1
+33.0,,S,7.8542,0,"Karlsson, Mr. Julius Konrad Eugen",0,1087,3,male,0,,347465,Karlsson,man,no_group,3_34746_7.8542_S,0.33741496598639453,0
+6.0,E34,C,134.5,0,"Spedden, Master. Robert Douglas",2,1088,1,male,0,,16966,Spedden,boy,Spedden_1_1696_134.5_C,1_1696_134.5_C,1.0,1
+18.0,,S,7.775,0,"Nilsson, Miss. Berta Olivia",0,1089,3,female,0,,347066,Nilsson,woman,no_group,3_34706_7.775_S,0.33741496598639453,1
+23.0,,S,10.5,0,"Baimbrigge, Mr. Charles Robert",0,1090,2,male,0,,C.A. 31030,Baimbrigge,man,no_group,2_C.A. 3103_10.5_S,0.33741496598639453,0
+,,S,8.1125,0,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",0,1091,3,female,0,,65305,Rasmussen,woman,no_group,3_6530_8.1125_S,0.33741496598639453,1
+,,Q,15.5,0,"Murphy, Miss. Nora",0,1092,3,female,0,,36568,Murphy,woman,no_group,3_3656_15.5_Q,0.33741496598639453,1
+0.33,,S,14.4,0,"Danbom, Master. Gilbert Sigvard Emanuel",2,1093,3,male,0,,347080,Danbom,boy,Danbom_3_34708_14.4_S,3_34708_14.4_S,0.0,0
+47.0,C62 C64,C,227.525,0,"Astor, Col. John Jacob",0,1094,1,male,1,,PC 17757,Astor,man,no_group,1_PC 1775_227.525_C,0.33741496598639453,0
+8.0,,S,26.0,0,"Quick, Miss. Winifred Vera",1,1095,2,female,1,,26360,Quick,woman,Quick_2_2636_26.0_S,2_2636_26.0_S,1.0,1
+25.0,,S,10.5,0,"Andrew, Mr. Frank Thomas",0,1096,2,male,0,,C.A. 34050,Andrew,man,no_group,2_C.A. 3405_10.5_S,0.33741496598639453,0
+,,C,25.7417,0,"Omont, Mr. Alfred Fernand",0,1097,1,male,0,,F.C. 12998,Omont,man,no_group,1_F.C. 1299_25.7417_C,0.33741496598639453,0
+35.0,,Q,7.75,0,"McGowan, Miss. Katherine",0,1098,3,female,0,,9232,McGowan,woman,no_group,3_923_7.75_Q,0.33741496598639453,1
+24.0,,S,10.5,0,"Collett, Mr. Sidney C Stuart",0,1099,2,male,0,,28034,Collett,man,no_group,2_2803_10.5_S,0.33741496598639453,0
+33.0,A11,C,27.7208,0,"Rosenbaum, Miss. Edith Louise",0,1100,1,female,0,,PC 17613,Rosenbaum,woman,no_group,1_PC 1761_27.7208_C,0.33741496598639453,1
+25.0,,S,7.8958,0,"Delalic, Mr. Redjo",0,1101,3,male,0,,349250,Delalic,man,no_group,3_34925_7.8958_S,0.33741496598639453,0
+32.0,,S,22.525,0,"Andersen, Mr. Albert Karvin",0,1102,3,male,0,,C 4001,Andersen,man,no_group,3_C 400_22.525_S,0.33741496598639453,0
+,,S,7.05,0,"Finoli, Mr. Luigi",0,1103,3,male,0,,SOTON/O.Q. 3101308,Finoli,man,no_group,3_SOTON/O.Q. 310130_7.05_S,0.33741496598639453,0
+17.0,,S,73.5,0,"Deacon, Mr. Percy William",0,1104,2,male,0,,S.O.C. 14879,Deacon,man,no_group,2_S.O.C. 1487_73.5_S,0.33741496598639453,0
+60.0,,S,26.0,0,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",0,1105,2,female,1,,24065,Howard,woman,no_group,2_2406_26.0_S,0.33741496598639453,1
+38.0,,S,7.775,0,"Andersson, Miss. Ida Augusta Margareta",2,1106,3,female,4,,347091,Andersson,woman,no_group,3_34709_7.775_S,0.33741496598639453,1
+42.0,B11,S,42.5,0,"Head, Mr. Christopher",0,1107,1,male,0,,113038,Head,man,no_group,1_11303_42.5_S,0.33741496598639453,0
+,,Q,7.8792,0,"Mahon, Miss. Bridget Delia",0,1108,3,female,0,,330924,Mahon,woman,no_group,3_33092_7.8792_Q,0.33741496598639453,1
+57.0,,S,164.8667,0,"Wick, Mr. George Dennick",1,1109,1,male,1,,36928,Wick,man,no_group,1_3692_164.8667_S,0.33741496598639453,0
+50.0,C80,C,211.5,0,"Widener, Mrs. George Dunton (Eleanor Elkins)",1,1110,1,female,1,,113503,Widener,woman,no_group,1_11350_211.5_C,0.33741496598639453,1
+,,S,8.05,0,"Thomson, Mr. Alexander Morrison",0,1111,3,male,0,,32302,Thomson,man,no_group,3_3230_8.05_S,0.33741496598639453,0
+30.0,,C,13.8583,0,"Duran y More, Miss. Florentina",0,1112,2,female,1,,SC/PARIS 2148,Duran y More,woman,Duran y More_2_SC/PARIS 214_13.8583_C,2_SC/PARIS 214_13.8583_C,1.0,1
+21.0,,S,8.05,0,"Reynolds, Mr. Harold J",0,1113,3,male,0,,342684,Reynolds,man,no_group,3_34268_8.05_S,0.33741496598639453,0
+22.0,F33,S,10.5,0,"Cook, Mrs. (Selena Rogers)",0,1114,2,female,0,,W./C. 14266,Cook,woman,no_group,2_W./C. 1426_10.5_S,0.33741496598639453,1
+21.0,,S,7.7958,0,"Karlsson, Mr. Einar Gervasius",0,1115,3,male,0,,350053,Karlsson,man,no_group,3_35005_7.7958_S,0.33741496598639453,0
+53.0,,C,27.4458,0,"Candee, Mrs. Edward (Helen Churchill Hungerford)",0,1116,1,female,0,,PC 17606,Candee,woman,no_group,1_PC 1760_27.4458_C,0.33741496598639453,1
+,,C,15.2458,0,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",2,1117,3,female,0,,2661,Moubarek,woman,Moubarek_3_266_15.2458_C,3_266_15.2458_C,1.0,1
+23.0,,S,7.7958,0,"Asplund, Mr. Johan Charles",0,1118,3,male,0,,350054,Asplund,man,no_group,3_35005_7.7958_S,0.33741496598639453,0
+,,Q,7.75,0,"McNeill, Miss. Bridget",0,1119,3,female,0,,370368,McNeill,woman,no_group,3_37036_7.75_Q,0.33741496598639453,1
+40.5,,S,15.1,0,"Everett, Mr. Thomas James",0,1120,3,male,0,,C.A. 6212,Everett,man,no_group,3_C.A. 621_15.1_S,0.33741496598639453,0
+36.0,,S,13.0,0,"Hocking, Mr. Samuel James Metcalfe",0,1121,2,male,0,,242963,Hocking,man,no_group,2_24296_13.0_S,0.33741496598639453,0
+14.0,,S,65.0,0,"Sweet, Mr. George Frederick",0,1122,2,male,0,,220845,Sweet,man,no_group,2_22084_65.0_S,0.33741496598639453,0
+21.0,,S,26.55,0,"Willard, Miss. Constance",0,1123,1,female,0,,113795,Willard,woman,no_group,1_11379_26.55_S,0.33741496598639453,1
+21.0,,S,6.4958,0,"Wiklund, Mr. Karl Johan",0,1124,3,male,1,,3101266,Wiklund,man,no_group,3_310126_6.4958_S,0.33741496598639453,0
+,,Q,7.8792,0,"Linehan, Mr. Michael",0,1125,3,male,0,,330971,Linehan,man,no_group,3_33097_7.8792_Q,0.33741496598639453,0
+39.0,C85,C,71.2833,0,"Cumings, Mr. John Bradley",0,1126,1,male,1,,PC 17599,Cumings,man,no_group,1_PC 1759_71.2833_C,0.33741496598639453,0
+20.0,,S,7.8542,0,"Vendel, Mr. Olof Edvin",0,1127,3,male,0,,350416,Vendel,man,no_group,3_35041_7.8542_S,0.33741496598639453,0
+64.0,D37,C,75.25,0,"Warren, Mr. Frank Manley",0,1128,1,male,1,,110813,Warren,man,no_group,1_11081_75.25_C,0.33741496598639453,0
+20.0,,C,7.225,0,"Baccos, Mr. Raffull",0,1129,3,male,0,,2679,Baccos,man,no_group,3_267_7.225_C,0.33741496598639453,0
+18.0,,S,13.0,0,"Hiltunen, Miss. Marta",1,1130,2,female,1,,250650,Hiltunen,woman,no_group,2_25065_13.0_S,0.33741496598639453,1
+48.0,C86,C,106.425,0,"Douglas, Mrs. Walter Donald (Mahala Dutton)",0,1131,1,female,1,,PC 17761,Douglas,woman,no_group,1_PC 1776_106.425_C,0.33741496598639453,1
+55.0,,C,27.7208,0,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",0,1132,1,female,0,,112377,Lindstrom,woman,no_group,1_11237_27.7208_C,0.33741496598639453,1
+45.0,,S,30.0,0,"Christy, Mrs. (Alice Frances)",2,1133,2,female,0,,237789,Christy,woman,Christy_2_23778_30.0_S,2_23778_30.0_S,1.0,1
+45.0,E34,C,134.5,0,"Spedden, Mr. Frederic Oakley",1,1134,1,male,1,,16966,Spedden,man,no_group,1_1696_134.5_C,0.33741496598639453,0
+,,S,7.8875,0,"Hyman, Mr. Abraham",0,1135,3,male,0,,3470,Hyman,man,no_group,3_347_7.8875_S,0.33741496598639453,0
+,,S,23.45,0,"Johnston, Master. William Arthur Willie""""",2,1136,3,male,1,,W./C. 6607,Johnston,boy,Johnston_3_W./C. 660_23.45_S,3_W./C. 660_23.45_S,0.0,0
+41.0,D21,S,51.8625,0,"Kenyon, Mr. Frederick R",0,1137,1,male,1,,17464,Kenyon,man,no_group,1_1746_51.8625_S,0.33741496598639453,0
+22.0,,S,21.0,0,"Karnes, Mrs. J Frank (Claire Bennett)",0,1138,2,female,0,,F.C.C. 13534,Karnes,woman,no_group,2_F.C.C. 1353_21.0_S,0.33741496598639453,1
+42.0,,S,32.5,0,"Drew, Mr. James Vivian",1,1139,2,male,1,,28220,Drew,man,no_group,2_2822_32.5_S,0.33741496598639453,0
+29.0,,S,26.0,0,"Hold, Mrs. Stephen (Annie Margaret Hill)",0,1140,2,female,1,,26707,Hold,woman,no_group,2_2670_26.0_S,0.33741496598639453,1
+,,C,14.4542,0,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",0,1141,3,female,1,,2660,Khalil,woman,Zabour_3_266_14.4542_C,3_266_14.4542_C,0.0,0
+0.92,,S,27.75,0,"West, Miss. Barbara J",2,1142,2,female,1,,C.A. 34651,West,woman,West_2_C.A. 3465_27.75_S,2_C.A. 3465_27.75_S,1.0,1
+20.0,,S,7.925,0,"Abrahamsson, Mr. Abraham August Johannes",0,1143,3,male,0,,SOTON/O2 3101284,Abrahamsson,man,no_group,3_SOTON/O2 310128_7.925_S,0.33741496598639453,0
+27.0,C89,C,136.7792,0,"Clark, Mr. Walter Miller",0,1144,1,male,1,,13508,Clark,man,no_group,1_1350_136.7792_C,0.33741496598639453,0
+24.0,,S,9.325,0,"Salander, Mr. Karl Johan",0,1145,3,male,0,,7266,Salander,man,no_group,3_726_9.325_S,0.33741496598639453,0
+32.5,,S,9.5,0,"Wenzel, Mr. Linhart",0,1146,3,male,0,,345775,Wenzel,man,no_group,3_34577_9.5_S,0.33741496598639453,0
+,,S,7.55,0,"MacKay, Mr. George William",0,1147,3,male,0,,C.A. 42795,MacKay,man,no_group,3_C.A. 4279_7.55_S,0.33741496598639453,0
+,,Q,7.75,0,"Mahon, Mr. John",0,1148,3,male,0,,AQ/4 3130,Mahon,man,no_group,3_AQ/4 313_7.75_Q,0.33741496598639453,0
+28.0,,S,8.05,0,"Niklasson, Mr. Samuel",0,1149,3,male,0,,363611,Niklasson,man,no_group,3_36361_8.05_S,0.33741496598639453,0
+19.0,,S,13.0,0,"Bentham, Miss. Lilian W",0,1150,2,female,0,,28404,Bentham,woman,no_group,2_2840_13.0_S,0.33741496598639453,1
+21.0,,S,7.775,0,"Midtsjo, Mr. Karl Albert",0,1151,3,male,0,,345501,Midtsjo,man,no_group,3_34550_7.775_S,0.33741496598639453,0
+36.5,,S,17.4,0,"de Messemaeker, Mr. Guillaume Joseph",0,1152,3,male,1,,345572,de Messemaeker,man,no_group,3_34557_17.4_S,0.33741496598639453,0
+21.0,,S,7.8542,0,"Nilsson, Mr. August Ferdinand",0,1153,3,male,0,,350410,Nilsson,man,no_group,3_35041_7.8542_S,0.33741496598639453,0
+29.0,,S,23.0,0,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",2,1154,2,female,0,,29103,Wells,woman,Wells_2_2910_23.0_S,2_2910_23.0_S,1.0,1
+1.0,,S,12.1833,0,"Klasen, Miss. Gertrud Emilia",1,1155,3,female,1,,350405,Klasen,woman,Klasen_3_35040_12.1833_S,3_35040_12.1833_S,0,0
+30.0,,C,12.7375,0,"Portaluppi, Mr. Emilio Ilario Giuseppe",0,1156,2,male,0,,C.A. 34644,Portaluppi,man,no_group,2_C.A. 3464_12.7375_C,0.33741496598639453,0
+,,S,7.8958,0,"Lyntakoff, Mr. Stanko",0,1157,3,male,0,,349235,Lyntakoff,man,no_group,3_34923_7.8958_S,0.33741496598639453,0
+,,S,0.0,0,"Chisholm, Mr. Roderick Robert Crispin",0,1158,1,male,0,,112051,Chisholm,man,no_group,1_11205_0.0_S,0.33741496598639453,0
+,,S,7.55,0,"Warren, Mr. Charles William",0,1159,3,male,0,,C.A. 49867,Warren,man,no_group,3_C.A. 4986_7.55_S,0.33741496598639453,0
+,,S,8.05,0,"Howard, Miss. May Elizabeth",0,1160,3,female,0,,A. 2. 39186,Howard,woman,no_group,3_A. 2. 3918_8.05_S,0.33741496598639453,1
+17.0,,S,8.6625,0,"Pokrnic, Mr. Mate",0,1161,3,male,0,,315095,Pokrnic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+46.0,C6,C,75.2417,0,"McCaffry, Mr. Thomas Francis",0,1162,1,male,0,,13050,McCaffry,man,no_group,1_1305_75.2417_C,0.33741496598639453,0
+,,Q,7.75,0,"Fox, Mr. Patrick",0,1163,3,male,0,,368573,Fox,man,no_group,3_36857_7.75_Q,0.33741496598639453,0
+26.0,C89,C,136.7792,0,"Clark, Mrs. Walter Miller (Virginia McDowell)",0,1164,1,female,1,,13508,Clark,woman,no_group,1_1350_136.7792_C,0.33741496598639453,1
+,,Q,15.5,0,"Lennon, Miss. Mary",0,1165,3,female,1,,370371,Lennon,woman,no_group,3_37037_15.5_Q,0.33741496598639453,1
+,,C,7.225,0,"Saade, Mr. Jean Nassr",0,1166,3,male,0,,2676,Saade,man,no_group,3_267_7.225_C,0.33741496598639453,0
+20.0,,S,26.0,0,"Bryhl, Miss. Dagmar Jenny Ingeborg ",0,1167,2,female,1,,236853,Bryhl,woman,no_group,2_23685_26.0_S,0.33741496598639453,1
+28.0,,S,10.5,0,"Parker, Mr. Clifford Richard",0,1168,2,male,0,,SC 14888,Parker,man,no_group,2_SC 1488_10.5_S,0.33741496598639453,0
+40.0,,S,26.0,0,"Faunthorpe, Mr. Harry",0,1169,2,male,1,,2926,Faunthorpe,man,no_group,2_292_26.0_S,0.33741496598639453,0
+30.0,,S,21.0,0,"Ware, Mr. John James",0,1170,2,male,1,,CA 31352,Ware,man,no_group,2_CA 3135_21.0_S,0.33741496598639453,0
+22.0,,S,10.5,0,"Oxenham, Mr. Percy Thomas",0,1171,2,male,0,,W./C. 14260,Oxenham,man,no_group,2_W./C. 1426_10.5_S,0.33741496598639453,0
+23.0,,S,8.6625,0,"Oreskovic, Miss. Jelka",0,1172,3,female,0,,315085,Oreskovic,woman,no_group,3_31508_8.6625_S,0.33741496598639453,1
+0.75,,S,13.775,0,"Peacock, Master. Alfred Edward",1,1173,3,male,1,,SOTON/O.Q. 3101315,Peacock,boy,Peacock_3_SOTON/O.Q. 310131_13.775_S,3_SOTON/O.Q. 310131_13.775_S,0,0
+,,Q,7.75,0,"Fleming, Miss. Honora",0,1174,3,female,0,,364859,Fleming,woman,no_group,3_36485_7.75_Q,0.33741496598639453,1
+9.0,,C,15.2458,0,"Touma, Miss. Maria Youssef",1,1175,3,female,1,,2650,Touma,woman,Touma_3_265_15.2458_C,3_265_15.2458_C,1.0,1
+2.0,,S,20.2125,0,"Rosblom, Miss. Salli Helena",1,1176,3,female,1,,370129,Rosblom,woman,Rosblom_3_37012_20.2125_S,3_37012_20.2125_S,0.0,0
+36.0,,S,7.25,0,"Dennis, Mr. William",0,1177,3,male,0,,A/5 21175,Dennis,man,no_group,3_A/5 2117_7.25_S,0.33741496598639453,0
+,,S,7.25,0,"Franklin, Mr. Charles (Charles Fardon)",0,1178,3,male,0,,SOTON/O.Q. 3101314,Franklin,man,no_group,3_SOTON/O.Q. 310131_7.25_S,0.33741496598639453,0
+24.0,B45,S,82.2667,0,"Snyder, Mr. John Pillsbury",0,1179,1,male,1,,21228,Snyder,man,no_group,1_2122_82.2667_S,0.33741496598639453,0
+,F E46,C,7.2292,0,"Mardirosian, Mr. Sarkis",0,1180,3,male,0,,2655,Mardirosian,man,no_group,3_265_7.2292_C,0.33741496598639453,0
+,,S,8.05,0,"Ford, Mr. Arthur",0,1181,3,male,0,,A/5 1478,Ford,man,no_group,3_A/5 147_8.05_S,0.33741496598639453,0
+,,S,39.6,0,"Rheims, Mr. George Alexander Lucien",0,1182,1,male,0,,PC 17607,Rheims,man,no_group,1_PC 1760_39.6_S,0.33741496598639453,0
+30.0,,Q,6.95,0,"Daly, Miss. Margaret Marcella Maggie""""",0,1183,3,female,0,,382650,Daly,woman,no_group,3_38265_6.95_Q,0.33741496598639453,1
+,,C,7.2292,0,"Nasr, Mr. Mustafa",0,1184,3,male,0,,2652,Nasr,man,no_group,3_265_7.2292_C,0.33741496598639453,0
+53.0,A34,S,81.8583,0,"Dodge, Dr. Washington",1,1185,1,male,1,,33638,Dodge,man,no_group,1_3363_81.8583_S,0.33741496598639453,0
+36.0,,S,9.5,0,"Wittevrongel, Mr. Camille",0,1186,3,male,0,,345771,Wittevrongel,man,no_group,3_34577_9.5_S,0.33741496598639453,0
+26.0,,S,7.8958,0,"Angheloff, Mr. Minko",0,1187,3,male,0,,349202,Angheloff,man,no_group,3_34920_7.8958_S,0.33741496598639453,0
+1.0,,C,41.5792,0,"Laroche, Miss. Louise",2,1188,2,female,1,,SC/Paris 2123,Laroche,woman,Laroche_2_SC/Paris 212_41.5792_C,2_SC/Paris 212_41.5792_C,1.0,1
+,,C,21.6792,0,"Samaan, Mr. Hanna",0,1189,3,male,2,,2662,Samaan,man,no_group,3_266_21.6792_C,0.33741496598639453,0
+30.0,,S,45.5,0,"Loring, Mr. Joseph Holland",0,1190,1,male,0,,113801,Loring,man,no_group,1_11380_45.5_S,0.33741496598639453,0
+29.0,,S,7.8542,0,"Johansson, Mr. Nils",0,1191,3,male,0,,347467,Johansson,man,no_group,3_34746_7.8542_S,0.33741496598639453,0
+32.0,,S,7.775,0,"Olsson, Mr. Oscar Wilhelm",0,1192,3,male,0,,347079,Olsson,man,no_group,3_34707_7.775_S,0.33741496598639453,0
+,D,C,15.0458,0,"Malachard, Mr. Noel",0,1193,2,male,0,,237735,Malachard,man,no_group,2_23773_15.0458_C,0.33741496598639453,0
+43.0,,S,21.0,0,"Phillips, Mr. Escott Robert",1,1194,2,male,0,,S.O./P.P. 2,Phillips,man,no_group,2_S.O./P.P. _21.0_S,0.33741496598639453,0
+24.0,,S,8.6625,0,"Pokrnic, Mr. Tome",0,1195,3,male,0,,315092,Pokrnic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+,,Q,7.75,0,"McCarthy, Miss. Catherine Katie""""",0,1196,3,female,0,,383123,McCarthy,woman,no_group,3_38312_7.75_Q,0.33741496598639453,1
+64.0,B26,S,26.55,0,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",1,1197,1,female,1,,112901,Crosby,woman,no_group,1_11290_26.55_S,0.33741496598639453,1
+30.0,C22 C26,S,151.55,0,"Allison, Mr. Hudson Joshua Creighton",2,1198,1,male,1,,113781,Allison,man,no_group,1_11378_151.55_S,0.33741496598639453,0
+0.83,,S,9.35,0,"Aks, Master. Philip Frank",1,1199,3,male,0,,392091,Aks,boy,Aks_3_39209_9.35_S,3_39209_9.35_S,1.0,1
+55.0,B69,S,93.5,0,"Hays, Mr. Charles Melville",1,1200,1,male,1,,12749,Hays,man,no_group,1_1274_93.5_S,0.33741496598639453,0
+45.0,,S,14.1083,0,"Hansen, Mrs. Claus Peter (Jennie L Howard)",0,1201,3,female,1,,350026,Hansen,woman,no_group,3_35002_14.1083_S,0.33741496598639453,1
+18.0,,S,8.6625,0,"Cacic, Mr. Jego Grga",0,1202,3,male,0,,315091,Cacic,man,no_group,3_31509_8.6625_S,0.33741496598639453,0
+22.0,,C,7.225,0,"Vartanian, Mr. David",0,1203,3,male,0,,2658,Vartanian,man,no_group,3_265_7.225_C,0.33741496598639453,0
+,,S,7.575,0,"Sadowitz, Mr. Harry",0,1204,3,male,0,,LP 1588,Sadowitz,man,no_group,3_LP 158_7.575_S,0.33741496598639453,0
+37.0,,Q,7.75,0,"Carr, Miss. Jeannie",0,1205,3,female,0,,368364,Carr,woman,no_group,3_36836_7.75_Q,0.33741496598639453,1
+55.0,C32,C,135.6333,0,"White, Mrs. John Stuart (Ella Holmes)",0,1206,1,female,0,,PC 17760,White,woman,no_group,1_PC 1776_135.6333_C,0.33741496598639453,1
+17.0,,Q,7.7333,0,"Hagardon, Miss. Kate",0,1207,3,female,0,,AQ/3. 30631,Hagardon,woman,no_group,3_AQ/3. 3063_7.7333_Q,0.33741496598639453,1
+57.0,B78,C,146.5208,0,"Spencer, Mr. William Augustus",0,1208,1,male,1,,PC 17569,Spencer,man,no_group,1_PC 1756_146.5208_C,0.33741496598639453,0
+19.0,,S,10.5,0,"Rogers, Mr. Reginald Harry",0,1209,2,male,0,,28004,Rogers,man,no_group,2_2800_10.5_S,0.33741496598639453,0
+27.0,,S,7.8542,0,"Jonsson, Mr. Nils Hilding",0,1210,3,male,0,,350408,Jonsson,man,no_group,3_35040_7.8542_S,0.33741496598639453,0
+22.0,,S,31.5,0,"Jefferys, Mr. Ernest Wilfred",0,1211,2,male,2,,C.A. 31029,Jefferys,man,no_group,2_C.A. 3102_31.5_S,0.33741496598639453,0
+26.0,,S,7.775,0,"Andersson, Mr. Johan Samuel",0,1212,3,male,0,,347075,Andersson,man,no_group,3_34707_7.775_S,0.33741496598639453,0
+25.0,F E57,C,7.2292,0,"Krekorian, Mr. Neshan",0,1213,3,male,0,,2654,Krekorian,man,no_group,3_265_7.2292_C,0.33741496598639453,0
+26.0,F2,S,13.0,0,"Nesson, Mr. Israel",0,1214,2,male,0,,244368,Nesson,man,no_group,2_24436_13.0_S,0.33741496598639453,0
+33.0,,S,26.55,0,"Rowe, Mr. Alfred G",0,1215,1,male,0,,113790,Rowe,man,no_group,1_11379_26.55_S,0.33741496598639453,0
+39.0,,S,211.3375,0,"Kreuchen, Miss. Emilie",0,1216,1,female,0,,24160,Kreuchen,woman,no_group,1_2416_211.3375_S,0.33741496598639453,1
+23.0,,S,7.05,0,"Assam, Mr. Ali",0,1217,3,male,0,,SOTON/O.Q. 3101309,Assam,man,no_group,3_SOTON/O.Q. 310130_7.05_S,0.33741496598639453,0
+12.0,F4,S,39.0,0,"Becker, Miss. Ruth Elizabeth",1,1218,2,female,2,,230136,Becker,woman,Becker_2_23013_39.0_S,2_23013_39.0_S,1.0,1
+46.0,,C,79.2,0,"Rosenshine, Mr. George (Mr George Thorne"")""",0,1219,1,male,0,,PC 17585,Rosenshine,man,no_group,1_PC 1758_79.2_C,0.33741496598639453,0
+29.0,,S,26.0,0,"Clarke, Mr. Charles Valentine",0,1220,2,male,1,,2003,Clarke,man,no_group,2_200_26.0_S,0.33741496598639453,0
+21.0,,S,13.0,0,"Enander, Mr. Ingvar",0,1221,2,male,0,,236854,Enander,man,no_group,2_23685_13.0_S,0.33741496598639453,0
+48.0,,S,36.75,0,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",2,1222,2,female,0,,C.A. 33112,Davies,woman,Davies_2_C.A. 3311_36.75_S,2_C.A. 3311_36.75_S,1.0,1
+39.0,A18,C,29.7,0,"Dulles, Mr. William Crothers",0,1223,1,male,0,,PC 17580,Dulles,man,no_group,1_PC 1758_29.7_C,0.33741496598639453,0
+,,C,7.225,0,"Thomas, Mr. Tannous",0,1224,3,male,0,,2684,Thomas,man,no_group,3_268_7.225_C,0.33741496598639453,0
+19.0,,C,15.7417,0,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1,1225,3,female,1,,2653,Nakid,woman,Nakid_3_265_15.7417_C,3_265_15.7417_C,1.0,1
+27.0,,S,7.8958,0,"Cor, Mr. Ivan",0,1226,3,male,0,,349229,Cor,man,no_group,3_34922_7.8958_S,0.33741496598639453,0
+30.0,C106,S,26.0,0,"Maguire, Mr. John Edward",0,1227,1,male,0,,110469,Maguire,man,no_group,1_11046_26.0_S,0.33741496598639453,0
+32.0,,S,13.0,0,"de Brito, Mr. Jose Joaquim",0,1228,2,male,0,,244360,de Brito,man,no_group,2_24436_13.0_S,0.33741496598639453,0
+39.0,,C,7.2292,0,"Elias, Mr. Joseph",2,1229,3,male,0,,2675,Elias,man,no_group,3_267_7.2292_C,0.33741496598639453,0
+25.0,,S,31.5,0,"Denbury, Mr. Herbert",0,1230,2,male,0,,C.A. 31029,Denbury,man,no_group,2_C.A. 3102_31.5_S,0.33741496598639453,0
+,,C,7.2292,0,"Betros, Master. Seman",0,1231,3,male,0,,2622,Betros,boy,no_group,3_262_7.2292_C,0.33741496598639453,0
+18.0,,S,10.5,0,"Fillbrook, Mr. Joseph Charles",0,1232,2,male,0,,C.A. 15185,Fillbrook,man,no_group,2_C.A. 1518_10.5_S,0.33741496598639453,0
+32.0,,S,7.5792,0,"Lundstrom, Mr. Thure Edvin",0,1233,3,male,0,,350403,Lundstrom,man,no_group,3_35040_7.5792_S,0.33741496598639453,0
+,,S,69.55,0,"Sage, Mr. John George",9,1234,3,male,1,,CA. 2343,Sage,man,no_group,3_CA. 234_69.55_S,0.33741496598639453,0
+58.0,B51 B53 B55,C,512.3292,0,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1,1235,1,female,0,,PC 17755,Cardeza,woman,no_group,1_PC 1775_512.3292_C,0.33741496598639453,1
+,,S,14.5,0,"van Billiard, Master. James William",1,1236,3,male,1,,A/5. 851,van Billiard,boy,van Billiard_3_A/5. 85_14.5_S,3_A/5. 85_14.5_S,0,0
+16.0,,S,7.65,0,"Abelseth, Miss. Karen Marie",0,1237,3,female,0,,348125,Abelseth,woman,no_group,3_34812_7.65_S,0.33741496598639453,1
+26.0,,S,13.0,0,"Botsford, Mr. William Hull",0,1238,2,male,0,,237670,Botsford,man,no_group,2_23767_13.0_S,0.33741496598639453,0
+38.0,,C,7.2292,0,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",0,1239,3,female,0,,2688,Whabee,woman,no_group,3_268_7.2292_C,0.33741496598639453,1
+24.0,,S,13.5,0,"Giles, Mr. Ralph",0,1240,2,male,0,,248726,Giles,man,no_group,2_24872_13.5_S,0.33741496598639453,0
+31.0,,S,21.0,0,"Walcroft, Miss. Nellie",0,1241,2,female,0,,F.C.C. 13528,Walcroft,woman,no_group,2_F.C.C. 1352_21.0_S,0.33741496598639453,1
+45.0,D10 D12,C,63.3583,0,"Greenfield, Mrs. Leo David (Blanche Strouse)",1,1242,1,female,0,,PC 17759,Greenfield,woman,no_group,1_PC 1775_63.3583_C,0.33741496598639453,1
+25.0,,S,10.5,0,"Stokes, Mr. Philip Joseph",0,1243,2,male,0,,F.C.C. 13540,Stokes,man,no_group,2_F.C.C. 1354_10.5_S,0.33741496598639453,0
+18.0,,S,73.5,0,"Dibden, Mr. William",0,1244,2,male,0,,S.O.C. 14879,Dibden,man,no_group,2_S.O.C. 1487_73.5_S,0.33741496598639453,0
+49.0,,S,65.0,0,"Herman, Mr. Samuel",2,1245,2,male,1,,220845,Herman,man,no_group,2_22084_65.0_S,0.33741496598639453,0
+0.17,,S,20.575,0,"Dean, Miss. Elizabeth Gladys Millvina""""",2,1246,3,female,1,,C.A. 2315,Dean,woman,Dean_3_C.A. 231_20.575_S,3_C.A. 231_20.575_S,1.0,1
+50.0,E60,S,26.0,0,"Julian, Mr. Henry Forbes",0,1247,1,male,0,,113044,Julian,man,no_group,1_11304_26.0_S,0.33741496598639453,0
+59.0,C101,S,51.4792,0,"Brown, Mrs. John Murray (Caroline Lane Lamson)",0,1248,1,female,2,,11769,Brown,woman,no_group,1_1176_51.4792_S,0.33741496598639453,1
+,,S,7.8792,0,"Lockyer, Mr. Edward",0,1249,3,male,0,,1222,Lockyer,man,no_group,3_122_7.8792_S,0.33741496598639453,0
+,,Q,7.75,0,"O'Keefe, Mr. Patrick",0,1250,3,male,0,,368402,O'Keefe,man,no_group,3_36840_7.75_Q,0.33741496598639453,0
+30.0,,S,15.55,0,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",0,1251,3,female,1,,349910,Lindell,woman,no_group,3_34991_15.55_S,0.33741496598639453,1
+14.5,,S,69.55,0,"Sage, Master. William Henry",2,1252,3,male,8,,CA. 2343,Sage,boy,Sage_3_CA. 234_69.55_S,3_CA. 234_69.55_S,0.0,0
+24.0,,C,37.0042,0,"Mallet, Mrs. Albert (Antoinette Magnin)",1,1253,2,female,1,,S.C./PARIS 2079,Mallet,woman,Mallet_2_S.C./PARIS 207_37.0042_C,2_S.C./PARIS 207_37.0042_C,1.0,1
+31.0,,S,21.0,0,"Ware, Mrs. John James (Florence Louise Long)",0,1254,2,female,0,,CA 31352,Ware,woman,no_group,2_CA 3135_21.0_S,0.33741496598639453,1
+27.0,,S,8.6625,0,"Strilic, Mr. Ivan",0,1255,3,male,0,,315083,Strilic,man,no_group,3_31508_8.6625_S,0.33741496598639453,0
+25.0,E50,C,55.4417,0,"Harder, Mrs. George Achilles (Dorothy Annan)",0,1256,1,female,1,,11765,Harder,woman,no_group,1_1176_55.4417_C,0.33741496598639453,1
+,,S,69.55,0,"Sage, Mrs. John (Annie Bullen)",9,1257,3,female,1,,CA. 2343,Sage,woman,Sage_3_CA. 234_69.55_S,3_CA. 234_69.55_S,0.0,0
+,,C,14.4583,0,"Caram, Mr. Joseph",0,1258,3,male,1,,2689,Caram,man,no_group,3_268_14.4583_C,0.33741496598639453,0
+22.0,,S,39.6875,0,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",0,1259,3,female,0,,3101295,Riihivouri,woman,Panula_3_310129_39.6875_S,3_310129_39.6875_S,0.0,0
+45.0,,C,59.4,0,"Gibson, Mrs. Leonard (Pauline C Boeson)",1,1260,1,female,0,,112378,Gibson,woman,Gibson_1_11237_59.4_C,1_11237_59.4_C,1,1
+29.0,,C,13.8583,0,"Pallas y Castello, Mr. Emilio",0,1261,2,male,0,,SC/PARIS 2147,Pallas y Castello,man,no_group,2_SC/PARIS 214_13.8583_C,0.33741496598639453,0
+21.0,,S,11.5,0,"Giles, Mr. Edgar",0,1262,2,male,1,,28133,Giles,man,no_group,2_2813_11.5_S,0.33741496598639453,0
+31.0,E39 E41,C,134.5,0,"Wilson, Miss. Helen Alice",0,1263,1,female,0,,16966,Wilson,woman,Spedden_1_1696_134.5_C,1_1696_134.5_C,1.0,1
+49.0,B52 B54 B56,S,0.0,0,"Ismay, Mr. Joseph Bruce",0,1264,1,male,0,,112058,Ismay,man,no_group,1_11205_0.0_S,0.33741496598639453,0
+44.0,,S,13.0,0,"Harbeck, Mr. William H",0,1265,2,male,0,,248746,Harbeck,man,no_group,2_24874_13.0_S,0.33741496598639453,0
+54.0,A34,S,81.8583,0,"Dodge, Mrs. Washington (Ruth Vidaver)",1,1266,1,female,1,,33638,Dodge,woman,Dodge_1_3363_81.8583_S,1_3363_81.8583_S,1.0,1
+45.0,,C,262.375,0,"Bowen, Miss. Grace Scott",0,1267,1,female,0,,PC 17608,Bowen,woman,Ryerson_1_PC 1760_262.375_C,1_PC 1760_262.375_C,1.0,1
+22.0,,S,8.6625,0,"Kink, Miss. Maria",0,1268,3,female,2,,315152,Kink,woman,no_group,3_31515_8.6625_S,0.33741496598639453,1
+21.0,,S,11.5,0,"Cotterill, Mr. Henry Harry""""",0,1269,2,male,0,,29107,Cotterill,man,no_group,2_2910_11.5_S,0.33741496598639453,0
+55.0,C39,S,50.0,0,"Hipkins, Mr. William Edward",0,1270,1,male,0,,680,Hipkins,man,no_group,1_68_50.0_S,0.33741496598639453,0
+5.0,,S,31.3875,0,"Asplund, Master. Carl Edgar",2,1271,3,male,4,,347077,Asplund,boy,Asplund_3_34707_31.3875_S,3_34707_31.3875_S,0.75,0
+,,Q,7.75,0,"O'Connor, Mr. Patrick",0,1272,3,male,0,,366713,O'Connor,man,no_group,3_36671_7.75_Q,0.33741496598639453,0
+26.0,,Q,7.8792,0,"Foley, Mr. Joseph",0,1273,3,male,0,,330910,Foley,man,no_group,3_33091_7.8792_Q,0.33741496598639453,0
+,,S,14.5,0,"Risien, Mrs. Samuel (Emma)",0,1274,3,female,0,,364498,Risien,woman,no_group,3_36449_14.5_S,0.33741496598639453,1
+19.0,,S,16.1,0,"McNamee, Mrs. Neal (Eileen O'Leary)",0,1275,3,female,1,,376566,McNamee,woman,no_group,3_37656_16.1_S,0.33741496598639453,1
+,,S,12.875,0,"Wheeler, Mr. Edwin Frederick""""",0,1276,2,male,0,,SC/PARIS 2159,Wheeler,man,no_group,2_SC/PARIS 215_12.875_S,0.33741496598639453,0
+24.0,,S,65.0,0,"Herman, Miss. Kate",2,1277,2,female,1,,220845,Herman,woman,Herman_2_22084_65.0_S,2_22084_65.0_S,1.0,1
+24.0,,S,7.775,0,"Aronsson, Mr. Ernst Axel Algot",0,1278,3,male,0,,349911,Aronsson,man,no_group,3_34991_7.775_S,0.33741496598639453,0
+57.0,,S,13.0,0,"Ashby, Mr. John",0,1279,2,male,0,,244346,Ashby,man,no_group,2_24434_13.0_S,0.33741496598639453,0
+21.0,,Q,7.75,0,"Canavan, Mr. Patrick",0,1280,3,male,0,,364858,Canavan,man,no_group,3_36485_7.75_Q,0.33741496598639453,0
+6.0,,S,21.075,0,"Palsson, Master. Paul Folke",1,1281,3,male,3,,349909,Palsson,boy,Palsson_3_34990_21.075_S,3_34990_21.075_S,0.0,0
+23.0,B24,S,93.5,0,"Payne, Mr. Vivian Ponsonby",0,1282,1,male,0,,12749,Payne,man,no_group,1_1274_93.5_S,0.33741496598639453,0
+51.0,D28,S,39.4,0,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1,1283,1,female,0,,PC 17592,Lines,woman,Lines_1_PC 1759_39.4_S,1_PC 1759_39.4_S,1.0,1
+13.0,,S,20.25,0,"Abbott, Master. Eugene Joseph",2,1284,3,male,0,,C.A. 2673,Abbott,boy,Abbott_3_C.A. 267_20.25_S,3_C.A. 267_20.25_S,1.0,1
+47.0,,S,10.5,0,"Gilbert, Mr. William",0,1285,2,male,0,,C.A. 30769,Gilbert,man,no_group,2_C.A. 3076_10.5_S,0.33741496598639453,0
+29.0,,S,22.025,0,"Kink-Heilmann, Mr. Anton",1,1286,3,male,3,,315153,Kink-Heilmann,man,no_group,3_31515_22.025_S,0.33741496598639453,0
+18.0,C31,S,60.0,0,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",0,1287,1,female,1,,13695,Smith,woman,no_group,1_1369_60.0_S,0.33741496598639453,1
+24.0,,Q,7.25,0,"Colbert, Mr. Patrick",0,1288,3,male,0,,371109,Colbert,man,no_group,3_37110_7.25_Q,0.33741496598639453,0
+48.0,B41,C,79.2,0,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1,1289,1,female,1,,13567,Frolicher-Stehli,woman,no_group,1_1356_79.2_C,0.33741496598639453,1
+22.0,,S,7.775,0,"Larsson-Rondberg, Mr. Edvard A",0,1290,3,male,0,,347065,Larsson-Rondberg,man,no_group,3_34706_7.775_S,0.33741496598639453,0
+31.0,,Q,7.7333,0,"Conlon, Mr. Thomas Henry",0,1291,3,male,0,,21332,Conlon,man,no_group,3_2133_7.7333_Q,0.33741496598639453,0
+30.0,C7,S,164.8667,0,"Bonnell, Miss. Caroline",0,1292,1,female,0,,36928,Bonnell,woman,Wick_1_3692_164.8667_S,1_3692_164.8667_S,1.0,1
+38.0,,S,21.0,0,"Gale, Mr. Harry",0,1293,2,male,1,,28664,Gale,man,no_group,2_2866_21.0_S,0.33741496598639453,0
+22.0,,C,59.4,0,"Gibson, Miss. Dorothy Winifred",1,1294,1,female,0,,112378,Gibson,woman,Gibson_1_11237_59.4_C,1_11237_59.4_C,1,1
+17.0,,S,47.1,0,"Carrau, Mr. Jose Pedro",0,1295,1,male,0,,113059,Carrau,man,no_group,1_11305_47.1_S,0.33741496598639453,0
+43.0,D40,C,27.7208,0,"Frauenthal, Mr. Isaac Gerald",0,1296,1,male,1,,17765,Frauenthal,man,no_group,1_1776_27.7208_C,0.33741496598639453,0
+20.0,D38,C,13.8625,0,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",0,1297,2,male,0,,SC/PARIS 2166,Nourney,man,no_group,2_SC/PARIS 216_13.8625_C,0.33741496598639453,0
+23.0,,S,10.5,0,"Ware, Mr. William Jeffery",0,1298,2,male,1,,28666,Ware,man,no_group,2_2866_10.5_S,0.33741496598639453,0
+50.0,C80,C,211.5,0,"Widener, Mr. George Dunton",1,1299,1,male,1,,113503,Widener,man,no_group,1_11350_211.5_C,0.33741496598639453,0
+,,Q,7.7208,0,"Riordan, Miss. Johanna Hannah""""",0,1300,3,female,0,,334915,Riordan,woman,no_group,3_33491_7.7208_Q,0.33741496598639453,1
+3.0,,S,13.775,0,"Peacock, Miss. Treasteall",1,1301,3,female,1,,SOTON/O.Q. 3101315,Peacock,woman,Peacock_3_SOTON/O.Q. 310131_13.775_S,3_SOTON/O.Q. 310131_13.775_S,0,0
+,,Q,7.75,0,"Naughton, Miss. Hannah",0,1302,3,female,0,,365237,Naughton,woman,no_group,3_36523_7.75_Q,0.33741496598639453,1
+37.0,C78,Q,90.0,0,"Minahan, Mrs. William Edward (Lillian E Thorpe)",0,1303,1,female,1,,19928,Minahan,woman,Minahan_1_1992_90.0_Q,1_1992_90.0_Q,1.0,1
+28.0,,S,7.775,0,"Henriksson, Miss. Jenny Lovisa",0,1304,3,female,0,,347086,Henriksson,woman,no_group,3_34708_7.775_S,0.33741496598639453,1
+,,S,8.05,0,"Spector, Mr. Woolf",0,1305,3,male,0,,A.5. 3236,Spector,man,no_group,3_A.5. 323_8.05_S,0.33741496598639453,0
+39.0,C105,C,108.9,0,"Oliva y Ocana, Dona. Fermina",0,1306,1,female,0,,PC 17758,Oliva y Ocana,woman,no_group,1_PC 1775_108.9_C,0.33741496598639453,1
+38.5,,S,7.25,0,"Saether, Mr. Simon Sivertsen",0,1307,3,male,0,,SOTON/O.Q. 3101262,Saether,man,no_group,3_SOTON/O.Q. 310126_7.25_S,0.33741496598639453,0
+,,S,8.05,0,"Ware, Mr. Frederick",0,1308,3,male,0,,359309,Ware,man,no_group,3_35930_8.05_S,0.33741496598639453,0
+,,C,22.3583,0,"Peter, Master. Michael J",1,1309,3,male,1,,2668,Peter,boy,Peter_3_266_22.3583_C,3_266_22.3583_C,1.0,1
